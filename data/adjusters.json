@@ -1,0 +1,152 @@
+[
+  {
+    "adjuster_id": "ADJ-0001",
+    "full_name": "Meera Das",
+    "specialty": "PROPERTY"
+  },
+  {
+    "adjuster_id": "ADJ-0002",
+    "full_name": "Sana Kumar",
+    "specialty": "LIFE"
+  },
+  {
+    "adjuster_id": "ADJ-0003",
+    "full_name": "Neha Das",
+    "specialty": "TRAVEL"
+  },
+  {
+    "adjuster_id": "ADJ-0004",
+    "full_name": "Vikram Kumar",
+    "specialty": "TRAVEL"
+  },
+  {
+    "adjuster_id": "ADJ-0005",
+    "full_name": "Meera Patel",
+    "specialty": "AUTO"
+  },
+  {
+    "adjuster_id": "ADJ-0006",
+    "full_name": "Vikram Sharma",
+    "specialty": "TRAVEL"
+  },
+  {
+    "adjuster_id": "ADJ-0007",
+    "full_name": "Ananya Khan",
+    "specialty": "AUTO"
+  },
+  {
+    "adjuster_id": "ADJ-0008",
+    "full_name": "Meera Sharma",
+    "specialty": "PROPERTY"
+  },
+  {
+    "adjuster_id": "ADJ-0009",
+    "full_name": "Meera Rao",
+    "specialty": "LIFE"
+  },
+  {
+    "adjuster_id": "ADJ-0010",
+    "full_name": "Ananya Iyer",
+    "specialty": "AUTO"
+  },
+  {
+    "adjuster_id": "ADJ-0011",
+    "full_name": "Priya Iyer",
+    "specialty": "HEALTH"
+  },
+  {
+    "adjuster_id": "ADJ-0012",
+    "full_name": "Sana Iyer",
+    "specialty": "HEALTH"
+  },
+  {
+    "adjuster_id": "ADJ-0013",
+    "full_name": "Priya Kumar",
+    "specialty": "AUTO"
+  },
+  {
+    "adjuster_id": "ADJ-0014",
+    "full_name": "Kiran Gupta",
+    "specialty": "LIFE"
+  },
+  {
+    "adjuster_id": "ADJ-0015",
+    "full_name": "Meera Sharma",
+    "specialty": "TRAVEL"
+  },
+  {
+    "adjuster_id": "ADJ-0016",
+    "full_name": "Ananya Das",
+    "specialty": "LIFE"
+  },
+  {
+    "adjuster_id": "ADJ-0017",
+    "full_name": "Ananya Kumar",
+    "specialty": "LIFE"
+  },
+  {
+    "adjuster_id": "ADJ-0018",
+    "full_name": "Aarav Rao",
+    "specialty": "PROPERTY"
+  },
+  {
+    "adjuster_id": "ADJ-0019",
+    "full_name": "Arjun Reddy",
+    "specialty": "LIFE"
+  },
+  {
+    "adjuster_id": "ADJ-0020",
+    "full_name": "Ravi Rao",
+    "specialty": "TRAVEL"
+  },
+  {
+    "adjuster_id": "ADJ-0021",
+    "full_name": "Priya Patel",
+    "specialty": "AUTO"
+  },
+  {
+    "adjuster_id": "ADJ-0022",
+    "full_name": "Aarav Singh",
+    "specialty": "LIFE"
+  },
+  {
+    "adjuster_id": "ADJ-0023",
+    "full_name": "Meera Patel",
+    "specialty": "HEALTH"
+  },
+  {
+    "adjuster_id": "ADJ-0024",
+    "full_name": "Neha Das",
+    "specialty": "AUTO"
+  },
+  {
+    "adjuster_id": "ADJ-0025",
+    "full_name": "Aarav Gupta",
+    "specialty": "HEALTH"
+  },
+  {
+    "adjuster_id": "ADJ-0026",
+    "full_name": "Ananya Das",
+    "specialty": "AUTO"
+  },
+  {
+    "adjuster_id": "ADJ-0027",
+    "full_name": "Meera Gupta",
+    "specialty": "HEALTH"
+  },
+  {
+    "adjuster_id": "ADJ-0028",
+    "full_name": "Ananya Rao",
+    "specialty": "PROPERTY"
+  },
+  {
+    "adjuster_id": "ADJ-0029",
+    "full_name": "Ananya Gupta",
+    "specialty": "TRAVEL"
+  },
+  {
+    "adjuster_id": "ADJ-0030",
+    "full_name": "Ananya Gupta",
+    "specialty": "TRAVEL"
+  }
+]

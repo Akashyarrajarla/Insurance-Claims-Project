@@ -1,0 +1,7002 @@
+[
+  {
+    "reserve_id": "RSV-000001",
+    "claim_id": "CLM-000001",
+    "reserve_amount": 53716,
+    "created_date": "2025-01-27",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000002",
+    "claim_id": "CLM-000002",
+    "reserve_amount": 82114,
+    "created_date": "2025-02-28",
+    "released": false
+  },
+  {
+    "reserve_id": "RSV-000003",
+    "claim_id": "CLM-000003",
+    "reserve_amount": 184408,
+    "created_date": "2025-11-15",
+    "released": false
+  },
+  {
+    "reserve_id": "RSV-000004",
+    "claim_id": "CLM-000004",
+    "reserve_amount": 178720,
+    "created_date": "2026-03-15",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000005",
+    "claim_id": "CLM-000005",
+    "reserve_amount": 1000000,
+    "created_date": "2026-04-08",
+    "released": false
+  },
+  {
+    "reserve_id": "RSV-000006",
+    "claim_id": "CLM-000006",
+    "reserve_amount": 47464,
+    "created_date": "2025-06-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000007",
+    "claim_id": "CLM-000007",
+    "reserve_amount": 72368,
+    "created_date": "2025-01-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000008",
+    "claim_id": "CLM-000008",
+    "reserve_amount": 31040,
+    "created_date": "2025-04-15",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000009",
+    "claim_id": "CLM-000009",
+    "reserve_amount": 192254,
+    "created_date": "2026-08-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000010",
+    "claim_id": "CLM-000010",
+    "reserve_amount": 100176,
+    "created_date": "2026-06-02",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000011",
+    "claim_id": "CLM-000011",
+    "reserve_amount": 30507,
+    "created_date": "2025-02-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000012",
+    "claim_id": "CLM-000012",
+    "reserve_amount": 19628,
+    "created_date": "2025-05-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000013",
+    "claim_id": "CLM-000013",
+    "reserve_amount": 97964,
+    "created_date": "2026-06-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000014",
+    "claim_id": "CLM-000014",
+    "reserve_amount": 88473,
+    "created_date": "2026-06-02",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000015",
+    "claim_id": "CLM-000015",
+    "reserve_amount": 159073,
+    "created_date": "2026-05-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000016",
+    "claim_id": "CLM-000016",
+    "reserve_amount": 143864,
+    "created_date": "2025-01-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000017",
+    "claim_id": "CLM-000017",
+    "reserve_amount": 62866,
+    "created_date": "2025-02-01",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000018",
+    "claim_id": "CLM-000018",
+    "reserve_amount": 43237,
+    "created_date": "2025-06-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000019",
+    "claim_id": "CLM-000019",
+    "reserve_amount": 126682,
+    "created_date": "2026-08-26",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000020",
+    "claim_id": "CLM-000020",
+    "reserve_amount": 131803,
+    "created_date": "2025-04-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000021",
+    "claim_id": "CLM-000021",
+    "reserve_amount": 98460,
+    "created_date": "2026-08-12",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000022",
+    "claim_id": "CLM-000022",
+    "reserve_amount": 141549,
+    "created_date": "2025-09-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000023",
+    "claim_id": "CLM-000023",
+    "reserve_amount": 83179,
+    "created_date": "2026-07-31",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000024",
+    "claim_id": "CLM-000024",
+    "reserve_amount": 142838,
+    "created_date": "2026-09-21",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000025",
+    "claim_id": "CLM-000025",
+    "reserve_amount": 194055,
+    "created_date": "2025-06-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000026",
+    "claim_id": "CLM-000026",
+    "reserve_amount": 94522,
+    "created_date": "2025-06-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000027",
+    "claim_id": "CLM-000027",
+    "reserve_amount": 59036,
+    "created_date": "2026-09-26",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000028",
+    "claim_id": "CLM-000028",
+    "reserve_amount": 38626,
+    "created_date": "2025-11-10",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000029",
+    "claim_id": "CLM-000029",
+    "reserve_amount": 166719,
+    "created_date": "2025-03-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000030",
+    "claim_id": "CLM-000030",
+    "reserve_amount": 91623,
+    "created_date": "2026-08-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000031",
+    "claim_id": "CLM-000031",
+    "reserve_amount": 55863,
+    "created_date": "2025-02-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000032",
+    "claim_id": "CLM-000032",
+    "reserve_amount": 109929,
+    "created_date": "2025-03-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000033",
+    "claim_id": "CLM-000033",
+    "reserve_amount": 175515,
+    "created_date": "2025-02-21",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000034",
+    "claim_id": "CLM-000034",
+    "reserve_amount": 157196,
+    "created_date": "2025-07-18",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000035",
+    "claim_id": "CLM-000035",
+    "reserve_amount": 36721,
+    "created_date": "2026-10-02",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000036",
+    "claim_id": "CLM-000036",
+    "reserve_amount": 125612,
+    "created_date": "2025-02-17",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000037",
+    "claim_id": "CLM-000037",
+    "reserve_amount": 85238,
+    "created_date": "2026-05-16",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000038",
+    "claim_id": "CLM-000038",
+    "reserve_amount": 143285,
+    "created_date": "2026-04-01",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000039",
+    "claim_id": "CLM-000039",
+    "reserve_amount": 100000,
+    "created_date": "2026-09-10",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000040",
+    "claim_id": "CLM-000040",
+    "reserve_amount": 19689,
+    "created_date": "2026-09-10",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000041",
+    "claim_id": "CLM-000041",
+    "reserve_amount": 100000,
+    "created_date": "2026-03-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000042",
+    "claim_id": "CLM-000042",
+    "reserve_amount": 127769,
+    "created_date": "2026-08-30",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000043",
+    "claim_id": "CLM-000043",
+    "reserve_amount": 136843,
+    "created_date": "2025-08-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000044",
+    "claim_id": "CLM-000044",
+    "reserve_amount": 156957,
+    "created_date": "2025-02-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000045",
+    "claim_id": "CLM-000045",
+    "reserve_amount": 171300,
+    "created_date": "2025-02-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000046",
+    "claim_id": "CLM-000046",
+    "reserve_amount": 90328,
+    "created_date": "2025-03-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000047",
+    "claim_id": "CLM-000047",
+    "reserve_amount": 87449,
+    "created_date": "2026-06-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000048",
+    "claim_id": "CLM-000048",
+    "reserve_amount": 69934,
+    "created_date": "2025-01-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000049",
+    "claim_id": "CLM-000049",
+    "reserve_amount": 80488,
+    "created_date": "2026-09-12",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000050",
+    "claim_id": "CLM-000050",
+    "reserve_amount": 194476,
+    "created_date": "2025-11-18",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000051",
+    "claim_id": "CLM-000051",
+    "reserve_amount": 114174,
+    "created_date": "2025-07-21",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000052",
+    "claim_id": "CLM-000052",
+    "reserve_amount": 191323,
+    "created_date": "2026-08-28",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000053",
+    "claim_id": "CLM-000053",
+    "reserve_amount": 45113,
+    "created_date": "2025-05-27",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000054",
+    "claim_id": "CLM-000054",
+    "reserve_amount": 175127,
+    "created_date": "2026-07-09",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000055",
+    "claim_id": "CLM-000055",
+    "reserve_amount": 100000,
+    "created_date": "2026-06-20",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000056",
+    "claim_id": "CLM-000056",
+    "reserve_amount": 92895,
+    "created_date": "2025-11-15",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000057",
+    "claim_id": "CLM-000057",
+    "reserve_amount": 44654,
+    "created_date": "2025-09-03",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000058",
+    "claim_id": "CLM-000058",
+    "reserve_amount": 123695,
+    "created_date": "2026-09-16",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000059",
+    "claim_id": "CLM-000059",
+    "reserve_amount": 92207,
+    "created_date": "2025-05-29",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000060",
+    "claim_id": "CLM-000060",
+    "reserve_amount": 83183,
+    "created_date": "2026-03-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000061",
+    "claim_id": "CLM-000061",
+    "reserve_amount": 61463,
+    "created_date": "2025-02-13",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000062",
+    "claim_id": "CLM-000062",
+    "reserve_amount": 22457,
+    "created_date": "2025-05-17",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000063",
+    "claim_id": "CLM-000063",
+    "reserve_amount": 169607,
+    "created_date": "2026-02-16",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000064",
+    "claim_id": "CLM-000064",
+    "reserve_amount": 120789,
+    "created_date": "2025-05-16",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000065",
+    "claim_id": "CLM-000065",
+    "reserve_amount": 195223,
+    "created_date": "2025-05-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000066",
+    "claim_id": "CLM-000066",
+    "reserve_amount": 184361,
+    "created_date": "2026-09-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000067",
+    "claim_id": "CLM-000067",
+    "reserve_amount": 54153,
+    "created_date": "2026-06-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000068",
+    "claim_id": "CLM-000068",
+    "reserve_amount": 137283,
+    "created_date": "2025-12-10",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000069",
+    "claim_id": "CLM-000069",
+    "reserve_amount": 19490,
+    "created_date": "2025-03-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000070",
+    "claim_id": "CLM-000070",
+    "reserve_amount": 96191,
+    "created_date": "2025-05-20",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000071",
+    "claim_id": "CLM-000071",
+    "reserve_amount": 100000,
+    "created_date": "2025-05-17",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000072",
+    "claim_id": "CLM-000072",
+    "reserve_amount": 177064,
+    "created_date": "2025-08-17",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000073",
+    "claim_id": "CLM-000073",
+    "reserve_amount": 164456,
+    "created_date": "2026-07-29",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000074",
+    "claim_id": "CLM-000074",
+    "reserve_amount": 119192,
+    "created_date": "2026-08-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000075",
+    "claim_id": "CLM-000075",
+    "reserve_amount": 41044,
+    "created_date": "2026-08-29",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000076",
+    "claim_id": "CLM-000076",
+    "reserve_amount": 100000,
+    "created_date": "2026-07-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000077",
+    "claim_id": "CLM-000077",
+    "reserve_amount": 59590,
+    "created_date": "2025-04-21",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000078",
+    "claim_id": "CLM-000078",
+    "reserve_amount": 94146,
+    "created_date": "2026-03-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000079",
+    "claim_id": "CLM-000079",
+    "reserve_amount": 44176,
+    "created_date": "2025-05-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000080",
+    "claim_id": "CLM-000080",
+    "reserve_amount": 77161,
+    "created_date": "2025-10-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000081",
+    "claim_id": "CLM-000081",
+    "reserve_amount": 151747,
+    "created_date": "2026-02-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000082",
+    "claim_id": "CLM-000082",
+    "reserve_amount": 90372,
+    "created_date": "2026-03-10",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000083",
+    "claim_id": "CLM-000083",
+    "reserve_amount": 94518,
+    "created_date": "2025-02-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000084",
+    "claim_id": "CLM-000084",
+    "reserve_amount": 98279,
+    "created_date": "2026-04-12",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000085",
+    "claim_id": "CLM-000085",
+    "reserve_amount": 78593,
+    "created_date": "2026-08-18",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000086",
+    "claim_id": "CLM-000086",
+    "reserve_amount": 77369,
+    "created_date": "2025-11-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000087",
+    "claim_id": "CLM-000087",
+    "reserve_amount": 27275,
+    "created_date": "2026-09-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000088",
+    "claim_id": "CLM-000088",
+    "reserve_amount": 117470,
+    "created_date": "2026-10-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000089",
+    "claim_id": "CLM-000089",
+    "reserve_amount": 133226,
+    "created_date": "2025-02-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000090",
+    "claim_id": "CLM-000090",
+    "reserve_amount": 154687,
+    "created_date": "2026-06-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000091",
+    "claim_id": "CLM-000091",
+    "reserve_amount": 40659,
+    "created_date": "2025-03-28",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000092",
+    "claim_id": "CLM-000092",
+    "reserve_amount": 190034,
+    "created_date": "2026-03-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000093",
+    "claim_id": "CLM-000093",
+    "reserve_amount": 56831,
+    "created_date": "2025-07-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000094",
+    "claim_id": "CLM-000094",
+    "reserve_amount": 102279,
+    "created_date": "2025-02-05",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000095",
+    "claim_id": "CLM-000095",
+    "reserve_amount": 25953,
+    "created_date": "2025-04-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000096",
+    "claim_id": "CLM-000096",
+    "reserve_amount": 100000,
+    "created_date": "2025-04-30",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000097",
+    "claim_id": "CLM-000097",
+    "reserve_amount": 100000,
+    "created_date": "2025-02-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000098",
+    "claim_id": "CLM-000098",
+    "reserve_amount": 100000,
+    "created_date": "2026-06-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000099",
+    "claim_id": "CLM-000099",
+    "reserve_amount": 90607,
+    "created_date": "2025-11-20",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000100",
+    "claim_id": "CLM-000100",
+    "reserve_amount": 176987,
+    "created_date": "2026-08-29",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000101",
+    "claim_id": "CLM-000101",
+    "reserve_amount": 163914,
+    "created_date": "2025-05-29",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000102",
+    "claim_id": "CLM-000102",
+    "reserve_amount": 51854,
+    "created_date": "2025-12-31",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000103",
+    "claim_id": "CLM-000103",
+    "reserve_amount": 29771,
+    "created_date": "2025-08-16",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000104",
+    "claim_id": "CLM-000104",
+    "reserve_amount": 169424,
+    "created_date": "2025-03-10",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000105",
+    "claim_id": "CLM-000105",
+    "reserve_amount": 100000,
+    "created_date": "2026-06-15",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000106",
+    "claim_id": "CLM-000106",
+    "reserve_amount": 31171,
+    "created_date": "2026-07-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000107",
+    "claim_id": "CLM-000107",
+    "reserve_amount": 173958,
+    "created_date": "2026-02-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000108",
+    "claim_id": "CLM-000108",
+    "reserve_amount": 133449,
+    "created_date": "2026-08-31",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000109",
+    "claim_id": "CLM-000109",
+    "reserve_amount": 127616,
+    "created_date": "2026-02-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000110",
+    "claim_id": "CLM-000110",
+    "reserve_amount": 100000,
+    "created_date": "2025-12-03",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000111",
+    "claim_id": "CLM-000111",
+    "reserve_amount": 165280,
+    "created_date": "2025-06-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000112",
+    "claim_id": "CLM-000112",
+    "reserve_amount": 102421,
+    "created_date": "2025-01-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000113",
+    "claim_id": "CLM-000113",
+    "reserve_amount": 49724,
+    "created_date": "2025-03-16",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000114",
+    "claim_id": "CLM-000114",
+    "reserve_amount": 22026,
+    "created_date": "2026-08-05",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000115",
+    "claim_id": "CLM-000115",
+    "reserve_amount": 38261,
+    "created_date": "2026-06-28",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000116",
+    "claim_id": "CLM-000116",
+    "reserve_amount": 133820,
+    "created_date": "2025-07-15",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000117",
+    "claim_id": "CLM-000117",
+    "reserve_amount": 76326,
+    "created_date": "2025-07-18",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000118",
+    "claim_id": "CLM-000118",
+    "reserve_amount": 44008,
+    "created_date": "2025-04-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000119",
+    "claim_id": "CLM-000119",
+    "reserve_amount": 182505,
+    "created_date": "2026-02-13",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000120",
+    "claim_id": "CLM-000120",
+    "reserve_amount": 59086,
+    "created_date": "2025-03-12",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000121",
+    "claim_id": "CLM-000121",
+    "reserve_amount": 100000,
+    "created_date": "2025-01-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000122",
+    "claim_id": "CLM-000122",
+    "reserve_amount": 144598,
+    "created_date": "2025-06-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000123",
+    "claim_id": "CLM-000123",
+    "reserve_amount": 100000,
+    "created_date": "2026-06-27",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000124",
+    "claim_id": "CLM-000124",
+    "reserve_amount": 99783,
+    "created_date": "2026-07-21",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000125",
+    "claim_id": "CLM-000125",
+    "reserve_amount": 36739,
+    "created_date": "2026-07-21",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000126",
+    "claim_id": "CLM-000126",
+    "reserve_amount": 154227,
+    "created_date": "2026-07-31",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000127",
+    "claim_id": "CLM-000127",
+    "reserve_amount": 53472,
+    "created_date": "2026-07-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000128",
+    "claim_id": "CLM-000128",
+    "reserve_amount": 136653,
+    "created_date": "2026-09-29",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000129",
+    "claim_id": "CLM-000129",
+    "reserve_amount": 174599,
+    "created_date": "2025-01-29",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000130",
+    "claim_id": "CLM-000130",
+    "reserve_amount": 18049,
+    "created_date": "2025-06-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000131",
+    "claim_id": "CLM-000131",
+    "reserve_amount": 131434,
+    "created_date": "2026-07-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000132",
+    "claim_id": "CLM-000132",
+    "reserve_amount": 125720,
+    "created_date": "2025-06-28",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000133",
+    "claim_id": "CLM-000133",
+    "reserve_amount": 65225,
+    "created_date": "2026-10-03",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000134",
+    "claim_id": "CLM-000134",
+    "reserve_amount": 125874,
+    "created_date": "2026-04-12",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000135",
+    "claim_id": "CLM-000135",
+    "reserve_amount": 128479,
+    "created_date": "2025-05-10",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000136",
+    "claim_id": "CLM-000136",
+    "reserve_amount": 64038,
+    "created_date": "2025-03-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000137",
+    "claim_id": "CLM-000137",
+    "reserve_amount": 88273,
+    "created_date": "2025-02-12",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000138",
+    "claim_id": "CLM-000138",
+    "reserve_amount": 132004,
+    "created_date": "2025-04-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000139",
+    "claim_id": "CLM-000139",
+    "reserve_amount": 27322,
+    "created_date": "2025-09-20",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000140",
+    "claim_id": "CLM-000140",
+    "reserve_amount": 62858,
+    "created_date": "2026-06-20",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000141",
+    "claim_id": "CLM-000141",
+    "reserve_amount": 133366,
+    "created_date": "2025-01-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000142",
+    "claim_id": "CLM-000142",
+    "reserve_amount": 114308,
+    "created_date": "2025-01-16",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000143",
+    "claim_id": "CLM-000143",
+    "reserve_amount": 100000,
+    "created_date": "2026-08-31",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000144",
+    "claim_id": "CLM-000144",
+    "reserve_amount": 92563,
+    "created_date": "2025-03-02",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000145",
+    "claim_id": "CLM-000145",
+    "reserve_amount": 196857,
+    "created_date": "2026-08-29",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000146",
+    "claim_id": "CLM-000146",
+    "reserve_amount": 22573,
+    "created_date": "2026-06-20",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000147",
+    "claim_id": "CLM-000147",
+    "reserve_amount": 19848,
+    "created_date": "2026-07-03",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000148",
+    "claim_id": "CLM-000148",
+    "reserve_amount": 23782,
+    "created_date": "2026-02-10",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000149",
+    "claim_id": "CLM-000149",
+    "reserve_amount": 106836,
+    "created_date": "2026-01-17",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000150",
+    "claim_id": "CLM-000150",
+    "reserve_amount": 98788,
+    "created_date": "2026-02-02",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000151",
+    "claim_id": "CLM-000151",
+    "reserve_amount": 149389,
+    "created_date": "2025-02-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000152",
+    "claim_id": "CLM-000152",
+    "reserve_amount": 100000,
+    "created_date": "2026-07-09",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000153",
+    "claim_id": "CLM-000153",
+    "reserve_amount": 57039,
+    "created_date": "2026-07-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000154",
+    "claim_id": "CLM-000154",
+    "reserve_amount": 38458,
+    "created_date": "2025-08-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000155",
+    "claim_id": "CLM-000155",
+    "reserve_amount": 183513,
+    "created_date": "2025-07-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000156",
+    "claim_id": "CLM-000156",
+    "reserve_amount": 115272,
+    "created_date": "2026-09-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000157",
+    "claim_id": "CLM-000157",
+    "reserve_amount": 100000,
+    "created_date": "2026-08-28",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000158",
+    "claim_id": "CLM-000158",
+    "reserve_amount": 56752,
+    "created_date": "2026-01-29",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000159",
+    "claim_id": "CLM-000159",
+    "reserve_amount": 28627,
+    "created_date": "2025-01-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000160",
+    "claim_id": "CLM-000160",
+    "reserve_amount": 78877,
+    "created_date": "2025-10-15",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000161",
+    "claim_id": "CLM-000161",
+    "reserve_amount": 40160,
+    "created_date": "2025-03-16",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000162",
+    "claim_id": "CLM-000162",
+    "reserve_amount": 163946,
+    "created_date": "2025-11-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000163",
+    "claim_id": "CLM-000163",
+    "reserve_amount": 57311,
+    "created_date": "2026-10-03",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000164",
+    "claim_id": "CLM-000164",
+    "reserve_amount": 25160,
+    "created_date": "2025-04-18",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000165",
+    "claim_id": "CLM-000165",
+    "reserve_amount": 61371,
+    "created_date": "2025-03-16",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000166",
+    "claim_id": "CLM-000166",
+    "reserve_amount": 100000,
+    "created_date": "2026-01-28",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000167",
+    "claim_id": "CLM-000167",
+    "reserve_amount": 87432,
+    "created_date": "2025-01-09",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000168",
+    "claim_id": "CLM-000168",
+    "reserve_amount": 180893,
+    "created_date": "2025-01-12",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000169",
+    "claim_id": "CLM-000169",
+    "reserve_amount": 83997,
+    "created_date": "2025-04-13",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000170",
+    "claim_id": "CLM-000170",
+    "reserve_amount": 112584,
+    "created_date": "2025-03-04",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000171",
+    "claim_id": "CLM-000171",
+    "reserve_amount": 86525,
+    "created_date": "2025-08-02",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000172",
+    "claim_id": "CLM-000172",
+    "reserve_amount": 113450,
+    "created_date": "2025-06-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000173",
+    "claim_id": "CLM-000173",
+    "reserve_amount": 100000,
+    "created_date": "2025-12-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000174",
+    "claim_id": "CLM-000174",
+    "reserve_amount": 150426,
+    "created_date": "2026-02-16",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000175",
+    "claim_id": "CLM-000175",
+    "reserve_amount": 53005,
+    "created_date": "2025-06-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000176",
+    "claim_id": "CLM-000176",
+    "reserve_amount": 96292,
+    "created_date": "2025-04-16",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000177",
+    "claim_id": "CLM-000177",
+    "reserve_amount": 194087,
+    "created_date": "2025-05-02",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000178",
+    "claim_id": "CLM-000178",
+    "reserve_amount": 112590,
+    "created_date": "2026-10-05",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000179",
+    "claim_id": "CLM-000179",
+    "reserve_amount": 100000,
+    "created_date": "2025-05-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000180",
+    "claim_id": "CLM-000180",
+    "reserve_amount": 46641,
+    "created_date": "2025-03-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000181",
+    "claim_id": "CLM-000181",
+    "reserve_amount": 62714,
+    "created_date": "2026-07-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000182",
+    "claim_id": "CLM-000182",
+    "reserve_amount": 135742,
+    "created_date": "2025-02-28",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000183",
+    "claim_id": "CLM-000183",
+    "reserve_amount": 161515,
+    "created_date": "2025-09-26",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000184",
+    "claim_id": "CLM-000184",
+    "reserve_amount": 183674,
+    "created_date": "2026-03-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000185",
+    "claim_id": "CLM-000185",
+    "reserve_amount": 100000,
+    "created_date": "2026-07-01",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000186",
+    "claim_id": "CLM-000186",
+    "reserve_amount": 177144,
+    "created_date": "2025-04-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000187",
+    "claim_id": "CLM-000187",
+    "reserve_amount": 185925,
+    "created_date": "2025-05-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000188",
+    "claim_id": "CLM-000188",
+    "reserve_amount": 96258,
+    "created_date": "2025-08-28",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000189",
+    "claim_id": "CLM-000189",
+    "reserve_amount": 24692,
+    "created_date": "2026-09-25",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000190",
+    "claim_id": "CLM-000190",
+    "reserve_amount": 128859,
+    "created_date": "2025-11-03",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000191",
+    "claim_id": "CLM-000191",
+    "reserve_amount": 167019,
+    "created_date": "2025-03-15",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000192",
+    "claim_id": "CLM-000192",
+    "reserve_amount": 147587,
+    "created_date": "2025-04-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000193",
+    "claim_id": "CLM-000193",
+    "reserve_amount": 28239,
+    "created_date": "2025-02-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000194",
+    "claim_id": "CLM-000194",
+    "reserve_amount": 175640,
+    "created_date": "2025-08-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000195",
+    "claim_id": "CLM-000195",
+    "reserve_amount": 100000,
+    "created_date": "2026-07-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000196",
+    "claim_id": "CLM-000196",
+    "reserve_amount": 56619,
+    "created_date": "2025-03-02",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000197",
+    "claim_id": "CLM-000197",
+    "reserve_amount": 194034,
+    "created_date": "2025-01-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000198",
+    "claim_id": "CLM-000198",
+    "reserve_amount": 101105,
+    "created_date": "2025-02-03",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000199",
+    "claim_id": "CLM-000199",
+    "reserve_amount": 15542,
+    "created_date": "2025-04-13",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000200",
+    "claim_id": "CLM-000200",
+    "reserve_amount": 177647,
+    "created_date": "2025-01-20",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000201",
+    "claim_id": "CLM-000201",
+    "reserve_amount": 31428,
+    "created_date": "2026-08-20",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000202",
+    "claim_id": "CLM-000202",
+    "reserve_amount": 34614,
+    "created_date": "2026-05-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000203",
+    "claim_id": "CLM-000203",
+    "reserve_amount": 119084,
+    "created_date": "2026-09-30",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000204",
+    "claim_id": "CLM-000204",
+    "reserve_amount": 100000,
+    "created_date": "2026-03-09",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000205",
+    "claim_id": "CLM-000205",
+    "reserve_amount": 160535,
+    "created_date": "2026-07-01",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000206",
+    "claim_id": "CLM-000206",
+    "reserve_amount": 172094,
+    "created_date": "2025-06-20",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000207",
+    "claim_id": "CLM-000207",
+    "reserve_amount": 64072,
+    "created_date": "2026-07-04",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000208",
+    "claim_id": "CLM-000208",
+    "reserve_amount": 31728,
+    "created_date": "2026-01-28",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000209",
+    "claim_id": "CLM-000209",
+    "reserve_amount": 50167,
+    "created_date": "2025-01-28",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000210",
+    "claim_id": "CLM-000210",
+    "reserve_amount": 100000,
+    "created_date": "2025-03-30",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000211",
+    "claim_id": "CLM-000211",
+    "reserve_amount": 33234,
+    "created_date": "2025-02-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000212",
+    "claim_id": "CLM-000212",
+    "reserve_amount": 49026,
+    "created_date": "2025-07-12",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000213",
+    "claim_id": "CLM-000213",
+    "reserve_amount": 143136,
+    "created_date": "2025-03-10",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000214",
+    "claim_id": "CLM-000214",
+    "reserve_amount": 16936,
+    "created_date": "2026-01-05",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000215",
+    "claim_id": "CLM-000215",
+    "reserve_amount": 148322,
+    "created_date": "2026-08-01",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000216",
+    "claim_id": "CLM-000216",
+    "reserve_amount": 182472,
+    "created_date": "2026-06-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000217",
+    "claim_id": "CLM-000217",
+    "reserve_amount": 100000,
+    "created_date": "2025-02-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000218",
+    "claim_id": "CLM-000218",
+    "reserve_amount": 42743,
+    "created_date": "2026-07-20",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000219",
+    "claim_id": "CLM-000219",
+    "reserve_amount": 81902,
+    "created_date": "2026-09-15",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000220",
+    "claim_id": "CLM-000220",
+    "reserve_amount": 36339,
+    "created_date": "2026-04-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000221",
+    "claim_id": "CLM-000221",
+    "reserve_amount": 63019,
+    "created_date": "2025-12-16",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000222",
+    "claim_id": "CLM-000222",
+    "reserve_amount": 31724,
+    "created_date": "2026-04-03",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000223",
+    "claim_id": "CLM-000223",
+    "reserve_amount": 30460,
+    "created_date": "2025-03-21",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000224",
+    "claim_id": "CLM-000224",
+    "reserve_amount": 131559,
+    "created_date": "2026-03-01",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000225",
+    "claim_id": "CLM-000225",
+    "reserve_amount": 196336,
+    "created_date": "2026-09-13",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000226",
+    "claim_id": "CLM-000226",
+    "reserve_amount": 141372,
+    "created_date": "2025-01-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000227",
+    "claim_id": "CLM-000227",
+    "reserve_amount": 79111,
+    "created_date": "2026-04-12",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000228",
+    "claim_id": "CLM-000228",
+    "reserve_amount": 100000,
+    "created_date": "2025-11-30",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000229",
+    "claim_id": "CLM-000229",
+    "reserve_amount": 80498,
+    "created_date": "2025-01-17",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000230",
+    "claim_id": "CLM-000230",
+    "reserve_amount": 193785,
+    "created_date": "2026-09-09",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000231",
+    "claim_id": "CLM-000231",
+    "reserve_amount": 104100,
+    "created_date": "2025-09-30",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000232",
+    "claim_id": "CLM-000232",
+    "reserve_amount": 100000,
+    "created_date": "2025-10-03",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000233",
+    "claim_id": "CLM-000233",
+    "reserve_amount": 121702,
+    "created_date": "2026-09-13",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000234",
+    "claim_id": "CLM-000234",
+    "reserve_amount": 67369,
+    "created_date": "2026-09-04",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000235",
+    "claim_id": "CLM-000235",
+    "reserve_amount": 174375,
+    "created_date": "2025-02-01",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000236",
+    "claim_id": "CLM-000236",
+    "reserve_amount": 191374,
+    "created_date": "2026-07-26",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000237",
+    "claim_id": "CLM-000237",
+    "reserve_amount": 86001,
+    "created_date": "2025-02-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000238",
+    "claim_id": "CLM-000238",
+    "reserve_amount": 74606,
+    "created_date": "2025-09-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000239",
+    "claim_id": "CLM-000239",
+    "reserve_amount": 173507,
+    "created_date": "2026-08-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000240",
+    "claim_id": "CLM-000240",
+    "reserve_amount": 191500,
+    "created_date": "2025-03-15",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000241",
+    "claim_id": "CLM-000241",
+    "reserve_amount": 81984,
+    "created_date": "2025-01-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000242",
+    "claim_id": "CLM-000242",
+    "reserve_amount": 163668,
+    "created_date": "2025-02-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000243",
+    "claim_id": "CLM-000243",
+    "reserve_amount": 100000,
+    "created_date": "2026-06-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000244",
+    "claim_id": "CLM-000244",
+    "reserve_amount": 170766,
+    "created_date": "2025-06-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000245",
+    "claim_id": "CLM-000245",
+    "reserve_amount": 118580,
+    "created_date": "2026-07-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000246",
+    "claim_id": "CLM-000246",
+    "reserve_amount": 33817,
+    "created_date": "2025-04-12",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000247",
+    "claim_id": "CLM-000247",
+    "reserve_amount": 183503,
+    "created_date": "2025-03-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000248",
+    "claim_id": "CLM-000248",
+    "reserve_amount": 45895,
+    "created_date": "2026-08-13",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000249",
+    "claim_id": "CLM-000249",
+    "reserve_amount": 37779,
+    "created_date": "2026-08-25",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000250",
+    "claim_id": "CLM-000250",
+    "reserve_amount": 87027,
+    "created_date": "2026-06-27",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000251",
+    "claim_id": "CLM-000251",
+    "reserve_amount": 123728,
+    "created_date": "2026-07-30",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000252",
+    "claim_id": "CLM-000252",
+    "reserve_amount": 62698,
+    "created_date": "2026-07-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000253",
+    "claim_id": "CLM-000253",
+    "reserve_amount": 169761,
+    "created_date": "2026-08-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000254",
+    "claim_id": "CLM-000254",
+    "reserve_amount": 83829,
+    "created_date": "2025-05-20",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000255",
+    "claim_id": "CLM-000255",
+    "reserve_amount": 181352,
+    "created_date": "2026-08-17",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000256",
+    "claim_id": "CLM-000256",
+    "reserve_amount": 126298,
+    "created_date": "2026-09-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000257",
+    "claim_id": "CLM-000257",
+    "reserve_amount": 129738,
+    "created_date": "2026-01-04",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000258",
+    "claim_id": "CLM-000258",
+    "reserve_amount": 105242,
+    "created_date": "2026-03-17",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000259",
+    "claim_id": "CLM-000259",
+    "reserve_amount": 155080,
+    "created_date": "2025-12-13",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000260",
+    "claim_id": "CLM-000260",
+    "reserve_amount": 74130,
+    "created_date": "2026-09-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000261",
+    "claim_id": "CLM-000261",
+    "reserve_amount": 26139,
+    "created_date": "2025-11-12",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000262",
+    "claim_id": "CLM-000262",
+    "reserve_amount": 190355,
+    "created_date": "2025-08-17",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000263",
+    "claim_id": "CLM-000263",
+    "reserve_amount": 194462,
+    "created_date": "2026-07-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000264",
+    "claim_id": "CLM-000264",
+    "reserve_amount": 195599,
+    "created_date": "2026-07-09",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000265",
+    "claim_id": "CLM-000265",
+    "reserve_amount": 73400,
+    "created_date": "2026-08-18",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000266",
+    "claim_id": "CLM-000266",
+    "reserve_amount": 199832,
+    "created_date": "2026-07-27",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000267",
+    "claim_id": "CLM-000267",
+    "reserve_amount": 107534,
+    "created_date": "2025-11-20",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000268",
+    "claim_id": "CLM-000268",
+    "reserve_amount": 188378,
+    "created_date": "2025-08-04",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000269",
+    "claim_id": "CLM-000269",
+    "reserve_amount": 130852,
+    "created_date": "2025-02-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000270",
+    "claim_id": "CLM-000270",
+    "reserve_amount": 19636,
+    "created_date": "2025-03-13",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000271",
+    "claim_id": "CLM-000271",
+    "reserve_amount": 191910,
+    "created_date": "2026-08-09",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000272",
+    "claim_id": "CLM-000272",
+    "reserve_amount": 169072,
+    "created_date": "2026-08-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000273",
+    "claim_id": "CLM-000273",
+    "reserve_amount": 170761,
+    "created_date": "2026-03-31",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000274",
+    "claim_id": "CLM-000274",
+    "reserve_amount": 171548,
+    "created_date": "2026-09-05",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000275",
+    "claim_id": "CLM-000275",
+    "reserve_amount": 107425,
+    "created_date": "2025-07-30",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000276",
+    "claim_id": "CLM-000276",
+    "reserve_amount": 143187,
+    "created_date": "2025-02-27",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000277",
+    "claim_id": "CLM-000277",
+    "reserve_amount": 100000,
+    "created_date": "2026-09-09",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000278",
+    "claim_id": "CLM-000278",
+    "reserve_amount": 58441,
+    "created_date": "2025-04-18",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000279",
+    "claim_id": "CLM-000279",
+    "reserve_amount": 90078,
+    "created_date": "2025-08-20",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000280",
+    "claim_id": "CLM-000280",
+    "reserve_amount": 46320,
+    "created_date": "2026-05-21",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000281",
+    "claim_id": "CLM-000281",
+    "reserve_amount": 157232,
+    "created_date": "2026-02-04",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000282",
+    "claim_id": "CLM-000282",
+    "reserve_amount": 57019,
+    "created_date": "2025-11-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000283",
+    "claim_id": "CLM-000283",
+    "reserve_amount": 170367,
+    "created_date": "2025-11-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000284",
+    "claim_id": "CLM-000284",
+    "reserve_amount": 115728,
+    "created_date": "2026-03-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000285",
+    "claim_id": "CLM-000285",
+    "reserve_amount": 160832,
+    "created_date": "2025-02-17",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000286",
+    "claim_id": "CLM-000286",
+    "reserve_amount": 36564,
+    "created_date": "2025-02-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000287",
+    "claim_id": "CLM-000287",
+    "reserve_amount": 123035,
+    "created_date": "2026-07-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000288",
+    "claim_id": "CLM-000288",
+    "reserve_amount": 20282,
+    "created_date": "2026-06-21",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000289",
+    "claim_id": "CLM-000289",
+    "reserve_amount": 76885,
+    "created_date": "2026-05-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000290",
+    "claim_id": "CLM-000290",
+    "reserve_amount": 162247,
+    "created_date": "2025-02-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000291",
+    "claim_id": "CLM-000291",
+    "reserve_amount": 44301,
+    "created_date": "2025-03-27",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000292",
+    "claim_id": "CLM-000292",
+    "reserve_amount": 16403,
+    "created_date": "2026-09-26",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000293",
+    "claim_id": "CLM-000293",
+    "reserve_amount": 100000,
+    "created_date": "2026-09-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000294",
+    "claim_id": "CLM-000294",
+    "reserve_amount": 154199,
+    "created_date": "2025-01-27",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000295",
+    "claim_id": "CLM-000295",
+    "reserve_amount": 49735,
+    "created_date": "2025-08-28",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000296",
+    "claim_id": "CLM-000296",
+    "reserve_amount": 100000,
+    "created_date": "2026-02-26",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000297",
+    "claim_id": "CLM-000297",
+    "reserve_amount": 100000,
+    "created_date": "2026-02-27",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000298",
+    "claim_id": "CLM-000298",
+    "reserve_amount": 50763,
+    "created_date": "2026-09-29",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000299",
+    "claim_id": "CLM-000299",
+    "reserve_amount": 170569,
+    "created_date": "2025-01-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000300",
+    "claim_id": "CLM-000300",
+    "reserve_amount": 78901,
+    "created_date": "2025-02-28",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000301",
+    "claim_id": "CLM-000301",
+    "reserve_amount": 76953,
+    "created_date": "2026-02-26",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000302",
+    "claim_id": "CLM-000302",
+    "reserve_amount": 129579,
+    "created_date": "2026-09-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000303",
+    "claim_id": "CLM-000303",
+    "reserve_amount": 119176,
+    "created_date": "2026-06-13",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000304",
+    "claim_id": "CLM-000304",
+    "reserve_amount": 15474,
+    "created_date": "2025-05-02",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000305",
+    "claim_id": "CLM-000305",
+    "reserve_amount": 97464,
+    "created_date": "2025-01-17",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000306",
+    "claim_id": "CLM-000306",
+    "reserve_amount": 147920,
+    "created_date": "2025-11-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000307",
+    "claim_id": "CLM-000307",
+    "reserve_amount": 136328,
+    "created_date": "2026-06-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000308",
+    "claim_id": "CLM-000308",
+    "reserve_amount": 122476,
+    "created_date": "2025-07-27",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000309",
+    "claim_id": "CLM-000309",
+    "reserve_amount": 169715,
+    "created_date": "2025-02-01",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000310",
+    "claim_id": "CLM-000310",
+    "reserve_amount": 188172,
+    "created_date": "2026-01-27",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000311",
+    "claim_id": "CLM-000311",
+    "reserve_amount": 100000,
+    "created_date": "2025-08-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000312",
+    "claim_id": "CLM-000312",
+    "reserve_amount": 48340,
+    "created_date": "2025-11-02",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000313",
+    "claim_id": "CLM-000313",
+    "reserve_amount": 96085,
+    "created_date": "2026-09-27",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000314",
+    "claim_id": "CLM-000314",
+    "reserve_amount": 96383,
+    "created_date": "2026-04-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000315",
+    "claim_id": "CLM-000315",
+    "reserve_amount": 16805,
+    "created_date": "2026-08-16",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000316",
+    "claim_id": "CLM-000316",
+    "reserve_amount": 17655,
+    "created_date": "2025-07-12",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000317",
+    "claim_id": "CLM-000317",
+    "reserve_amount": 165938,
+    "created_date": "2025-11-30",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000318",
+    "claim_id": "CLM-000318",
+    "reserve_amount": 114179,
+    "created_date": "2025-05-05",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000319",
+    "claim_id": "CLM-000319",
+    "reserve_amount": 41730,
+    "created_date": "2026-05-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000320",
+    "claim_id": "CLM-000320",
+    "reserve_amount": 111645,
+    "created_date": "2025-01-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000321",
+    "claim_id": "CLM-000321",
+    "reserve_amount": 145013,
+    "created_date": "2026-08-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000322",
+    "claim_id": "CLM-000322",
+    "reserve_amount": 45259,
+    "created_date": "2025-07-13",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000323",
+    "claim_id": "CLM-000323",
+    "reserve_amount": 99395,
+    "created_date": "2026-05-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000324",
+    "claim_id": "CLM-000324",
+    "reserve_amount": 82889,
+    "created_date": "2026-04-28",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000325",
+    "claim_id": "CLM-000325",
+    "reserve_amount": 188782,
+    "created_date": "2025-06-15",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000326",
+    "claim_id": "CLM-000326",
+    "reserve_amount": 100000,
+    "created_date": "2025-10-17",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000327",
+    "claim_id": "CLM-000327",
+    "reserve_amount": 124476,
+    "created_date": "2025-03-13",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000328",
+    "claim_id": "CLM-000328",
+    "reserve_amount": 102763,
+    "created_date": "2026-07-30",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000329",
+    "claim_id": "CLM-000329",
+    "reserve_amount": 67131,
+    "created_date": "2026-10-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000330",
+    "claim_id": "CLM-000330",
+    "reserve_amount": 82743,
+    "created_date": "2026-05-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000331",
+    "claim_id": "CLM-000331",
+    "reserve_amount": 54198,
+    "created_date": "2026-05-17",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000332",
+    "claim_id": "CLM-000332",
+    "reserve_amount": 100000,
+    "created_date": "2025-04-09",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000333",
+    "claim_id": "CLM-000333",
+    "reserve_amount": 99426,
+    "created_date": "2025-04-05",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000334",
+    "claim_id": "CLM-000334",
+    "reserve_amount": 41607,
+    "created_date": "2025-11-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000335",
+    "claim_id": "CLM-000335",
+    "reserve_amount": 47820,
+    "created_date": "2025-08-30",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000336",
+    "claim_id": "CLM-000336",
+    "reserve_amount": 100000,
+    "created_date": "2026-06-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000337",
+    "claim_id": "CLM-000337",
+    "reserve_amount": 88216,
+    "created_date": "2025-02-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000338",
+    "claim_id": "CLM-000338",
+    "reserve_amount": 162175,
+    "created_date": "2026-05-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000339",
+    "claim_id": "CLM-000339",
+    "reserve_amount": 43881,
+    "created_date": "2026-08-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000340",
+    "claim_id": "CLM-000340",
+    "reserve_amount": 90303,
+    "created_date": "2026-01-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000341",
+    "claim_id": "CLM-000341",
+    "reserve_amount": 28021,
+    "created_date": "2026-10-04",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000342",
+    "claim_id": "CLM-000342",
+    "reserve_amount": 101351,
+    "created_date": "2025-07-02",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000343",
+    "claim_id": "CLM-000343",
+    "reserve_amount": 100000,
+    "created_date": "2026-07-18",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000344",
+    "claim_id": "CLM-000344",
+    "reserve_amount": 128751,
+    "created_date": "2025-07-17",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000345",
+    "claim_id": "CLM-000345",
+    "reserve_amount": 149341,
+    "created_date": "2025-05-18",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000346",
+    "claim_id": "CLM-000346",
+    "reserve_amount": 158178,
+    "created_date": "2026-01-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000347",
+    "claim_id": "CLM-000347",
+    "reserve_amount": 100000,
+    "created_date": "2025-11-25",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000348",
+    "claim_id": "CLM-000348",
+    "reserve_amount": 93815,
+    "created_date": "2025-11-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000349",
+    "claim_id": "CLM-000349",
+    "reserve_amount": 84905,
+    "created_date": "2026-07-17",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000350",
+    "claim_id": "CLM-000350",
+    "reserve_amount": 29911,
+    "created_date": "2025-01-30",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000351",
+    "claim_id": "CLM-000351",
+    "reserve_amount": 21324,
+    "created_date": "2025-12-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000352",
+    "claim_id": "CLM-000352",
+    "reserve_amount": 144384,
+    "created_date": "2026-08-31",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000353",
+    "claim_id": "CLM-000353",
+    "reserve_amount": 159934,
+    "created_date": "2025-08-04",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000354",
+    "claim_id": "CLM-000354",
+    "reserve_amount": 190830,
+    "created_date": "2026-09-17",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000355",
+    "claim_id": "CLM-000355",
+    "reserve_amount": 67481,
+    "created_date": "2026-09-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000356",
+    "claim_id": "CLM-000356",
+    "reserve_amount": 93641,
+    "created_date": "2026-07-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000357",
+    "claim_id": "CLM-000357",
+    "reserve_amount": 187986,
+    "created_date": "2026-03-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000358",
+    "claim_id": "CLM-000358",
+    "reserve_amount": 82462,
+    "created_date": "2025-06-02",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000359",
+    "claim_id": "CLM-000359",
+    "reserve_amount": 100000,
+    "created_date": "2026-01-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000360",
+    "claim_id": "CLM-000360",
+    "reserve_amount": 111644,
+    "created_date": "2026-04-10",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000361",
+    "claim_id": "CLM-000361",
+    "reserve_amount": 88968,
+    "created_date": "2025-08-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000362",
+    "claim_id": "CLM-000362",
+    "reserve_amount": 39546,
+    "created_date": "2025-01-16",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000363",
+    "claim_id": "CLM-000363",
+    "reserve_amount": 69485,
+    "created_date": "2026-06-10",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000364",
+    "claim_id": "CLM-000364",
+    "reserve_amount": 77174,
+    "created_date": "2026-06-20",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000365",
+    "claim_id": "CLM-000365",
+    "reserve_amount": 100000,
+    "created_date": "2026-07-01",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000366",
+    "claim_id": "CLM-000366",
+    "reserve_amount": 127610,
+    "created_date": "2025-05-17",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000367",
+    "claim_id": "CLM-000367",
+    "reserve_amount": 31515,
+    "created_date": "2026-08-05",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000368",
+    "claim_id": "CLM-000368",
+    "reserve_amount": 30495,
+    "created_date": "2026-07-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000369",
+    "claim_id": "CLM-000369",
+    "reserve_amount": 62162,
+    "created_date": "2026-05-28",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000370",
+    "claim_id": "CLM-000370",
+    "reserve_amount": 62156,
+    "created_date": "2025-01-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000371",
+    "claim_id": "CLM-000371",
+    "reserve_amount": 153765,
+    "created_date": "2026-08-26",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000372",
+    "claim_id": "CLM-000372",
+    "reserve_amount": 180238,
+    "created_date": "2025-03-05",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000373",
+    "claim_id": "CLM-000373",
+    "reserve_amount": 123358,
+    "created_date": "2026-07-18",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000374",
+    "claim_id": "CLM-000374",
+    "reserve_amount": 113620,
+    "created_date": "2026-09-15",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000375",
+    "claim_id": "CLM-000375",
+    "reserve_amount": 169486,
+    "created_date": "2026-08-15",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000376",
+    "claim_id": "CLM-000376",
+    "reserve_amount": 102599,
+    "created_date": "2025-03-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000377",
+    "claim_id": "CLM-000377",
+    "reserve_amount": 107093,
+    "created_date": "2026-09-01",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000378",
+    "claim_id": "CLM-000378",
+    "reserve_amount": 21490,
+    "created_date": "2026-09-10",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000379",
+    "claim_id": "CLM-000379",
+    "reserve_amount": 93343,
+    "created_date": "2026-06-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000380",
+    "claim_id": "CLM-000380",
+    "reserve_amount": 179976,
+    "created_date": "2026-05-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000381",
+    "claim_id": "CLM-000381",
+    "reserve_amount": 51435,
+    "created_date": "2025-04-01",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000382",
+    "claim_id": "CLM-000382",
+    "reserve_amount": 101140,
+    "created_date": "2026-03-02",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000383",
+    "claim_id": "CLM-000383",
+    "reserve_amount": 27515,
+    "created_date": "2025-08-25",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000384",
+    "claim_id": "CLM-000384",
+    "reserve_amount": 40449,
+    "created_date": "2025-08-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000385",
+    "claim_id": "CLM-000385",
+    "reserve_amount": 100000,
+    "created_date": "2026-09-10",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000386",
+    "claim_id": "CLM-000386",
+    "reserve_amount": 15733,
+    "created_date": "2025-05-12",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000387",
+    "claim_id": "CLM-000387",
+    "reserve_amount": 155314,
+    "created_date": "2026-04-25",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000388",
+    "claim_id": "CLM-000388",
+    "reserve_amount": 197621,
+    "created_date": "2025-01-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000389",
+    "claim_id": "CLM-000389",
+    "reserve_amount": 87291,
+    "created_date": "2025-03-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000390",
+    "claim_id": "CLM-000390",
+    "reserve_amount": 193975,
+    "created_date": "2026-04-26",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000391",
+    "claim_id": "CLM-000391",
+    "reserve_amount": 159573,
+    "created_date": "2025-08-13",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000392",
+    "claim_id": "CLM-000392",
+    "reserve_amount": 94338,
+    "created_date": "2025-01-18",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000393",
+    "claim_id": "CLM-000393",
+    "reserve_amount": 154155,
+    "created_date": "2026-09-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000394",
+    "claim_id": "CLM-000394",
+    "reserve_amount": 198858,
+    "created_date": "2025-12-15",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000395",
+    "claim_id": "CLM-000395",
+    "reserve_amount": 72481,
+    "created_date": "2025-02-27",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000396",
+    "claim_id": "CLM-000396",
+    "reserve_amount": 18797,
+    "created_date": "2026-01-26",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000397",
+    "claim_id": "CLM-000397",
+    "reserve_amount": 47282,
+    "created_date": "2025-01-25",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000398",
+    "claim_id": "CLM-000398",
+    "reserve_amount": 100000,
+    "created_date": "2025-02-01",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000399",
+    "claim_id": "CLM-000399",
+    "reserve_amount": 100000,
+    "created_date": "2026-01-27",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000400",
+    "claim_id": "CLM-000400",
+    "reserve_amount": 90479,
+    "created_date": "2025-01-25",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000401",
+    "claim_id": "CLM-000401",
+    "reserve_amount": 152179,
+    "created_date": "2025-12-04",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000402",
+    "claim_id": "CLM-000402",
+    "reserve_amount": 74913,
+    "created_date": "2026-05-25",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000403",
+    "claim_id": "CLM-000403",
+    "reserve_amount": 50051,
+    "created_date": "2025-07-09",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000404",
+    "claim_id": "CLM-000404",
+    "reserve_amount": 173223,
+    "created_date": "2025-04-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000405",
+    "claim_id": "CLM-000405",
+    "reserve_amount": 100000,
+    "created_date": "2026-07-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000406",
+    "claim_id": "CLM-000406",
+    "reserve_amount": 53606,
+    "created_date": "2025-10-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000407",
+    "claim_id": "CLM-000407",
+    "reserve_amount": 19529,
+    "created_date": "2026-07-25",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000408",
+    "claim_id": "CLM-000408",
+    "reserve_amount": 100000,
+    "created_date": "2025-11-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000409",
+    "claim_id": "CLM-000409",
+    "reserve_amount": 83940,
+    "created_date": "2025-03-17",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000410",
+    "claim_id": "CLM-000410",
+    "reserve_amount": 92922,
+    "created_date": "2026-10-01",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000411",
+    "claim_id": "CLM-000411",
+    "reserve_amount": 78504,
+    "created_date": "2025-02-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000412",
+    "claim_id": "CLM-000412",
+    "reserve_amount": 169609,
+    "created_date": "2025-05-31",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000413",
+    "claim_id": "CLM-000413",
+    "reserve_amount": 148481,
+    "created_date": "2026-08-10",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000414",
+    "claim_id": "CLM-000414",
+    "reserve_amount": 138263,
+    "created_date": "2026-03-16",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000415",
+    "claim_id": "CLM-000415",
+    "reserve_amount": 167132,
+    "created_date": "2025-04-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000416",
+    "claim_id": "CLM-000416",
+    "reserve_amount": 188478,
+    "created_date": "2025-01-15",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000417",
+    "claim_id": "CLM-000417",
+    "reserve_amount": 110005,
+    "created_date": "2026-05-16",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000418",
+    "claim_id": "CLM-000418",
+    "reserve_amount": 76322,
+    "created_date": "2026-01-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000419",
+    "claim_id": "CLM-000419",
+    "reserve_amount": 147259,
+    "created_date": "2025-01-10",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000420",
+    "claim_id": "CLM-000420",
+    "reserve_amount": 100000,
+    "created_date": "2026-07-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000421",
+    "claim_id": "CLM-000421",
+    "reserve_amount": 98044,
+    "created_date": "2026-09-13",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000422",
+    "claim_id": "CLM-000422",
+    "reserve_amount": 194333,
+    "created_date": "2026-08-05",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000423",
+    "claim_id": "CLM-000423",
+    "reserve_amount": 17471,
+    "created_date": "2025-01-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000424",
+    "claim_id": "CLM-000424",
+    "reserve_amount": 26374,
+    "created_date": "2025-04-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000425",
+    "claim_id": "CLM-000425",
+    "reserve_amount": 100000,
+    "created_date": "2025-01-13",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000426",
+    "claim_id": "CLM-000426",
+    "reserve_amount": 198702,
+    "created_date": "2026-07-30",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000427",
+    "claim_id": "CLM-000427",
+    "reserve_amount": 153321,
+    "created_date": "2025-04-13",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000428",
+    "claim_id": "CLM-000428",
+    "reserve_amount": 75348,
+    "created_date": "2025-05-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000429",
+    "claim_id": "CLM-000429",
+    "reserve_amount": 174252,
+    "created_date": "2026-09-26",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000430",
+    "claim_id": "CLM-000430",
+    "reserve_amount": 45110,
+    "created_date": "2025-09-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000431",
+    "claim_id": "CLM-000431",
+    "reserve_amount": 17924,
+    "created_date": "2025-09-03",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000432",
+    "claim_id": "CLM-000432",
+    "reserve_amount": 63328,
+    "created_date": "2026-05-26",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000433",
+    "claim_id": "CLM-000433",
+    "reserve_amount": 28093,
+    "created_date": "2025-02-13",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000434",
+    "claim_id": "CLM-000434",
+    "reserve_amount": 20934,
+    "created_date": "2026-09-25",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000435",
+    "claim_id": "CLM-000435",
+    "reserve_amount": 43182,
+    "created_date": "2026-05-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000436",
+    "claim_id": "CLM-000436",
+    "reserve_amount": 40595,
+    "created_date": "2026-08-25",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000437",
+    "claim_id": "CLM-000437",
+    "reserve_amount": 148807,
+    "created_date": "2025-02-18",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000438",
+    "claim_id": "CLM-000438",
+    "reserve_amount": 157676,
+    "created_date": "2026-03-02",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000439",
+    "claim_id": "CLM-000439",
+    "reserve_amount": 89769,
+    "created_date": "2025-01-12",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000440",
+    "claim_id": "CLM-000440",
+    "reserve_amount": 72569,
+    "created_date": "2025-01-31",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000441",
+    "claim_id": "CLM-000441",
+    "reserve_amount": 40405,
+    "created_date": "2025-02-15",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000442",
+    "claim_id": "CLM-000442",
+    "reserve_amount": 141879,
+    "created_date": "2026-07-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000443",
+    "claim_id": "CLM-000443",
+    "reserve_amount": 30110,
+    "created_date": "2025-04-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000444",
+    "claim_id": "CLM-000444",
+    "reserve_amount": 90366,
+    "created_date": "2026-07-01",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000445",
+    "claim_id": "CLM-000445",
+    "reserve_amount": 84524,
+    "created_date": "2026-09-21",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000446",
+    "claim_id": "CLM-000446",
+    "reserve_amount": 117973,
+    "created_date": "2026-09-26",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000447",
+    "claim_id": "CLM-000447",
+    "reserve_amount": 172692,
+    "created_date": "2026-09-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000448",
+    "claim_id": "CLM-000448",
+    "reserve_amount": 92382,
+    "created_date": "2025-05-13",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000449",
+    "claim_id": "CLM-000449",
+    "reserve_amount": 87155,
+    "created_date": "2025-11-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000450",
+    "claim_id": "CLM-000450",
+    "reserve_amount": 101017,
+    "created_date": "2025-07-31",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000451",
+    "claim_id": "CLM-000451",
+    "reserve_amount": 100000,
+    "created_date": "2026-09-26",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000452",
+    "claim_id": "CLM-000452",
+    "reserve_amount": 100000,
+    "created_date": "2026-06-21",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000453",
+    "claim_id": "CLM-000453",
+    "reserve_amount": 121924,
+    "created_date": "2025-11-27",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000454",
+    "claim_id": "CLM-000454",
+    "reserve_amount": 21331,
+    "created_date": "2025-11-18",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000455",
+    "claim_id": "CLM-000455",
+    "reserve_amount": 188444,
+    "created_date": "2026-09-30",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000456",
+    "claim_id": "CLM-000456",
+    "reserve_amount": 28538,
+    "created_date": "2026-05-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000457",
+    "claim_id": "CLM-000457",
+    "reserve_amount": 56715,
+    "created_date": "2025-02-17",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000458",
+    "claim_id": "CLM-000458",
+    "reserve_amount": 23278,
+    "created_date": "2025-02-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000459",
+    "claim_id": "CLM-000459",
+    "reserve_amount": 117047,
+    "created_date": "2025-12-20",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000460",
+    "claim_id": "CLM-000460",
+    "reserve_amount": 167485,
+    "created_date": "2026-09-10",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000461",
+    "claim_id": "CLM-000461",
+    "reserve_amount": 137395,
+    "created_date": "2025-07-31",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000462",
+    "claim_id": "CLM-000462",
+    "reserve_amount": 147677,
+    "created_date": "2026-04-30",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000463",
+    "claim_id": "CLM-000463",
+    "reserve_amount": 39709,
+    "created_date": "2026-08-03",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000464",
+    "claim_id": "CLM-000464",
+    "reserve_amount": 136442,
+    "created_date": "2026-04-01",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000465",
+    "claim_id": "CLM-000465",
+    "reserve_amount": 37692,
+    "created_date": "2025-07-09",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000466",
+    "claim_id": "CLM-000466",
+    "reserve_amount": 59323,
+    "created_date": "2025-07-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000467",
+    "claim_id": "CLM-000467",
+    "reserve_amount": 149777,
+    "created_date": "2026-09-16",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000468",
+    "claim_id": "CLM-000468",
+    "reserve_amount": 100000,
+    "created_date": "2025-03-25",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000469",
+    "claim_id": "CLM-000469",
+    "reserve_amount": 100000,
+    "created_date": "2026-07-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000470",
+    "claim_id": "CLM-000470",
+    "reserve_amount": 42655,
+    "created_date": "2025-05-25",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000471",
+    "claim_id": "CLM-000471",
+    "reserve_amount": 163109,
+    "created_date": "2026-09-27",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000472",
+    "claim_id": "CLM-000472",
+    "reserve_amount": 198030,
+    "created_date": "2026-09-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000473",
+    "claim_id": "CLM-000473",
+    "reserve_amount": 165825,
+    "created_date": "2026-02-03",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000474",
+    "claim_id": "CLM-000474",
+    "reserve_amount": 28286,
+    "created_date": "2025-01-18",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000475",
+    "claim_id": "CLM-000475",
+    "reserve_amount": 197792,
+    "created_date": "2025-10-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000476",
+    "claim_id": "CLM-000476",
+    "reserve_amount": 55429,
+    "created_date": "2025-02-04",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000477",
+    "claim_id": "CLM-000477",
+    "reserve_amount": 196436,
+    "created_date": "2025-10-27",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000478",
+    "claim_id": "CLM-000478",
+    "reserve_amount": 100000,
+    "created_date": "2026-01-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000479",
+    "claim_id": "CLM-000479",
+    "reserve_amount": 126200,
+    "created_date": "2026-08-27",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000480",
+    "claim_id": "CLM-000480",
+    "reserve_amount": 187472,
+    "created_date": "2026-09-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000481",
+    "claim_id": "CLM-000481",
+    "reserve_amount": 94528,
+    "created_date": "2026-06-20",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000482",
+    "claim_id": "CLM-000482",
+    "reserve_amount": 150190,
+    "created_date": "2025-02-15",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000483",
+    "claim_id": "CLM-000483",
+    "reserve_amount": 175796,
+    "created_date": "2025-05-13",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000484",
+    "claim_id": "CLM-000484",
+    "reserve_amount": 162058,
+    "created_date": "2025-01-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000485",
+    "claim_id": "CLM-000485",
+    "reserve_amount": 100000,
+    "created_date": "2025-08-05",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000486",
+    "claim_id": "CLM-000486",
+    "reserve_amount": 100000,
+    "created_date": "2026-07-30",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000487",
+    "claim_id": "CLM-000487",
+    "reserve_amount": 28028,
+    "created_date": "2026-02-03",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000488",
+    "claim_id": "CLM-000488",
+    "reserve_amount": 100000,
+    "created_date": "2025-01-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000489",
+    "claim_id": "CLM-000489",
+    "reserve_amount": 100000,
+    "created_date": "2025-02-26",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000490",
+    "claim_id": "CLM-000490",
+    "reserve_amount": 191521,
+    "created_date": "2025-01-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000491",
+    "claim_id": "CLM-000491",
+    "reserve_amount": 100000,
+    "created_date": "2026-08-18",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000492",
+    "claim_id": "CLM-000492",
+    "reserve_amount": 73296,
+    "created_date": "2025-11-27",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000493",
+    "claim_id": "CLM-000493",
+    "reserve_amount": 99218,
+    "created_date": "2025-03-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000494",
+    "claim_id": "CLM-000494",
+    "reserve_amount": 75455,
+    "created_date": "2025-03-26",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000495",
+    "claim_id": "CLM-000495",
+    "reserve_amount": 139220,
+    "created_date": "2025-05-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000496",
+    "claim_id": "CLM-000496",
+    "reserve_amount": 162272,
+    "created_date": "2026-02-15",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000497",
+    "claim_id": "CLM-000497",
+    "reserve_amount": 184643,
+    "created_date": "2025-03-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000498",
+    "claim_id": "CLM-000498",
+    "reserve_amount": 114925,
+    "created_date": "2025-06-18",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000499",
+    "claim_id": "CLM-000499",
+    "reserve_amount": 159475,
+    "created_date": "2025-08-02",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000500",
+    "claim_id": "CLM-000500",
+    "reserve_amount": 121645,
+    "created_date": "2025-02-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000501",
+    "claim_id": "CLM-000501",
+    "reserve_amount": 143953,
+    "created_date": "2026-05-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000502",
+    "claim_id": "CLM-000502",
+    "reserve_amount": 100000,
+    "created_date": "2026-03-10",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000503",
+    "claim_id": "CLM-000503",
+    "reserve_amount": 40317,
+    "created_date": "2026-03-18",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000504",
+    "claim_id": "CLM-000504",
+    "reserve_amount": 136140,
+    "created_date": "2025-12-30",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000505",
+    "claim_id": "CLM-000505",
+    "reserve_amount": 100000,
+    "created_date": "2025-11-29",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000506",
+    "claim_id": "CLM-000506",
+    "reserve_amount": 196890,
+    "created_date": "2025-01-25",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000507",
+    "claim_id": "CLM-000507",
+    "reserve_amount": 28398,
+    "created_date": "2026-01-21",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000508",
+    "claim_id": "CLM-000508",
+    "reserve_amount": 82490,
+    "created_date": "2025-01-18",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000509",
+    "claim_id": "CLM-000509",
+    "reserve_amount": 145361,
+    "created_date": "2025-04-02",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000510",
+    "claim_id": "CLM-000510",
+    "reserve_amount": 169611,
+    "created_date": "2026-03-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000511",
+    "claim_id": "CLM-000511",
+    "reserve_amount": 132609,
+    "created_date": "2025-07-10",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000512",
+    "claim_id": "CLM-000512",
+    "reserve_amount": 103083,
+    "created_date": "2025-10-01",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000513",
+    "claim_id": "CLM-000513",
+    "reserve_amount": 192698,
+    "created_date": "2025-09-30",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000514",
+    "claim_id": "CLM-000514",
+    "reserve_amount": 116898,
+    "created_date": "2026-04-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000515",
+    "claim_id": "CLM-000515",
+    "reserve_amount": 100000,
+    "created_date": "2026-01-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000516",
+    "claim_id": "CLM-000516",
+    "reserve_amount": 153920,
+    "created_date": "2025-06-25",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000517",
+    "claim_id": "CLM-000517",
+    "reserve_amount": 63968,
+    "created_date": "2025-04-27",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000518",
+    "claim_id": "CLM-000518",
+    "reserve_amount": 40202,
+    "created_date": "2026-02-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000519",
+    "claim_id": "CLM-000519",
+    "reserve_amount": 199642,
+    "created_date": "2026-05-30",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000520",
+    "claim_id": "CLM-000520",
+    "reserve_amount": 89654,
+    "created_date": "2026-09-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000521",
+    "claim_id": "CLM-000521",
+    "reserve_amount": 190685,
+    "created_date": "2026-09-04",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000522",
+    "claim_id": "CLM-000522",
+    "reserve_amount": 52399,
+    "created_date": "2025-02-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000523",
+    "claim_id": "CLM-000523",
+    "reserve_amount": 143335,
+    "created_date": "2026-03-28",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000524",
+    "claim_id": "CLM-000524",
+    "reserve_amount": 133000,
+    "created_date": "2026-04-26",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000525",
+    "claim_id": "CLM-000525",
+    "reserve_amount": 100000,
+    "created_date": "2026-01-12",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000526",
+    "claim_id": "CLM-000526",
+    "reserve_amount": 32006,
+    "created_date": "2026-06-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000527",
+    "claim_id": "CLM-000527",
+    "reserve_amount": 166492,
+    "created_date": "2025-06-17",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000528",
+    "claim_id": "CLM-000528",
+    "reserve_amount": 63258,
+    "created_date": "2026-07-26",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000529",
+    "claim_id": "CLM-000529",
+    "reserve_amount": 103748,
+    "created_date": "2026-09-10",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000530",
+    "claim_id": "CLM-000530",
+    "reserve_amount": 64744,
+    "created_date": "2026-01-25",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000531",
+    "claim_id": "CLM-000531",
+    "reserve_amount": 148586,
+    "created_date": "2026-07-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000532",
+    "claim_id": "CLM-000532",
+    "reserve_amount": 165544,
+    "created_date": "2025-12-04",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000533",
+    "claim_id": "CLM-000533",
+    "reserve_amount": 158940,
+    "created_date": "2025-06-09",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000534",
+    "claim_id": "CLM-000534",
+    "reserve_amount": 116122,
+    "created_date": "2025-03-29",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000535",
+    "claim_id": "CLM-000535",
+    "reserve_amount": 100000,
+    "created_date": "2026-08-27",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000536",
+    "claim_id": "CLM-000536",
+    "reserve_amount": 38190,
+    "created_date": "2025-06-12",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000537",
+    "claim_id": "CLM-000537",
+    "reserve_amount": 31562,
+    "created_date": "2026-05-21",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000538",
+    "claim_id": "CLM-000538",
+    "reserve_amount": 26304,
+    "created_date": "2026-05-01",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000539",
+    "claim_id": "CLM-000539",
+    "reserve_amount": 100000,
+    "created_date": "2025-03-31",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000540",
+    "claim_id": "CLM-000540",
+    "reserve_amount": 96168,
+    "created_date": "2025-02-26",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000541",
+    "claim_id": "CLM-000541",
+    "reserve_amount": 101543,
+    "created_date": "2025-07-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000542",
+    "claim_id": "CLM-000542",
+    "reserve_amount": 74909,
+    "created_date": "2025-02-21",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000543",
+    "claim_id": "CLM-000543",
+    "reserve_amount": 134024,
+    "created_date": "2025-08-02",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000544",
+    "claim_id": "CLM-000544",
+    "reserve_amount": 154026,
+    "created_date": "2026-09-26",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000545",
+    "claim_id": "CLM-000545",
+    "reserve_amount": 21122,
+    "created_date": "2025-02-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000546",
+    "claim_id": "CLM-000546",
+    "reserve_amount": 182020,
+    "created_date": "2025-06-09",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000547",
+    "claim_id": "CLM-000547",
+    "reserve_amount": 184457,
+    "created_date": "2025-01-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000548",
+    "claim_id": "CLM-000548",
+    "reserve_amount": 149306,
+    "created_date": "2025-02-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000549",
+    "claim_id": "CLM-000549",
+    "reserve_amount": 162963,
+    "created_date": "2025-05-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000550",
+    "claim_id": "CLM-000550",
+    "reserve_amount": 49469,
+    "created_date": "2026-05-15",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000551",
+    "claim_id": "CLM-000551",
+    "reserve_amount": 51546,
+    "created_date": "2026-01-03",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000552",
+    "claim_id": "CLM-000552",
+    "reserve_amount": 74530,
+    "created_date": "2025-03-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000553",
+    "claim_id": "CLM-000553",
+    "reserve_amount": 151736,
+    "created_date": "2026-08-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000554",
+    "claim_id": "CLM-000554",
+    "reserve_amount": 22900,
+    "created_date": "2025-02-25",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000555",
+    "claim_id": "CLM-000555",
+    "reserve_amount": 157745,
+    "created_date": "2026-03-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000556",
+    "claim_id": "CLM-000556",
+    "reserve_amount": 108077,
+    "created_date": "2025-11-16",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000557",
+    "claim_id": "CLM-000557",
+    "reserve_amount": 138078,
+    "created_date": "2026-08-26",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000558",
+    "claim_id": "CLM-000558",
+    "reserve_amount": 100000,
+    "created_date": "2025-10-13",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000559",
+    "claim_id": "CLM-000559",
+    "reserve_amount": 47177,
+    "created_date": "2025-05-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000560",
+    "claim_id": "CLM-000560",
+    "reserve_amount": 34158,
+    "created_date": "2026-06-28",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000561",
+    "claim_id": "CLM-000561",
+    "reserve_amount": 22060,
+    "created_date": "2025-03-18",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000562",
+    "claim_id": "CLM-000562",
+    "reserve_amount": 170370,
+    "created_date": "2025-08-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000563",
+    "claim_id": "CLM-000563",
+    "reserve_amount": 80979,
+    "created_date": "2025-06-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000564",
+    "claim_id": "CLM-000564",
+    "reserve_amount": 53445,
+    "created_date": "2025-05-12",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000565",
+    "claim_id": "CLM-000565",
+    "reserve_amount": 191779,
+    "created_date": "2026-07-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000566",
+    "claim_id": "CLM-000566",
+    "reserve_amount": 145085,
+    "created_date": "2025-12-30",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000567",
+    "claim_id": "CLM-000567",
+    "reserve_amount": 32480,
+    "created_date": "2026-08-30",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000568",
+    "claim_id": "CLM-000568",
+    "reserve_amount": 26836,
+    "created_date": "2025-09-17",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000569",
+    "claim_id": "CLM-000569",
+    "reserve_amount": 161124,
+    "created_date": "2025-02-26",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000570",
+    "claim_id": "CLM-000570",
+    "reserve_amount": 115246,
+    "created_date": "2026-05-13",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000571",
+    "claim_id": "CLM-000571",
+    "reserve_amount": 57207,
+    "created_date": "2026-09-16",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000572",
+    "claim_id": "CLM-000572",
+    "reserve_amount": 145708,
+    "created_date": "2026-08-29",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000573",
+    "claim_id": "CLM-000573",
+    "reserve_amount": 30042,
+    "created_date": "2025-06-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000574",
+    "claim_id": "CLM-000574",
+    "reserve_amount": 43965,
+    "created_date": "2026-04-18",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000575",
+    "claim_id": "CLM-000575",
+    "reserve_amount": 29089,
+    "created_date": "2026-03-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000576",
+    "claim_id": "CLM-000576",
+    "reserve_amount": 84222,
+    "created_date": "2026-07-20",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000577",
+    "claim_id": "CLM-000577",
+    "reserve_amount": 112444,
+    "created_date": "2025-05-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000578",
+    "claim_id": "CLM-000578",
+    "reserve_amount": 152169,
+    "created_date": "2025-09-26",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000579",
+    "claim_id": "CLM-000579",
+    "reserve_amount": 47523,
+    "created_date": "2026-08-09",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000580",
+    "claim_id": "CLM-000580",
+    "reserve_amount": 47856,
+    "created_date": "2026-06-09",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000581",
+    "claim_id": "CLM-000581",
+    "reserve_amount": 113269,
+    "created_date": "2025-07-28",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000582",
+    "claim_id": "CLM-000582",
+    "reserve_amount": 100000,
+    "created_date": "2025-02-02",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000583",
+    "claim_id": "CLM-000583",
+    "reserve_amount": 66135,
+    "created_date": "2025-01-20",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000584",
+    "claim_id": "CLM-000584",
+    "reserve_amount": 132841,
+    "created_date": "2026-08-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000585",
+    "claim_id": "CLM-000585",
+    "reserve_amount": 48671,
+    "created_date": "2026-02-12",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000586",
+    "claim_id": "CLM-000586",
+    "reserve_amount": 80455,
+    "created_date": "2025-02-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000587",
+    "claim_id": "CLM-000587",
+    "reserve_amount": 44305,
+    "created_date": "2025-07-31",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000588",
+    "claim_id": "CLM-000588",
+    "reserve_amount": 189564,
+    "created_date": "2025-07-02",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000589",
+    "claim_id": "CLM-000589",
+    "reserve_amount": 100000,
+    "created_date": "2026-02-05",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000590",
+    "claim_id": "CLM-000590",
+    "reserve_amount": 140401,
+    "created_date": "2026-09-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000591",
+    "claim_id": "CLM-000591",
+    "reserve_amount": 151804,
+    "created_date": "2026-09-04",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000592",
+    "claim_id": "CLM-000592",
+    "reserve_amount": 166983,
+    "created_date": "2025-06-17",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000593",
+    "claim_id": "CLM-000593",
+    "reserve_amount": 90563,
+    "created_date": "2025-06-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000594",
+    "claim_id": "CLM-000594",
+    "reserve_amount": 28459,
+    "created_date": "2025-02-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000595",
+    "claim_id": "CLM-000595",
+    "reserve_amount": 57997,
+    "created_date": "2025-02-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000596",
+    "claim_id": "CLM-000596",
+    "reserve_amount": 119759,
+    "created_date": "2026-08-26",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000597",
+    "claim_id": "CLM-000597",
+    "reserve_amount": 112344,
+    "created_date": "2025-03-17",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000598",
+    "claim_id": "CLM-000598",
+    "reserve_amount": 169960,
+    "created_date": "2026-03-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000599",
+    "claim_id": "CLM-000599",
+    "reserve_amount": 95221,
+    "created_date": "2025-07-04",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000600",
+    "claim_id": "CLM-000600",
+    "reserve_amount": 189908,
+    "created_date": "2025-04-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000601",
+    "claim_id": "CLM-000601",
+    "reserve_amount": 157711,
+    "created_date": "2025-09-25",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000602",
+    "claim_id": "CLM-000602",
+    "reserve_amount": 199891,
+    "created_date": "2025-11-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000603",
+    "claim_id": "CLM-000603",
+    "reserve_amount": 186009,
+    "created_date": "2025-04-27",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000604",
+    "claim_id": "CLM-000604",
+    "reserve_amount": 160519,
+    "created_date": "2025-08-03",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000605",
+    "claim_id": "CLM-000605",
+    "reserve_amount": 21128,
+    "created_date": "2025-11-15",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000606",
+    "claim_id": "CLM-000606",
+    "reserve_amount": 199884,
+    "created_date": "2025-04-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000607",
+    "claim_id": "CLM-000607",
+    "reserve_amount": 100000,
+    "created_date": "2026-01-03",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000608",
+    "claim_id": "CLM-000608",
+    "reserve_amount": 100000,
+    "created_date": "2025-07-28",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000609",
+    "claim_id": "CLM-000609",
+    "reserve_amount": 83237,
+    "created_date": "2025-01-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000610",
+    "claim_id": "CLM-000610",
+    "reserve_amount": 72318,
+    "created_date": "2026-05-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000611",
+    "claim_id": "CLM-000611",
+    "reserve_amount": 40033,
+    "created_date": "2025-01-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000612",
+    "claim_id": "CLM-000612",
+    "reserve_amount": 57014,
+    "created_date": "2026-05-28",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000613",
+    "claim_id": "CLM-000613",
+    "reserve_amount": 25671,
+    "created_date": "2025-11-21",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000614",
+    "claim_id": "CLM-000614",
+    "reserve_amount": 101800,
+    "created_date": "2025-02-26",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000615",
+    "claim_id": "CLM-000615",
+    "reserve_amount": 36210,
+    "created_date": "2025-04-16",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000616",
+    "claim_id": "CLM-000616",
+    "reserve_amount": 111039,
+    "created_date": "2025-06-29",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000617",
+    "claim_id": "CLM-000617",
+    "reserve_amount": 197084,
+    "created_date": "2025-04-10",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000618",
+    "claim_id": "CLM-000618",
+    "reserve_amount": 31538,
+    "created_date": "2025-05-12",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000619",
+    "claim_id": "CLM-000619",
+    "reserve_amount": 171881,
+    "created_date": "2026-02-15",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000620",
+    "claim_id": "CLM-000620",
+    "reserve_amount": 193159,
+    "created_date": "2026-09-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000621",
+    "claim_id": "CLM-000621",
+    "reserve_amount": 70526,
+    "created_date": "2026-09-18",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000622",
+    "claim_id": "CLM-000622",
+    "reserve_amount": 70111,
+    "created_date": "2025-02-13",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000623",
+    "claim_id": "CLM-000623",
+    "reserve_amount": 105554,
+    "created_date": "2025-02-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000624",
+    "claim_id": "CLM-000624",
+    "reserve_amount": 199138,
+    "created_date": "2025-06-15",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000625",
+    "claim_id": "CLM-000625",
+    "reserve_amount": 90490,
+    "created_date": "2026-08-29",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000626",
+    "claim_id": "CLM-000626",
+    "reserve_amount": 30537,
+    "created_date": "2025-01-12",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000627",
+    "claim_id": "CLM-000627",
+    "reserve_amount": 97976,
+    "created_date": "2026-07-29",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000628",
+    "claim_id": "CLM-000628",
+    "reserve_amount": 62104,
+    "created_date": "2025-08-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000629",
+    "claim_id": "CLM-000629",
+    "reserve_amount": 184259,
+    "created_date": "2026-09-20",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000630",
+    "claim_id": "CLM-000630",
+    "reserve_amount": 165373,
+    "created_date": "2026-07-04",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000631",
+    "claim_id": "CLM-000631",
+    "reserve_amount": 65653,
+    "created_date": "2025-03-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000632",
+    "claim_id": "CLM-000632",
+    "reserve_amount": 119748,
+    "created_date": "2026-06-05",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000633",
+    "claim_id": "CLM-000633",
+    "reserve_amount": 193014,
+    "created_date": "2025-01-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000634",
+    "claim_id": "CLM-000634",
+    "reserve_amount": 100000,
+    "created_date": "2025-01-18",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000635",
+    "claim_id": "CLM-000635",
+    "reserve_amount": 80806,
+    "created_date": "2026-08-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000636",
+    "claim_id": "CLM-000636",
+    "reserve_amount": 92048,
+    "created_date": "2025-11-26",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000637",
+    "claim_id": "CLM-000637",
+    "reserve_amount": 126468,
+    "created_date": "2026-02-02",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000638",
+    "claim_id": "CLM-000638",
+    "reserve_amount": 152574,
+    "created_date": "2025-10-30",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000639",
+    "claim_id": "CLM-000639",
+    "reserve_amount": 197895,
+    "created_date": "2025-10-10",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000640",
+    "claim_id": "CLM-000640",
+    "reserve_amount": 146675,
+    "created_date": "2025-04-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000641",
+    "claim_id": "CLM-000641",
+    "reserve_amount": 172278,
+    "created_date": "2025-12-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000642",
+    "claim_id": "CLM-000642",
+    "reserve_amount": 153131,
+    "created_date": "2025-02-17",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000643",
+    "claim_id": "CLM-000643",
+    "reserve_amount": 147283,
+    "created_date": "2026-05-20",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000644",
+    "claim_id": "CLM-000644",
+    "reserve_amount": 77268,
+    "created_date": "2025-02-05",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000645",
+    "claim_id": "CLM-000645",
+    "reserve_amount": 83640,
+    "created_date": "2025-04-09",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000646",
+    "claim_id": "CLM-000646",
+    "reserve_amount": 147459,
+    "created_date": "2025-08-25",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000647",
+    "claim_id": "CLM-000647",
+    "reserve_amount": 171894,
+    "created_date": "2026-07-10",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000648",
+    "claim_id": "CLM-000648",
+    "reserve_amount": 55953,
+    "created_date": "2026-04-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000649",
+    "claim_id": "CLM-000649",
+    "reserve_amount": 100000,
+    "created_date": "2026-05-31",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000650",
+    "claim_id": "CLM-000650",
+    "reserve_amount": 38776,
+    "created_date": "2025-09-05",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000651",
+    "claim_id": "CLM-000651",
+    "reserve_amount": 164024,
+    "created_date": "2026-09-21",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000652",
+    "claim_id": "CLM-000652",
+    "reserve_amount": 67177,
+    "created_date": "2025-01-15",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000653",
+    "claim_id": "CLM-000653",
+    "reserve_amount": 100000,
+    "created_date": "2026-06-12",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000654",
+    "claim_id": "CLM-000654",
+    "reserve_amount": 89965,
+    "created_date": "2026-06-09",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000655",
+    "claim_id": "CLM-000655",
+    "reserve_amount": 37157,
+    "created_date": "2025-11-13",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000656",
+    "claim_id": "CLM-000656",
+    "reserve_amount": 117501,
+    "created_date": "2025-02-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000657",
+    "claim_id": "CLM-000657",
+    "reserve_amount": 51232,
+    "created_date": "2025-01-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000658",
+    "claim_id": "CLM-000658",
+    "reserve_amount": 69142,
+    "created_date": "2025-10-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000659",
+    "claim_id": "CLM-000659",
+    "reserve_amount": 25809,
+    "created_date": "2026-07-27",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000660",
+    "claim_id": "CLM-000660",
+    "reserve_amount": 130719,
+    "created_date": "2026-02-16",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000661",
+    "claim_id": "CLM-000661",
+    "reserve_amount": 113505,
+    "created_date": "2025-06-17",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000662",
+    "claim_id": "CLM-000662",
+    "reserve_amount": 134463,
+    "created_date": "2026-06-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000663",
+    "claim_id": "CLM-000663",
+    "reserve_amount": 23168,
+    "created_date": "2025-03-10",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000664",
+    "claim_id": "CLM-000664",
+    "reserve_amount": 119628,
+    "created_date": "2026-01-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000665",
+    "claim_id": "CLM-000665",
+    "reserve_amount": 65118,
+    "created_date": "2025-03-25",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000666",
+    "claim_id": "CLM-000666",
+    "reserve_amount": 155958,
+    "created_date": "2026-04-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000667",
+    "claim_id": "CLM-000667",
+    "reserve_amount": 29810,
+    "created_date": "2025-09-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000668",
+    "claim_id": "CLM-000668",
+    "reserve_amount": 49326,
+    "created_date": "2025-04-04",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000669",
+    "claim_id": "CLM-000669",
+    "reserve_amount": 195585,
+    "created_date": "2025-01-13",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000670",
+    "claim_id": "CLM-000670",
+    "reserve_amount": 45999,
+    "created_date": "2025-08-28",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000671",
+    "claim_id": "CLM-000671",
+    "reserve_amount": 148781,
+    "created_date": "2026-09-05",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000672",
+    "claim_id": "CLM-000672",
+    "reserve_amount": 58275,
+    "created_date": "2026-08-28",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000673",
+    "claim_id": "CLM-000673",
+    "reserve_amount": 24195,
+    "created_date": "2025-07-30",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000674",
+    "claim_id": "CLM-000674",
+    "reserve_amount": 136554,
+    "created_date": "2026-07-20",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000675",
+    "claim_id": "CLM-000675",
+    "reserve_amount": 33641,
+    "created_date": "2025-10-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000676",
+    "claim_id": "CLM-000676",
+    "reserve_amount": 43433,
+    "created_date": "2026-07-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000677",
+    "claim_id": "CLM-000677",
+    "reserve_amount": 62243,
+    "created_date": "2026-09-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000678",
+    "claim_id": "CLM-000678",
+    "reserve_amount": 85464,
+    "created_date": "2025-04-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000679",
+    "claim_id": "CLM-000679",
+    "reserve_amount": 70710,
+    "created_date": "2025-11-21",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000680",
+    "claim_id": "CLM-000680",
+    "reserve_amount": 116161,
+    "created_date": "2025-01-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000681",
+    "claim_id": "CLM-000681",
+    "reserve_amount": 114870,
+    "created_date": "2025-01-18",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000682",
+    "claim_id": "CLM-000682",
+    "reserve_amount": 52768,
+    "created_date": "2025-03-02",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000683",
+    "claim_id": "CLM-000683",
+    "reserve_amount": 100000,
+    "created_date": "2025-11-15",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000684",
+    "claim_id": "CLM-000684",
+    "reserve_amount": 152940,
+    "created_date": "2025-02-02",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000685",
+    "claim_id": "CLM-000685",
+    "reserve_amount": 103864,
+    "created_date": "2025-07-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000686",
+    "claim_id": "CLM-000686",
+    "reserve_amount": 63834,
+    "created_date": "2026-09-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000687",
+    "claim_id": "CLM-000687",
+    "reserve_amount": 188036,
+    "created_date": "2025-01-18",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000688",
+    "claim_id": "CLM-000688",
+    "reserve_amount": 86647,
+    "created_date": "2025-01-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000689",
+    "claim_id": "CLM-000689",
+    "reserve_amount": 64090,
+    "created_date": "2026-09-15",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000690",
+    "claim_id": "CLM-000690",
+    "reserve_amount": 185912,
+    "created_date": "2025-05-28",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000691",
+    "claim_id": "CLM-000691",
+    "reserve_amount": 181902,
+    "created_date": "2025-01-17",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000692",
+    "claim_id": "CLM-000692",
+    "reserve_amount": 100000,
+    "created_date": "2025-02-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000693",
+    "claim_id": "CLM-000693",
+    "reserve_amount": 28473,
+    "created_date": "2026-04-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000694",
+    "claim_id": "CLM-000694",
+    "reserve_amount": 148195,
+    "created_date": "2026-08-26",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000695",
+    "claim_id": "CLM-000695",
+    "reserve_amount": 103887,
+    "created_date": "2025-01-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000696",
+    "claim_id": "CLM-000696",
+    "reserve_amount": 100000,
+    "created_date": "2025-04-30",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000697",
+    "claim_id": "CLM-000697",
+    "reserve_amount": 135717,
+    "created_date": "2026-08-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000698",
+    "claim_id": "CLM-000698",
+    "reserve_amount": 100000,
+    "created_date": "2026-08-12",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000699",
+    "claim_id": "CLM-000699",
+    "reserve_amount": 72517,
+    "created_date": "2026-01-31",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000700",
+    "claim_id": "CLM-000700",
+    "reserve_amount": 61758,
+    "created_date": "2025-12-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000701",
+    "claim_id": "CLM-000701",
+    "reserve_amount": 34453,
+    "created_date": "2025-12-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000702",
+    "claim_id": "CLM-000702",
+    "reserve_amount": 19602,
+    "created_date": "2026-05-18",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000703",
+    "claim_id": "CLM-000703",
+    "reserve_amount": 190857,
+    "created_date": "2025-02-16",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000704",
+    "claim_id": "CLM-000704",
+    "reserve_amount": 18569,
+    "created_date": "2026-08-12",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000705",
+    "claim_id": "CLM-000705",
+    "reserve_amount": 129481,
+    "created_date": "2025-12-17",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000706",
+    "claim_id": "CLM-000706",
+    "reserve_amount": 189734,
+    "created_date": "2026-07-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000707",
+    "claim_id": "CLM-000707",
+    "reserve_amount": 159446,
+    "created_date": "2026-09-28",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000708",
+    "claim_id": "CLM-000708",
+    "reserve_amount": 19825,
+    "created_date": "2026-07-09",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000709",
+    "claim_id": "CLM-000709",
+    "reserve_amount": 157716,
+    "created_date": "2025-02-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000710",
+    "claim_id": "CLM-000710",
+    "reserve_amount": 114042,
+    "created_date": "2026-09-10",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000711",
+    "claim_id": "CLM-000711",
+    "reserve_amount": 68554,
+    "created_date": "2026-09-15",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000712",
+    "claim_id": "CLM-000712",
+    "reserve_amount": 162514,
+    "created_date": "2025-02-04",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000713",
+    "claim_id": "CLM-000713",
+    "reserve_amount": 137205,
+    "created_date": "2025-09-17",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000714",
+    "claim_id": "CLM-000714",
+    "reserve_amount": 18625,
+    "created_date": "2025-09-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000715",
+    "claim_id": "CLM-000715",
+    "reserve_amount": 18284,
+    "created_date": "2026-10-03",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000716",
+    "claim_id": "CLM-000716",
+    "reserve_amount": 183768,
+    "created_date": "2026-09-13",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000717",
+    "claim_id": "CLM-000717",
+    "reserve_amount": 124249,
+    "created_date": "2026-09-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000718",
+    "claim_id": "CLM-000718",
+    "reserve_amount": 177527,
+    "created_date": "2026-03-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000719",
+    "claim_id": "CLM-000719",
+    "reserve_amount": 100000,
+    "created_date": "2026-04-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000720",
+    "claim_id": "CLM-000720",
+    "reserve_amount": 119243,
+    "created_date": "2025-10-20",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000721",
+    "claim_id": "CLM-000721",
+    "reserve_amount": 91638,
+    "created_date": "2026-07-21",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000722",
+    "claim_id": "CLM-000722",
+    "reserve_amount": 34887,
+    "created_date": "2025-04-15",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000723",
+    "claim_id": "CLM-000723",
+    "reserve_amount": 100000,
+    "created_date": "2026-01-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000724",
+    "claim_id": "CLM-000724",
+    "reserve_amount": 100728,
+    "created_date": "2025-08-28",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000725",
+    "claim_id": "CLM-000725",
+    "reserve_amount": 75856,
+    "created_date": "2026-09-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000726",
+    "claim_id": "CLM-000726",
+    "reserve_amount": 187048,
+    "created_date": "2026-04-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000727",
+    "claim_id": "CLM-000727",
+    "reserve_amount": 160626,
+    "created_date": "2025-12-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000728",
+    "claim_id": "CLM-000728",
+    "reserve_amount": 100000,
+    "created_date": "2025-02-13",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000729",
+    "claim_id": "CLM-000729",
+    "reserve_amount": 42451,
+    "created_date": "2026-07-16",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000730",
+    "claim_id": "CLM-000730",
+    "reserve_amount": 19624,
+    "created_date": "2026-07-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000731",
+    "claim_id": "CLM-000731",
+    "reserve_amount": 100000,
+    "created_date": "2026-04-16",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000732",
+    "claim_id": "CLM-000732",
+    "reserve_amount": 178172,
+    "created_date": "2025-02-16",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000733",
+    "claim_id": "CLM-000733",
+    "reserve_amount": 65240,
+    "created_date": "2025-01-29",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000734",
+    "claim_id": "CLM-000734",
+    "reserve_amount": 115256,
+    "created_date": "2026-07-10",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000735",
+    "claim_id": "CLM-000735",
+    "reserve_amount": 33565,
+    "created_date": "2025-01-29",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000736",
+    "claim_id": "CLM-000736",
+    "reserve_amount": 66982,
+    "created_date": "2025-09-21",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000737",
+    "claim_id": "CLM-000737",
+    "reserve_amount": 159382,
+    "created_date": "2025-10-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000738",
+    "claim_id": "CLM-000738",
+    "reserve_amount": 47713,
+    "created_date": "2026-04-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000739",
+    "claim_id": "CLM-000739",
+    "reserve_amount": 100000,
+    "created_date": "2025-09-27",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000740",
+    "claim_id": "CLM-000740",
+    "reserve_amount": 45564,
+    "created_date": "2026-05-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000741",
+    "claim_id": "CLM-000741",
+    "reserve_amount": 111998,
+    "created_date": "2025-04-04",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000742",
+    "claim_id": "CLM-000742",
+    "reserve_amount": 175204,
+    "created_date": "2026-07-15",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000743",
+    "claim_id": "CLM-000743",
+    "reserve_amount": 55393,
+    "created_date": "2026-09-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000744",
+    "claim_id": "CLM-000744",
+    "reserve_amount": 57063,
+    "created_date": "2026-09-15",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000745",
+    "claim_id": "CLM-000745",
+    "reserve_amount": 98398,
+    "created_date": "2026-09-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000746",
+    "claim_id": "CLM-000746",
+    "reserve_amount": 141850,
+    "created_date": "2025-10-29",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000747",
+    "claim_id": "CLM-000747",
+    "reserve_amount": 131193,
+    "created_date": "2026-03-15",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000748",
+    "claim_id": "CLM-000748",
+    "reserve_amount": 114121,
+    "created_date": "2026-08-28",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000749",
+    "claim_id": "CLM-000749",
+    "reserve_amount": 38003,
+    "created_date": "2026-01-16",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000750",
+    "claim_id": "CLM-000750",
+    "reserve_amount": 23218,
+    "created_date": "2026-08-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000751",
+    "claim_id": "CLM-000751",
+    "reserve_amount": 52334,
+    "created_date": "2026-08-25",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000752",
+    "claim_id": "CLM-000752",
+    "reserve_amount": 48658,
+    "created_date": "2025-11-13",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000753",
+    "claim_id": "CLM-000753",
+    "reserve_amount": 42255,
+    "created_date": "2026-02-20",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000754",
+    "claim_id": "CLM-000754",
+    "reserve_amount": 92515,
+    "created_date": "2025-08-16",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000755",
+    "claim_id": "CLM-000755",
+    "reserve_amount": 133170,
+    "created_date": "2025-01-15",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000756",
+    "claim_id": "CLM-000756",
+    "reserve_amount": 190335,
+    "created_date": "2025-02-01",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000757",
+    "claim_id": "CLM-000757",
+    "reserve_amount": 137866,
+    "created_date": "2025-02-20",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000758",
+    "claim_id": "CLM-000758",
+    "reserve_amount": 33483,
+    "created_date": "2026-09-01",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000759",
+    "claim_id": "CLM-000759",
+    "reserve_amount": 141126,
+    "created_date": "2026-03-29",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000760",
+    "claim_id": "CLM-000760",
+    "reserve_amount": 72509,
+    "created_date": "2025-02-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000761",
+    "claim_id": "CLM-000761",
+    "reserve_amount": 124986,
+    "created_date": "2025-02-25",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000762",
+    "claim_id": "CLM-000762",
+    "reserve_amount": 100000,
+    "created_date": "2025-03-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000763",
+    "claim_id": "CLM-000763",
+    "reserve_amount": 121053,
+    "created_date": "2025-05-26",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000764",
+    "claim_id": "CLM-000764",
+    "reserve_amount": 15062,
+    "created_date": "2026-05-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000765",
+    "claim_id": "CLM-000765",
+    "reserve_amount": 195315,
+    "created_date": "2025-09-05",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000766",
+    "claim_id": "CLM-000766",
+    "reserve_amount": 121761,
+    "created_date": "2025-06-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000767",
+    "claim_id": "CLM-000767",
+    "reserve_amount": 100000,
+    "created_date": "2026-06-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000768",
+    "claim_id": "CLM-000768",
+    "reserve_amount": 100000,
+    "created_date": "2025-02-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000769",
+    "claim_id": "CLM-000769",
+    "reserve_amount": 91021,
+    "created_date": "2025-11-27",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000770",
+    "claim_id": "CLM-000770",
+    "reserve_amount": 173995,
+    "created_date": "2026-08-18",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000771",
+    "claim_id": "CLM-000771",
+    "reserve_amount": 61262,
+    "created_date": "2025-11-09",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000772",
+    "claim_id": "CLM-000772",
+    "reserve_amount": 82081,
+    "created_date": "2026-09-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000773",
+    "claim_id": "CLM-000773",
+    "reserve_amount": 89762,
+    "created_date": "2026-09-16",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000774",
+    "claim_id": "CLM-000774",
+    "reserve_amount": 47884,
+    "created_date": "2026-10-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000775",
+    "claim_id": "CLM-000775",
+    "reserve_amount": 19179,
+    "created_date": "2025-10-30",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000776",
+    "claim_id": "CLM-000776",
+    "reserve_amount": 62860,
+    "created_date": "2026-08-16",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000777",
+    "claim_id": "CLM-000777",
+    "reserve_amount": 83803,
+    "created_date": "2026-05-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000778",
+    "claim_id": "CLM-000778",
+    "reserve_amount": 28605,
+    "created_date": "2025-02-01",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000779",
+    "claim_id": "CLM-000779",
+    "reserve_amount": 52348,
+    "created_date": "2025-12-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000780",
+    "claim_id": "CLM-000780",
+    "reserve_amount": 92653,
+    "created_date": "2025-02-25",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000781",
+    "claim_id": "CLM-000781",
+    "reserve_amount": 146407,
+    "created_date": "2026-06-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000782",
+    "claim_id": "CLM-000782",
+    "reserve_amount": 43562,
+    "created_date": "2025-05-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000783",
+    "claim_id": "CLM-000783",
+    "reserve_amount": 179361,
+    "created_date": "2026-04-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000784",
+    "claim_id": "CLM-000784",
+    "reserve_amount": 44490,
+    "created_date": "2025-12-10",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000785",
+    "claim_id": "CLM-000785",
+    "reserve_amount": 130530,
+    "created_date": "2026-03-01",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000786",
+    "claim_id": "CLM-000786",
+    "reserve_amount": 61658,
+    "created_date": "2025-03-21",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000787",
+    "claim_id": "CLM-000787",
+    "reserve_amount": 75983,
+    "created_date": "2026-08-18",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000788",
+    "claim_id": "CLM-000788",
+    "reserve_amount": 121119,
+    "created_date": "2025-07-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000789",
+    "claim_id": "CLM-000789",
+    "reserve_amount": 101854,
+    "created_date": "2025-12-21",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000790",
+    "claim_id": "CLM-000790",
+    "reserve_amount": 77020,
+    "created_date": "2025-02-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000791",
+    "claim_id": "CLM-000791",
+    "reserve_amount": 193780,
+    "created_date": "2026-08-13",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000792",
+    "claim_id": "CLM-000792",
+    "reserve_amount": 109726,
+    "created_date": "2025-02-10",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000793",
+    "claim_id": "CLM-000793",
+    "reserve_amount": 56466,
+    "created_date": "2025-05-03",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000794",
+    "claim_id": "CLM-000794",
+    "reserve_amount": 180511,
+    "created_date": "2025-11-26",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000795",
+    "claim_id": "CLM-000795",
+    "reserve_amount": 161428,
+    "created_date": "2025-10-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000796",
+    "claim_id": "CLM-000796",
+    "reserve_amount": 180176,
+    "created_date": "2026-10-03",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000797",
+    "claim_id": "CLM-000797",
+    "reserve_amount": 100000,
+    "created_date": "2025-10-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000798",
+    "claim_id": "CLM-000798",
+    "reserve_amount": 128367,
+    "created_date": "2026-09-20",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000799",
+    "claim_id": "CLM-000799",
+    "reserve_amount": 181121,
+    "created_date": "2025-03-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000800",
+    "claim_id": "CLM-000800",
+    "reserve_amount": 30399,
+    "created_date": "2025-01-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000801",
+    "claim_id": "CLM-000801",
+    "reserve_amount": 196658,
+    "created_date": "2025-04-01",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000802",
+    "claim_id": "CLM-000802",
+    "reserve_amount": 46409,
+    "created_date": "2025-10-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000803",
+    "claim_id": "CLM-000803",
+    "reserve_amount": 62601,
+    "created_date": "2026-08-04",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000804",
+    "claim_id": "CLM-000804",
+    "reserve_amount": 36476,
+    "created_date": "2025-05-13",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000805",
+    "claim_id": "CLM-000805",
+    "reserve_amount": 85677,
+    "created_date": "2026-02-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000806",
+    "claim_id": "CLM-000806",
+    "reserve_amount": 137099,
+    "created_date": "2026-08-04",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000807",
+    "claim_id": "CLM-000807",
+    "reserve_amount": 70094,
+    "created_date": "2025-03-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000808",
+    "claim_id": "CLM-000808",
+    "reserve_amount": 129314,
+    "created_date": "2025-06-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000809",
+    "claim_id": "CLM-000809",
+    "reserve_amount": 134894,
+    "created_date": "2025-03-16",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000810",
+    "claim_id": "CLM-000810",
+    "reserve_amount": 109502,
+    "created_date": "2025-08-04",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000811",
+    "claim_id": "CLM-000811",
+    "reserve_amount": 27702,
+    "created_date": "2025-01-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000812",
+    "claim_id": "CLM-000812",
+    "reserve_amount": 33460,
+    "created_date": "2025-02-03",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000813",
+    "claim_id": "CLM-000813",
+    "reserve_amount": 19691,
+    "created_date": "2026-07-27",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000814",
+    "claim_id": "CLM-000814",
+    "reserve_amount": 100000,
+    "created_date": "2026-04-12",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000815",
+    "claim_id": "CLM-000815",
+    "reserve_amount": 129243,
+    "created_date": "2026-08-03",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000816",
+    "claim_id": "CLM-000816",
+    "reserve_amount": 187987,
+    "created_date": "2025-07-13",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000817",
+    "claim_id": "CLM-000817",
+    "reserve_amount": 185472,
+    "created_date": "2026-04-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000818",
+    "claim_id": "CLM-000818",
+    "reserve_amount": 97738,
+    "created_date": "2025-02-09",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000819",
+    "claim_id": "CLM-000819",
+    "reserve_amount": 108030,
+    "created_date": "2025-09-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000820",
+    "claim_id": "CLM-000820",
+    "reserve_amount": 34074,
+    "created_date": "2025-05-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000821",
+    "claim_id": "CLM-000821",
+    "reserve_amount": 156875,
+    "created_date": "2026-07-12",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000822",
+    "claim_id": "CLM-000822",
+    "reserve_amount": 73713,
+    "created_date": "2026-06-05",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000823",
+    "claim_id": "CLM-000823",
+    "reserve_amount": 26633,
+    "created_date": "2026-04-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000824",
+    "claim_id": "CLM-000824",
+    "reserve_amount": 178679,
+    "created_date": "2025-06-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000825",
+    "claim_id": "CLM-000825",
+    "reserve_amount": 58809,
+    "created_date": "2025-12-29",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000826",
+    "claim_id": "CLM-000826",
+    "reserve_amount": 64973,
+    "created_date": "2025-04-16",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000827",
+    "claim_id": "CLM-000827",
+    "reserve_amount": 66906,
+    "created_date": "2026-03-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000828",
+    "claim_id": "CLM-000828",
+    "reserve_amount": 111582,
+    "created_date": "2025-04-30",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000829",
+    "claim_id": "CLM-000829",
+    "reserve_amount": 69265,
+    "created_date": "2025-02-28",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000830",
+    "claim_id": "CLM-000830",
+    "reserve_amount": 67655,
+    "created_date": "2025-01-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000831",
+    "claim_id": "CLM-000831",
+    "reserve_amount": 19551,
+    "created_date": "2026-10-01",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000832",
+    "claim_id": "CLM-000832",
+    "reserve_amount": 81462,
+    "created_date": "2025-05-31",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000833",
+    "claim_id": "CLM-000833",
+    "reserve_amount": 148603,
+    "created_date": "2025-04-27",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000834",
+    "claim_id": "CLM-000834",
+    "reserve_amount": 145963,
+    "created_date": "2026-04-12",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000835",
+    "claim_id": "CLM-000835",
+    "reserve_amount": 174430,
+    "created_date": "2025-12-01",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000836",
+    "claim_id": "CLM-000836",
+    "reserve_amount": 148180,
+    "created_date": "2026-09-09",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000837",
+    "claim_id": "CLM-000837",
+    "reserve_amount": 189914,
+    "created_date": "2025-01-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000838",
+    "claim_id": "CLM-000838",
+    "reserve_amount": 100000,
+    "created_date": "2025-01-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000839",
+    "claim_id": "CLM-000839",
+    "reserve_amount": 51678,
+    "created_date": "2025-12-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000840",
+    "claim_id": "CLM-000840",
+    "reserve_amount": 60667,
+    "created_date": "2026-01-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000841",
+    "claim_id": "CLM-000841",
+    "reserve_amount": 36045,
+    "created_date": "2025-11-18",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000842",
+    "claim_id": "CLM-000842",
+    "reserve_amount": 115719,
+    "created_date": "2026-03-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000843",
+    "claim_id": "CLM-000843",
+    "reserve_amount": 77722,
+    "created_date": "2026-08-03",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000844",
+    "claim_id": "CLM-000844",
+    "reserve_amount": 37205,
+    "created_date": "2026-04-12",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000845",
+    "claim_id": "CLM-000845",
+    "reserve_amount": 15844,
+    "created_date": "2025-07-04",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000846",
+    "claim_id": "CLM-000846",
+    "reserve_amount": 144927,
+    "created_date": "2025-12-05",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000847",
+    "claim_id": "CLM-000847",
+    "reserve_amount": 46636,
+    "created_date": "2025-09-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000848",
+    "claim_id": "CLM-000848",
+    "reserve_amount": 65529,
+    "created_date": "2025-02-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000849",
+    "claim_id": "CLM-000849",
+    "reserve_amount": 79962,
+    "created_date": "2026-02-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000850",
+    "claim_id": "CLM-000850",
+    "reserve_amount": 80633,
+    "created_date": "2025-03-12",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000851",
+    "claim_id": "CLM-000851",
+    "reserve_amount": 28117,
+    "created_date": "2025-08-25",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000852",
+    "claim_id": "CLM-000852",
+    "reserve_amount": 97266,
+    "created_date": "2026-08-15",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000853",
+    "claim_id": "CLM-000853",
+    "reserve_amount": 112498,
+    "created_date": "2026-01-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000854",
+    "claim_id": "CLM-000854",
+    "reserve_amount": 100000,
+    "created_date": "2025-02-01",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000855",
+    "claim_id": "CLM-000855",
+    "reserve_amount": 19216,
+    "created_date": "2025-01-16",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000856",
+    "claim_id": "CLM-000856",
+    "reserve_amount": 100000,
+    "created_date": "2026-04-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000857",
+    "claim_id": "CLM-000857",
+    "reserve_amount": 37654,
+    "created_date": "2025-03-21",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000858",
+    "claim_id": "CLM-000858",
+    "reserve_amount": 43783,
+    "created_date": "2025-06-21",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000859",
+    "claim_id": "CLM-000859",
+    "reserve_amount": 193783,
+    "created_date": "2025-08-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000860",
+    "claim_id": "CLM-000860",
+    "reserve_amount": 199494,
+    "created_date": "2026-02-04",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000861",
+    "claim_id": "CLM-000861",
+    "reserve_amount": 100000,
+    "created_date": "2025-02-28",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000862",
+    "claim_id": "CLM-000862",
+    "reserve_amount": 131182,
+    "created_date": "2025-03-17",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000863",
+    "claim_id": "CLM-000863",
+    "reserve_amount": 102203,
+    "created_date": "2026-09-20",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000864",
+    "claim_id": "CLM-000864",
+    "reserve_amount": 144348,
+    "created_date": "2025-09-05",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000865",
+    "claim_id": "CLM-000865",
+    "reserve_amount": 170435,
+    "created_date": "2025-01-20",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000866",
+    "claim_id": "CLM-000866",
+    "reserve_amount": 28422,
+    "created_date": "2026-03-10",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000867",
+    "claim_id": "CLM-000867",
+    "reserve_amount": 94575,
+    "created_date": "2026-01-01",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000868",
+    "claim_id": "CLM-000868",
+    "reserve_amount": 133191,
+    "created_date": "2025-02-15",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000869",
+    "claim_id": "CLM-000869",
+    "reserve_amount": 94395,
+    "created_date": "2025-03-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000870",
+    "claim_id": "CLM-000870",
+    "reserve_amount": 32433,
+    "created_date": "2025-03-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000871",
+    "claim_id": "CLM-000871",
+    "reserve_amount": 37354,
+    "created_date": "2026-09-27",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000872",
+    "claim_id": "CLM-000872",
+    "reserve_amount": 76787,
+    "created_date": "2025-04-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000873",
+    "claim_id": "CLM-000873",
+    "reserve_amount": 142107,
+    "created_date": "2026-04-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000874",
+    "claim_id": "CLM-000874",
+    "reserve_amount": 45964,
+    "created_date": "2026-08-16",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000875",
+    "claim_id": "CLM-000875",
+    "reserve_amount": 171522,
+    "created_date": "2025-04-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000876",
+    "claim_id": "CLM-000876",
+    "reserve_amount": 84583,
+    "created_date": "2026-05-21",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000877",
+    "claim_id": "CLM-000877",
+    "reserve_amount": 68104,
+    "created_date": "2026-08-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000878",
+    "claim_id": "CLM-000878",
+    "reserve_amount": 92683,
+    "created_date": "2026-07-30",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000879",
+    "claim_id": "CLM-000879",
+    "reserve_amount": 119592,
+    "created_date": "2025-10-28",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000880",
+    "claim_id": "CLM-000880",
+    "reserve_amount": 149836,
+    "created_date": "2026-04-10",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000881",
+    "claim_id": "CLM-000881",
+    "reserve_amount": 73276,
+    "created_date": "2026-03-01",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000882",
+    "claim_id": "CLM-000882",
+    "reserve_amount": 100000,
+    "created_date": "2026-08-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000883",
+    "claim_id": "CLM-000883",
+    "reserve_amount": 76420,
+    "created_date": "2025-03-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000884",
+    "claim_id": "CLM-000884",
+    "reserve_amount": 153725,
+    "created_date": "2026-04-29",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000885",
+    "claim_id": "CLM-000885",
+    "reserve_amount": 99057,
+    "created_date": "2026-09-28",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000886",
+    "claim_id": "CLM-000886",
+    "reserve_amount": 98315,
+    "created_date": "2026-07-21",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000887",
+    "claim_id": "CLM-000887",
+    "reserve_amount": 19339,
+    "created_date": "2025-03-01",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000888",
+    "claim_id": "CLM-000888",
+    "reserve_amount": 85119,
+    "created_date": "2026-02-20",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000889",
+    "claim_id": "CLM-000889",
+    "reserve_amount": 80689,
+    "created_date": "2026-08-09",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000890",
+    "claim_id": "CLM-000890",
+    "reserve_amount": 101368,
+    "created_date": "2025-01-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000891",
+    "claim_id": "CLM-000891",
+    "reserve_amount": 133390,
+    "created_date": "2026-01-30",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000892",
+    "claim_id": "CLM-000892",
+    "reserve_amount": 100000,
+    "created_date": "2026-02-25",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000893",
+    "claim_id": "CLM-000893",
+    "reserve_amount": 15639,
+    "created_date": "2026-05-01",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000894",
+    "claim_id": "CLM-000894",
+    "reserve_amount": 193583,
+    "created_date": "2026-07-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000895",
+    "claim_id": "CLM-000895",
+    "reserve_amount": 142822,
+    "created_date": "2025-06-21",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000896",
+    "claim_id": "CLM-000896",
+    "reserve_amount": 132894,
+    "created_date": "2025-03-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000897",
+    "claim_id": "CLM-000897",
+    "reserve_amount": 88009,
+    "created_date": "2026-09-03",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000898",
+    "claim_id": "CLM-000898",
+    "reserve_amount": 178940,
+    "created_date": "2026-09-28",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000899",
+    "claim_id": "CLM-000899",
+    "reserve_amount": 73172,
+    "created_date": "2026-08-25",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000900",
+    "claim_id": "CLM-000900",
+    "reserve_amount": 91680,
+    "created_date": "2026-04-03",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000901",
+    "claim_id": "CLM-000901",
+    "reserve_amount": 155844,
+    "created_date": "2025-03-26",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000902",
+    "claim_id": "CLM-000902",
+    "reserve_amount": 100000,
+    "created_date": "2026-02-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000903",
+    "claim_id": "CLM-000903",
+    "reserve_amount": 100000,
+    "created_date": "2025-08-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000904",
+    "claim_id": "CLM-000904",
+    "reserve_amount": 63846,
+    "created_date": "2025-04-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000905",
+    "claim_id": "CLM-000905",
+    "reserve_amount": 34657,
+    "created_date": "2025-12-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000906",
+    "claim_id": "CLM-000906",
+    "reserve_amount": 183057,
+    "created_date": "2025-02-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000907",
+    "claim_id": "CLM-000907",
+    "reserve_amount": 90701,
+    "created_date": "2025-02-17",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000908",
+    "claim_id": "CLM-000908",
+    "reserve_amount": 103015,
+    "created_date": "2025-07-13",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000909",
+    "claim_id": "CLM-000909",
+    "reserve_amount": 165183,
+    "created_date": "2025-07-25",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000910",
+    "claim_id": "CLM-000910",
+    "reserve_amount": 100000,
+    "created_date": "2026-07-28",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000911",
+    "claim_id": "CLM-000911",
+    "reserve_amount": 100000,
+    "created_date": "2025-06-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000912",
+    "claim_id": "CLM-000912",
+    "reserve_amount": 166635,
+    "created_date": "2025-03-27",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000913",
+    "claim_id": "CLM-000913",
+    "reserve_amount": 172214,
+    "created_date": "2026-07-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000914",
+    "claim_id": "CLM-000914",
+    "reserve_amount": 118851,
+    "created_date": "2025-04-28",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000915",
+    "claim_id": "CLM-000915",
+    "reserve_amount": 86737,
+    "created_date": "2026-06-20",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000916",
+    "claim_id": "CLM-000916",
+    "reserve_amount": 20086,
+    "created_date": "2025-04-21",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000917",
+    "claim_id": "CLM-000917",
+    "reserve_amount": 121258,
+    "created_date": "2026-04-13",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000918",
+    "claim_id": "CLM-000918",
+    "reserve_amount": 97528,
+    "created_date": "2025-08-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000919",
+    "claim_id": "CLM-000919",
+    "reserve_amount": 189049,
+    "created_date": "2026-06-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000920",
+    "claim_id": "CLM-000920",
+    "reserve_amount": 117291,
+    "created_date": "2025-02-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000921",
+    "claim_id": "CLM-000921",
+    "reserve_amount": 27857,
+    "created_date": "2025-07-09",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000922",
+    "claim_id": "CLM-000922",
+    "reserve_amount": 136746,
+    "created_date": "2025-04-30",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000923",
+    "claim_id": "CLM-000923",
+    "reserve_amount": 141286,
+    "created_date": "2025-03-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000924",
+    "claim_id": "CLM-000924",
+    "reserve_amount": 65808,
+    "created_date": "2025-04-20",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000925",
+    "claim_id": "CLM-000925",
+    "reserve_amount": 189610,
+    "created_date": "2025-07-18",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000926",
+    "claim_id": "CLM-000926",
+    "reserve_amount": 148525,
+    "created_date": "2025-01-09",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000927",
+    "claim_id": "CLM-000927",
+    "reserve_amount": 32528,
+    "created_date": "2026-08-12",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000928",
+    "claim_id": "CLM-000928",
+    "reserve_amount": 198516,
+    "created_date": "2025-12-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000929",
+    "claim_id": "CLM-000929",
+    "reserve_amount": 76287,
+    "created_date": "2025-09-28",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000930",
+    "claim_id": "CLM-000930",
+    "reserve_amount": 78049,
+    "created_date": "2026-09-05",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000931",
+    "claim_id": "CLM-000931",
+    "reserve_amount": 71020,
+    "created_date": "2025-12-27",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000932",
+    "claim_id": "CLM-000932",
+    "reserve_amount": 164925,
+    "created_date": "2025-06-20",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000933",
+    "claim_id": "CLM-000933",
+    "reserve_amount": 104521,
+    "created_date": "2025-04-10",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000934",
+    "claim_id": "CLM-000934",
+    "reserve_amount": 134072,
+    "created_date": "2025-12-04",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000935",
+    "claim_id": "CLM-000935",
+    "reserve_amount": 72189,
+    "created_date": "2026-06-17",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000936",
+    "claim_id": "CLM-000936",
+    "reserve_amount": 100000,
+    "created_date": "2026-03-09",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000937",
+    "claim_id": "CLM-000937",
+    "reserve_amount": 100000,
+    "created_date": "2026-08-27",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000938",
+    "claim_id": "CLM-000938",
+    "reserve_amount": 100000,
+    "created_date": "2025-07-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000939",
+    "claim_id": "CLM-000939",
+    "reserve_amount": 25003,
+    "created_date": "2026-02-27",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000940",
+    "claim_id": "CLM-000940",
+    "reserve_amount": 170219,
+    "created_date": "2025-01-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000941",
+    "claim_id": "CLM-000941",
+    "reserve_amount": 124424,
+    "created_date": "2026-09-04",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000942",
+    "claim_id": "CLM-000942",
+    "reserve_amount": 52398,
+    "created_date": "2025-03-08",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000943",
+    "claim_id": "CLM-000943",
+    "reserve_amount": 51556,
+    "created_date": "2026-06-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000944",
+    "claim_id": "CLM-000944",
+    "reserve_amount": 22247,
+    "created_date": "2026-06-05",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000945",
+    "claim_id": "CLM-000945",
+    "reserve_amount": 191072,
+    "created_date": "2025-01-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000946",
+    "claim_id": "CLM-000946",
+    "reserve_amount": 149140,
+    "created_date": "2026-06-21",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000947",
+    "claim_id": "CLM-000947",
+    "reserve_amount": 48870,
+    "created_date": "2025-01-28",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000948",
+    "claim_id": "CLM-000948",
+    "reserve_amount": 38065,
+    "created_date": "2026-08-21",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000949",
+    "claim_id": "CLM-000949",
+    "reserve_amount": 100000,
+    "created_date": "2025-11-25",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000950",
+    "claim_id": "CLM-000950",
+    "reserve_amount": 55142,
+    "created_date": "2026-01-02",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000951",
+    "claim_id": "CLM-000951",
+    "reserve_amount": 57890,
+    "created_date": "2025-03-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000952",
+    "claim_id": "CLM-000952",
+    "reserve_amount": 36483,
+    "created_date": "2026-06-09",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000953",
+    "claim_id": "CLM-000953",
+    "reserve_amount": 141995,
+    "created_date": "2026-06-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000954",
+    "claim_id": "CLM-000954",
+    "reserve_amount": 189757,
+    "created_date": "2026-04-30",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000955",
+    "claim_id": "CLM-000955",
+    "reserve_amount": 49536,
+    "created_date": "2026-06-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000956",
+    "claim_id": "CLM-000956",
+    "reserve_amount": 147121,
+    "created_date": "2026-08-24",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000957",
+    "claim_id": "CLM-000957",
+    "reserve_amount": 140237,
+    "created_date": "2026-08-26",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000958",
+    "claim_id": "CLM-000958",
+    "reserve_amount": 100000,
+    "created_date": "2025-07-27",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000959",
+    "claim_id": "CLM-000959",
+    "reserve_amount": 44596,
+    "created_date": "2025-06-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000960",
+    "claim_id": "CLM-000960",
+    "reserve_amount": 111610,
+    "created_date": "2025-04-27",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000961",
+    "claim_id": "CLM-000961",
+    "reserve_amount": 102411,
+    "created_date": "2025-11-02",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000962",
+    "claim_id": "CLM-000962",
+    "reserve_amount": 183096,
+    "created_date": "2025-07-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000963",
+    "claim_id": "CLM-000963",
+    "reserve_amount": 29906,
+    "created_date": "2026-05-28",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000964",
+    "claim_id": "CLM-000964",
+    "reserve_amount": 119583,
+    "created_date": "2026-02-04",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000965",
+    "claim_id": "CLM-000965",
+    "reserve_amount": 21721,
+    "created_date": "2026-05-10",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000966",
+    "claim_id": "CLM-000966",
+    "reserve_amount": 190902,
+    "created_date": "2026-06-28",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000967",
+    "claim_id": "CLM-000967",
+    "reserve_amount": 144174,
+    "created_date": "2025-03-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000968",
+    "claim_id": "CLM-000968",
+    "reserve_amount": 117785,
+    "created_date": "2025-04-26",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000969",
+    "claim_id": "CLM-000969",
+    "reserve_amount": 152728,
+    "created_date": "2026-09-21",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000970",
+    "claim_id": "CLM-000970",
+    "reserve_amount": 43554,
+    "created_date": "2025-07-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000971",
+    "claim_id": "CLM-000971",
+    "reserve_amount": 100000,
+    "created_date": "2025-01-20",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000972",
+    "claim_id": "CLM-000972",
+    "reserve_amount": 181160,
+    "created_date": "2025-09-01",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000973",
+    "claim_id": "CLM-000973",
+    "reserve_amount": 100000,
+    "created_date": "2025-02-20",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000974",
+    "claim_id": "CLM-000974",
+    "reserve_amount": 56266,
+    "created_date": "2026-10-01",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000975",
+    "claim_id": "CLM-000975",
+    "reserve_amount": 100000,
+    "created_date": "2026-04-14",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000976",
+    "claim_id": "CLM-000976",
+    "reserve_amount": 50868,
+    "created_date": "2025-08-21",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000977",
+    "claim_id": "CLM-000977",
+    "reserve_amount": 42260,
+    "created_date": "2026-05-23",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000978",
+    "claim_id": "CLM-000978",
+    "reserve_amount": 145691,
+    "created_date": "2025-06-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000979",
+    "claim_id": "CLM-000979",
+    "reserve_amount": 21973,
+    "created_date": "2025-10-09",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000980",
+    "claim_id": "CLM-000980",
+    "reserve_amount": 71957,
+    "created_date": "2026-06-10",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000981",
+    "claim_id": "CLM-000981",
+    "reserve_amount": 49690,
+    "created_date": "2026-09-05",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000982",
+    "claim_id": "CLM-000982",
+    "reserve_amount": 91616,
+    "created_date": "2026-01-04",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000983",
+    "claim_id": "CLM-000983",
+    "reserve_amount": 46521,
+    "created_date": "2026-05-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000984",
+    "claim_id": "CLM-000984",
+    "reserve_amount": 78100,
+    "created_date": "2025-02-27",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000985",
+    "claim_id": "CLM-000985",
+    "reserve_amount": 93170,
+    "created_date": "2026-06-01",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000986",
+    "claim_id": "CLM-000986",
+    "reserve_amount": 188629,
+    "created_date": "2025-04-17",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000987",
+    "claim_id": "CLM-000987",
+    "reserve_amount": 179373,
+    "created_date": "2026-06-26",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000988",
+    "claim_id": "CLM-000988",
+    "reserve_amount": 145994,
+    "created_date": "2026-09-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000989",
+    "claim_id": "CLM-000989",
+    "reserve_amount": 187584,
+    "created_date": "2026-10-05",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000990",
+    "claim_id": "CLM-000990",
+    "reserve_amount": 56498,
+    "created_date": "2026-05-11",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000991",
+    "claim_id": "CLM-000991",
+    "reserve_amount": 105532,
+    "created_date": "2025-01-19",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000992",
+    "claim_id": "CLM-000992",
+    "reserve_amount": 20049,
+    "created_date": "2025-09-30",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000993",
+    "claim_id": "CLM-000993",
+    "reserve_amount": 190018,
+    "created_date": "2026-05-17",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000994",
+    "claim_id": "CLM-000994",
+    "reserve_amount": 61352,
+    "created_date": "2026-04-03",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000995",
+    "claim_id": "CLM-000995",
+    "reserve_amount": 26591,
+    "created_date": "2025-10-26",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000996",
+    "claim_id": "CLM-000996",
+    "reserve_amount": 100000,
+    "created_date": "2026-05-07",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000997",
+    "claim_id": "CLM-000997",
+    "reserve_amount": 91564,
+    "created_date": "2025-06-22",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000998",
+    "claim_id": "CLM-000998",
+    "reserve_amount": 86119,
+    "created_date": "2025-05-06",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-000999",
+    "claim_id": "CLM-000999",
+    "reserve_amount": 144398,
+    "created_date": "2025-02-05",
+    "released": true
+  },
+  {
+    "reserve_id": "RSV-001000",
+    "claim_id": "CLM-001000",
+    "reserve_amount": 90377,
+    "created_date": "2025-08-24",
+    "released": true
+  }
+]

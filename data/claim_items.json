@@ -1,0 +1,8002 @@
+[
+  {
+    "claim_item_id": "ITM-000001",
+    "claim_id": "CLM-000001",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 53716,
+    "line_amount": 53716
+  },
+  {
+    "claim_item_id": "ITM-000002",
+    "claim_id": "CLM-000002",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 82114,
+    "line_amount": 82114
+  },
+  {
+    "claim_item_id": "ITM-000003",
+    "claim_id": "CLM-000003",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 184408,
+    "line_amount": 184408
+  },
+  {
+    "claim_item_id": "ITM-000004",
+    "claim_id": "CLM-000004",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 178720,
+    "line_amount": 178720
+  },
+  {
+    "claim_item_id": "ITM-000005",
+    "claim_id": "CLM-000005",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 1050000,
+    "line_amount": 1050000
+  },
+  {
+    "claim_item_id": "ITM-000006",
+    "claim_id": "CLM-000006",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 47464,
+    "line_amount": 47464
+  },
+  {
+    "claim_item_id": "ITM-000007",
+    "claim_id": "CLM-000007",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 72368,
+    "line_amount": 72368
+  },
+  {
+    "claim_item_id": "ITM-000008",
+    "claim_id": "CLM-000008",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 31040,
+    "line_amount": 31040
+  },
+  {
+    "claim_item_id": "ITM-000009",
+    "claim_id": "CLM-000009",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 192254,
+    "line_amount": 192254
+  },
+  {
+    "claim_item_id": "ITM-000010",
+    "claim_id": "CLM-000010",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 100176,
+    "line_amount": 100176
+  },
+  {
+    "claim_item_id": "ITM-000011",
+    "claim_id": "CLM-000011",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 30507,
+    "line_amount": 30507
+  },
+  {
+    "claim_item_id": "ITM-000012",
+    "claim_id": "CLM-000012",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 19628,
+    "line_amount": 19628
+  },
+  {
+    "claim_item_id": "ITM-000013",
+    "claim_id": "CLM-000013",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 97964,
+    "line_amount": 97964
+  },
+  {
+    "claim_item_id": "ITM-000014",
+    "claim_id": "CLM-000014",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 88473,
+    "line_amount": 88473
+  },
+  {
+    "claim_item_id": "ITM-000015",
+    "claim_id": "CLM-000015",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 159073,
+    "line_amount": 159073
+  },
+  {
+    "claim_item_id": "ITM-000016",
+    "claim_id": "CLM-000016",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 143864,
+    "line_amount": 143864
+  },
+  {
+    "claim_item_id": "ITM-000017",
+    "claim_id": "CLM-000017",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 62866,
+    "line_amount": 62866
+  },
+  {
+    "claim_item_id": "ITM-000018",
+    "claim_id": "CLM-000018",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 43237,
+    "line_amount": 43237
+  },
+  {
+    "claim_item_id": "ITM-000019",
+    "claim_id": "CLM-000019",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 126682,
+    "line_amount": 126682
+  },
+  {
+    "claim_item_id": "ITM-000020",
+    "claim_id": "CLM-000020",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 131803,
+    "line_amount": 131803
+  },
+  {
+    "claim_item_id": "ITM-000021",
+    "claim_id": "CLM-000021",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 98460,
+    "line_amount": 98460
+  },
+  {
+    "claim_item_id": "ITM-000022",
+    "claim_id": "CLM-000022",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 141549,
+    "line_amount": 141549
+  },
+  {
+    "claim_item_id": "ITM-000023",
+    "claim_id": "CLM-000023",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 83179,
+    "line_amount": 83179
+  },
+  {
+    "claim_item_id": "ITM-000024",
+    "claim_id": "CLM-000024",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 142838,
+    "line_amount": 142838
+  },
+  {
+    "claim_item_id": "ITM-000025",
+    "claim_id": "CLM-000025",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 194055,
+    "line_amount": 194055
+  },
+  {
+    "claim_item_id": "ITM-000026",
+    "claim_id": "CLM-000026",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 94522,
+    "line_amount": 94522
+  },
+  {
+    "claim_item_id": "ITM-000027",
+    "claim_id": "CLM-000027",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 59036,
+    "line_amount": 59036
+  },
+  {
+    "claim_item_id": "ITM-000028",
+    "claim_id": "CLM-000028",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 38626,
+    "line_amount": 38626
+  },
+  {
+    "claim_item_id": "ITM-000029",
+    "claim_id": "CLM-000029",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 166719,
+    "line_amount": 166719
+  },
+  {
+    "claim_item_id": "ITM-000030",
+    "claim_id": "CLM-000030",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 91623,
+    "line_amount": 91623
+  },
+  {
+    "claim_item_id": "ITM-000031",
+    "claim_id": "CLM-000031",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 55863,
+    "line_amount": 55863
+  },
+  {
+    "claim_item_id": "ITM-000032",
+    "claim_id": "CLM-000032",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 109929,
+    "line_amount": 109929
+  },
+  {
+    "claim_item_id": "ITM-000033",
+    "claim_id": "CLM-000033",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 175515,
+    "line_amount": 175515
+  },
+  {
+    "claim_item_id": "ITM-000034",
+    "claim_id": "CLM-000034",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 157196,
+    "line_amount": 157196
+  },
+  {
+    "claim_item_id": "ITM-000035",
+    "claim_id": "CLM-000035",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 36721,
+    "line_amount": 36721
+  },
+  {
+    "claim_item_id": "ITM-000036",
+    "claim_id": "CLM-000036",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 125612,
+    "line_amount": 125612
+  },
+  {
+    "claim_item_id": "ITM-000037",
+    "claim_id": "CLM-000037",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 85238,
+    "line_amount": 85238
+  },
+  {
+    "claim_item_id": "ITM-000038",
+    "claim_id": "CLM-000038",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 143285,
+    "line_amount": 143285
+  },
+  {
+    "claim_item_id": "ITM-000039",
+    "claim_id": "CLM-000039",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 108203,
+    "line_amount": 108203
+  },
+  {
+    "claim_item_id": "ITM-000040",
+    "claim_id": "CLM-000040",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 19689,
+    "line_amount": 19689
+  },
+  {
+    "claim_item_id": "ITM-000041",
+    "claim_id": "CLM-000041",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 149848,
+    "line_amount": 149848
+  },
+  {
+    "claim_item_id": "ITM-000042",
+    "claim_id": "CLM-000042",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 127769,
+    "line_amount": 127769
+  },
+  {
+    "claim_item_id": "ITM-000043",
+    "claim_id": "CLM-000043",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 136843,
+    "line_amount": 136843
+  },
+  {
+    "claim_item_id": "ITM-000044",
+    "claim_id": "CLM-000044",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 156957,
+    "line_amount": 156957
+  },
+  {
+    "claim_item_id": "ITM-000045",
+    "claim_id": "CLM-000045",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 171300,
+    "line_amount": 171300
+  },
+  {
+    "claim_item_id": "ITM-000046",
+    "claim_id": "CLM-000046",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 90328,
+    "line_amount": 90328
+  },
+  {
+    "claim_item_id": "ITM-000047",
+    "claim_id": "CLM-000047",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 87449,
+    "line_amount": 87449
+  },
+  {
+    "claim_item_id": "ITM-000048",
+    "claim_id": "CLM-000048",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 69934,
+    "line_amount": 69934
+  },
+  {
+    "claim_item_id": "ITM-000049",
+    "claim_id": "CLM-000049",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 80488,
+    "line_amount": 80488
+  },
+  {
+    "claim_item_id": "ITM-000050",
+    "claim_id": "CLM-000050",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 194476,
+    "line_amount": 194476
+  },
+  {
+    "claim_item_id": "ITM-000051",
+    "claim_id": "CLM-000051",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 114174,
+    "line_amount": 114174
+  },
+  {
+    "claim_item_id": "ITM-000052",
+    "claim_id": "CLM-000052",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 191323,
+    "line_amount": 191323
+  },
+  {
+    "claim_item_id": "ITM-000053",
+    "claim_id": "CLM-000053",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 45113,
+    "line_amount": 45113
+  },
+  {
+    "claim_item_id": "ITM-000054",
+    "claim_id": "CLM-000054",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 175127,
+    "line_amount": 175127
+  },
+  {
+    "claim_item_id": "ITM-000055",
+    "claim_id": "CLM-000055",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 103936,
+    "line_amount": 103936
+  },
+  {
+    "claim_item_id": "ITM-000056",
+    "claim_id": "CLM-000056",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 92895,
+    "line_amount": 92895
+  },
+  {
+    "claim_item_id": "ITM-000057",
+    "claim_id": "CLM-000057",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 44654,
+    "line_amount": 44654
+  },
+  {
+    "claim_item_id": "ITM-000058",
+    "claim_id": "CLM-000058",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 123695,
+    "line_amount": 123695
+  },
+  {
+    "claim_item_id": "ITM-000059",
+    "claim_id": "CLM-000059",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 92207,
+    "line_amount": 92207
+  },
+  {
+    "claim_item_id": "ITM-000060",
+    "claim_id": "CLM-000060",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 83183,
+    "line_amount": 83183
+  },
+  {
+    "claim_item_id": "ITM-000061",
+    "claim_id": "CLM-000061",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 61463,
+    "line_amount": 61463
+  },
+  {
+    "claim_item_id": "ITM-000062",
+    "claim_id": "CLM-000062",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 22457,
+    "line_amount": 22457
+  },
+  {
+    "claim_item_id": "ITM-000063",
+    "claim_id": "CLM-000063",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 169607,
+    "line_amount": 169607
+  },
+  {
+    "claim_item_id": "ITM-000064",
+    "claim_id": "CLM-000064",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 120789,
+    "line_amount": 120789
+  },
+  {
+    "claim_item_id": "ITM-000065",
+    "claim_id": "CLM-000065",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 195223,
+    "line_amount": 195223
+  },
+  {
+    "claim_item_id": "ITM-000066",
+    "claim_id": "CLM-000066",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 184361,
+    "line_amount": 184361
+  },
+  {
+    "claim_item_id": "ITM-000067",
+    "claim_id": "CLM-000067",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 54153,
+    "line_amount": 54153
+  },
+  {
+    "claim_item_id": "ITM-000068",
+    "claim_id": "CLM-000068",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 137283,
+    "line_amount": 137283
+  },
+  {
+    "claim_item_id": "ITM-000069",
+    "claim_id": "CLM-000069",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 19490,
+    "line_amount": 19490
+  },
+  {
+    "claim_item_id": "ITM-000070",
+    "claim_id": "CLM-000070",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 96191,
+    "line_amount": 96191
+  },
+  {
+    "claim_item_id": "ITM-000071",
+    "claim_id": "CLM-000071",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 183076,
+    "line_amount": 183076
+  },
+  {
+    "claim_item_id": "ITM-000072",
+    "claim_id": "CLM-000072",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 177064,
+    "line_amount": 177064
+  },
+  {
+    "claim_item_id": "ITM-000073",
+    "claim_id": "CLM-000073",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 164456,
+    "line_amount": 164456
+  },
+  {
+    "claim_item_id": "ITM-000074",
+    "claim_id": "CLM-000074",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 119192,
+    "line_amount": 119192
+  },
+  {
+    "claim_item_id": "ITM-000075",
+    "claim_id": "CLM-000075",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 41044,
+    "line_amount": 41044
+  },
+  {
+    "claim_item_id": "ITM-000076",
+    "claim_id": "CLM-000076",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 163980,
+    "line_amount": 163980
+  },
+  {
+    "claim_item_id": "ITM-000077",
+    "claim_id": "CLM-000077",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 59590,
+    "line_amount": 59590
+  },
+  {
+    "claim_item_id": "ITM-000078",
+    "claim_id": "CLM-000078",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 94146,
+    "line_amount": 94146
+  },
+  {
+    "claim_item_id": "ITM-000079",
+    "claim_id": "CLM-000079",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 44176,
+    "line_amount": 44176
+  },
+  {
+    "claim_item_id": "ITM-000080",
+    "claim_id": "CLM-000080",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 77161,
+    "line_amount": 77161
+  },
+  {
+    "claim_item_id": "ITM-000081",
+    "claim_id": "CLM-000081",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 151747,
+    "line_amount": 151747
+  },
+  {
+    "claim_item_id": "ITM-000082",
+    "claim_id": "CLM-000082",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 90372,
+    "line_amount": 90372
+  },
+  {
+    "claim_item_id": "ITM-000083",
+    "claim_id": "CLM-000083",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 94518,
+    "line_amount": 94518
+  },
+  {
+    "claim_item_id": "ITM-000084",
+    "claim_id": "CLM-000084",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 98279,
+    "line_amount": 98279
+  },
+  {
+    "claim_item_id": "ITM-000085",
+    "claim_id": "CLM-000085",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 78593,
+    "line_amount": 78593
+  },
+  {
+    "claim_item_id": "ITM-000086",
+    "claim_id": "CLM-000086",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 77369,
+    "line_amount": 77369
+  },
+  {
+    "claim_item_id": "ITM-000087",
+    "claim_id": "CLM-000087",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 27275,
+    "line_amount": 27275
+  },
+  {
+    "claim_item_id": "ITM-000088",
+    "claim_id": "CLM-000088",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 117470,
+    "line_amount": 117470
+  },
+  {
+    "claim_item_id": "ITM-000089",
+    "claim_id": "CLM-000089",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 133226,
+    "line_amount": 133226
+  },
+  {
+    "claim_item_id": "ITM-000090",
+    "claim_id": "CLM-000090",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 154687,
+    "line_amount": 154687
+  },
+  {
+    "claim_item_id": "ITM-000091",
+    "claim_id": "CLM-000091",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 40659,
+    "line_amount": 40659
+  },
+  {
+    "claim_item_id": "ITM-000092",
+    "claim_id": "CLM-000092",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 190034,
+    "line_amount": 190034
+  },
+  {
+    "claim_item_id": "ITM-000093",
+    "claim_id": "CLM-000093",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 56831,
+    "line_amount": 56831
+  },
+  {
+    "claim_item_id": "ITM-000094",
+    "claim_id": "CLM-000094",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 102279,
+    "line_amount": 102279
+  },
+  {
+    "claim_item_id": "ITM-000095",
+    "claim_id": "CLM-000095",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 25953,
+    "line_amount": 25953
+  },
+  {
+    "claim_item_id": "ITM-000096",
+    "claim_id": "CLM-000096",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 178348,
+    "line_amount": 178348
+  },
+  {
+    "claim_item_id": "ITM-000097",
+    "claim_id": "CLM-000097",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 106675,
+    "line_amount": 106675
+  },
+  {
+    "claim_item_id": "ITM-000098",
+    "claim_id": "CLM-000098",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 190394,
+    "line_amount": 190394
+  },
+  {
+    "claim_item_id": "ITM-000099",
+    "claim_id": "CLM-000099",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 90607,
+    "line_amount": 90607
+  },
+  {
+    "claim_item_id": "ITM-000100",
+    "claim_id": "CLM-000100",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 176987,
+    "line_amount": 176987
+  },
+  {
+    "claim_item_id": "ITM-000101",
+    "claim_id": "CLM-000101",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 163914,
+    "line_amount": 163914
+  },
+  {
+    "claim_item_id": "ITM-000102",
+    "claim_id": "CLM-000102",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 51854,
+    "line_amount": 51854
+  },
+  {
+    "claim_item_id": "ITM-000103",
+    "claim_id": "CLM-000103",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 29771,
+    "line_amount": 29771
+  },
+  {
+    "claim_item_id": "ITM-000104",
+    "claim_id": "CLM-000104",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 169424,
+    "line_amount": 169424
+  },
+  {
+    "claim_item_id": "ITM-000105",
+    "claim_id": "CLM-000105",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 178313,
+    "line_amount": 178313
+  },
+  {
+    "claim_item_id": "ITM-000106",
+    "claim_id": "CLM-000106",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 31171,
+    "line_amount": 31171
+  },
+  {
+    "claim_item_id": "ITM-000107",
+    "claim_id": "CLM-000107",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 173958,
+    "line_amount": 173958
+  },
+  {
+    "claim_item_id": "ITM-000108",
+    "claim_id": "CLM-000108",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 133449,
+    "line_amount": 133449
+  },
+  {
+    "claim_item_id": "ITM-000109",
+    "claim_id": "CLM-000109",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 127616,
+    "line_amount": 127616
+  },
+  {
+    "claim_item_id": "ITM-000110",
+    "claim_id": "CLM-000110",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 190075,
+    "line_amount": 190075
+  },
+  {
+    "claim_item_id": "ITM-000111",
+    "claim_id": "CLM-000111",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 165280,
+    "line_amount": 165280
+  },
+  {
+    "claim_item_id": "ITM-000112",
+    "claim_id": "CLM-000112",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 102421,
+    "line_amount": 102421
+  },
+  {
+    "claim_item_id": "ITM-000113",
+    "claim_id": "CLM-000113",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 49724,
+    "line_amount": 49724
+  },
+  {
+    "claim_item_id": "ITM-000114",
+    "claim_id": "CLM-000114",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 22026,
+    "line_amount": 22026
+  },
+  {
+    "claim_item_id": "ITM-000115",
+    "claim_id": "CLM-000115",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 38261,
+    "line_amount": 38261
+  },
+  {
+    "claim_item_id": "ITM-000116",
+    "claim_id": "CLM-000116",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 133820,
+    "line_amount": 133820
+  },
+  {
+    "claim_item_id": "ITM-000117",
+    "claim_id": "CLM-000117",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 76326,
+    "line_amount": 76326
+  },
+  {
+    "claim_item_id": "ITM-000118",
+    "claim_id": "CLM-000118",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 44008,
+    "line_amount": 44008
+  },
+  {
+    "claim_item_id": "ITM-000119",
+    "claim_id": "CLM-000119",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 182505,
+    "line_amount": 182505
+  },
+  {
+    "claim_item_id": "ITM-000120",
+    "claim_id": "CLM-000120",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 59086,
+    "line_amount": 59086
+  },
+  {
+    "claim_item_id": "ITM-000121",
+    "claim_id": "CLM-000121",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 144757,
+    "line_amount": 144757
+  },
+  {
+    "claim_item_id": "ITM-000122",
+    "claim_id": "CLM-000122",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 144598,
+    "line_amount": 144598
+  },
+  {
+    "claim_item_id": "ITM-000123",
+    "claim_id": "CLM-000123",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 110410,
+    "line_amount": 110410
+  },
+  {
+    "claim_item_id": "ITM-000124",
+    "claim_id": "CLM-000124",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 99783,
+    "line_amount": 99783
+  },
+  {
+    "claim_item_id": "ITM-000125",
+    "claim_id": "CLM-000125",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 36739,
+    "line_amount": 36739
+  },
+  {
+    "claim_item_id": "ITM-000126",
+    "claim_id": "CLM-000126",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 154227,
+    "line_amount": 154227
+  },
+  {
+    "claim_item_id": "ITM-000127",
+    "claim_id": "CLM-000127",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 53472,
+    "line_amount": 53472
+  },
+  {
+    "claim_item_id": "ITM-000128",
+    "claim_id": "CLM-000128",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 136653,
+    "line_amount": 136653
+  },
+  {
+    "claim_item_id": "ITM-000129",
+    "claim_id": "CLM-000129",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 174599,
+    "line_amount": 174599
+  },
+  {
+    "claim_item_id": "ITM-000130",
+    "claim_id": "CLM-000130",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 18049,
+    "line_amount": 18049
+  },
+  {
+    "claim_item_id": "ITM-000131",
+    "claim_id": "CLM-000131",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 131434,
+    "line_amount": 131434
+  },
+  {
+    "claim_item_id": "ITM-000132",
+    "claim_id": "CLM-000132",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 125720,
+    "line_amount": 125720
+  },
+  {
+    "claim_item_id": "ITM-000133",
+    "claim_id": "CLM-000133",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 65225,
+    "line_amount": 65225
+  },
+  {
+    "claim_item_id": "ITM-000134",
+    "claim_id": "CLM-000134",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 125874,
+    "line_amount": 125874
+  },
+  {
+    "claim_item_id": "ITM-000135",
+    "claim_id": "CLM-000135",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 128479,
+    "line_amount": 128479
+  },
+  {
+    "claim_item_id": "ITM-000136",
+    "claim_id": "CLM-000136",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 64038,
+    "line_amount": 64038
+  },
+  {
+    "claim_item_id": "ITM-000137",
+    "claim_id": "CLM-000137",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 88273,
+    "line_amount": 88273
+  },
+  {
+    "claim_item_id": "ITM-000138",
+    "claim_id": "CLM-000138",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 132004,
+    "line_amount": 132004
+  },
+  {
+    "claim_item_id": "ITM-000139",
+    "claim_id": "CLM-000139",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 27322,
+    "line_amount": 27322
+  },
+  {
+    "claim_item_id": "ITM-000140",
+    "claim_id": "CLM-000140",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 62858,
+    "line_amount": 62858
+  },
+  {
+    "claim_item_id": "ITM-000141",
+    "claim_id": "CLM-000141",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 133366,
+    "line_amount": 133366
+  },
+  {
+    "claim_item_id": "ITM-000142",
+    "claim_id": "CLM-000142",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 114308,
+    "line_amount": 114308
+  },
+  {
+    "claim_item_id": "ITM-000143",
+    "claim_id": "CLM-000143",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 105964,
+    "line_amount": 105964
+  },
+  {
+    "claim_item_id": "ITM-000144",
+    "claim_id": "CLM-000144",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 92563,
+    "line_amount": 92563
+  },
+  {
+    "claim_item_id": "ITM-000145",
+    "claim_id": "CLM-000145",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 196857,
+    "line_amount": 196857
+  },
+  {
+    "claim_item_id": "ITM-000146",
+    "claim_id": "CLM-000146",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 22573,
+    "line_amount": 22573
+  },
+  {
+    "claim_item_id": "ITM-000147",
+    "claim_id": "CLM-000147",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 19848,
+    "line_amount": 19848
+  },
+  {
+    "claim_item_id": "ITM-000148",
+    "claim_id": "CLM-000148",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 23782,
+    "line_amount": 23782
+  },
+  {
+    "claim_item_id": "ITM-000149",
+    "claim_id": "CLM-000149",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 106836,
+    "line_amount": 106836
+  },
+  {
+    "claim_item_id": "ITM-000150",
+    "claim_id": "CLM-000150",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 98788,
+    "line_amount": 98788
+  },
+  {
+    "claim_item_id": "ITM-000151",
+    "claim_id": "CLM-000151",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 149389,
+    "line_amount": 149389
+  },
+  {
+    "claim_item_id": "ITM-000152",
+    "claim_id": "CLM-000152",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 122547,
+    "line_amount": 122547
+  },
+  {
+    "claim_item_id": "ITM-000153",
+    "claim_id": "CLM-000153",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 57039,
+    "line_amount": 57039
+  },
+  {
+    "claim_item_id": "ITM-000154",
+    "claim_id": "CLM-000154",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 38458,
+    "line_amount": 38458
+  },
+  {
+    "claim_item_id": "ITM-000155",
+    "claim_id": "CLM-000155",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 183513,
+    "line_amount": 183513
+  },
+  {
+    "claim_item_id": "ITM-000156",
+    "claim_id": "CLM-000156",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 115272,
+    "line_amount": 115272
+  },
+  {
+    "claim_item_id": "ITM-000157",
+    "claim_id": "CLM-000157",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 129836,
+    "line_amount": 129836
+  },
+  {
+    "claim_item_id": "ITM-000158",
+    "claim_id": "CLM-000158",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 56752,
+    "line_amount": 56752
+  },
+  {
+    "claim_item_id": "ITM-000159",
+    "claim_id": "CLM-000159",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 28627,
+    "line_amount": 28627
+  },
+  {
+    "claim_item_id": "ITM-000160",
+    "claim_id": "CLM-000160",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 78877,
+    "line_amount": 78877
+  },
+  {
+    "claim_item_id": "ITM-000161",
+    "claim_id": "CLM-000161",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 40160,
+    "line_amount": 40160
+  },
+  {
+    "claim_item_id": "ITM-000162",
+    "claim_id": "CLM-000162",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 163946,
+    "line_amount": 163946
+  },
+  {
+    "claim_item_id": "ITM-000163",
+    "claim_id": "CLM-000163",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 57311,
+    "line_amount": 57311
+  },
+  {
+    "claim_item_id": "ITM-000164",
+    "claim_id": "CLM-000164",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 25160,
+    "line_amount": 25160
+  },
+  {
+    "claim_item_id": "ITM-000165",
+    "claim_id": "CLM-000165",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 61371,
+    "line_amount": 61371
+  },
+  {
+    "claim_item_id": "ITM-000166",
+    "claim_id": "CLM-000166",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 191254,
+    "line_amount": 191254
+  },
+  {
+    "claim_item_id": "ITM-000167",
+    "claim_id": "CLM-000167",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 87432,
+    "line_amount": 87432
+  },
+  {
+    "claim_item_id": "ITM-000168",
+    "claim_id": "CLM-000168",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 180893,
+    "line_amount": 180893
+  },
+  {
+    "claim_item_id": "ITM-000169",
+    "claim_id": "CLM-000169",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 83997,
+    "line_amount": 83997
+  },
+  {
+    "claim_item_id": "ITM-000170",
+    "claim_id": "CLM-000170",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 112584,
+    "line_amount": 112584
+  },
+  {
+    "claim_item_id": "ITM-000171",
+    "claim_id": "CLM-000171",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 86525,
+    "line_amount": 86525
+  },
+  {
+    "claim_item_id": "ITM-000172",
+    "claim_id": "CLM-000172",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 113450,
+    "line_amount": 113450
+  },
+  {
+    "claim_item_id": "ITM-000173",
+    "claim_id": "CLM-000173",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 199848,
+    "line_amount": 199848
+  },
+  {
+    "claim_item_id": "ITM-000174",
+    "claim_id": "CLM-000174",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 150426,
+    "line_amount": 150426
+  },
+  {
+    "claim_item_id": "ITM-000175",
+    "claim_id": "CLM-000175",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 53005,
+    "line_amount": 53005
+  },
+  {
+    "claim_item_id": "ITM-000176",
+    "claim_id": "CLM-000176",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 96292,
+    "line_amount": 96292
+  },
+  {
+    "claim_item_id": "ITM-000177",
+    "claim_id": "CLM-000177",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 194087,
+    "line_amount": 194087
+  },
+  {
+    "claim_item_id": "ITM-000178",
+    "claim_id": "CLM-000178",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 112590,
+    "line_amount": 112590
+  },
+  {
+    "claim_item_id": "ITM-000179",
+    "claim_id": "CLM-000179",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 107653,
+    "line_amount": 107653
+  },
+  {
+    "claim_item_id": "ITM-000180",
+    "claim_id": "CLM-000180",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 46641,
+    "line_amount": 46641
+  },
+  {
+    "claim_item_id": "ITM-000181",
+    "claim_id": "CLM-000181",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 62714,
+    "line_amount": 62714
+  },
+  {
+    "claim_item_id": "ITM-000182",
+    "claim_id": "CLM-000182",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 135742,
+    "line_amount": 135742
+  },
+  {
+    "claim_item_id": "ITM-000183",
+    "claim_id": "CLM-000183",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 161515,
+    "line_amount": 161515
+  },
+  {
+    "claim_item_id": "ITM-000184",
+    "claim_id": "CLM-000184",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 183674,
+    "line_amount": 183674
+  },
+  {
+    "claim_item_id": "ITM-000185",
+    "claim_id": "CLM-000185",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 168714,
+    "line_amount": 168714
+  },
+  {
+    "claim_item_id": "ITM-000186",
+    "claim_id": "CLM-000186",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 177144,
+    "line_amount": 177144
+  },
+  {
+    "claim_item_id": "ITM-000187",
+    "claim_id": "CLM-000187",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 185925,
+    "line_amount": 185925
+  },
+  {
+    "claim_item_id": "ITM-000188",
+    "claim_id": "CLM-000188",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 96258,
+    "line_amount": 96258
+  },
+  {
+    "claim_item_id": "ITM-000189",
+    "claim_id": "CLM-000189",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 24692,
+    "line_amount": 24692
+  },
+  {
+    "claim_item_id": "ITM-000190",
+    "claim_id": "CLM-000190",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 128859,
+    "line_amount": 128859
+  },
+  {
+    "claim_item_id": "ITM-000191",
+    "claim_id": "CLM-000191",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 167019,
+    "line_amount": 167019
+  },
+  {
+    "claim_item_id": "ITM-000192",
+    "claim_id": "CLM-000192",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 147587,
+    "line_amount": 147587
+  },
+  {
+    "claim_item_id": "ITM-000193",
+    "claim_id": "CLM-000193",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 28239,
+    "line_amount": 28239
+  },
+  {
+    "claim_item_id": "ITM-000194",
+    "claim_id": "CLM-000194",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 175640,
+    "line_amount": 175640
+  },
+  {
+    "claim_item_id": "ITM-000195",
+    "claim_id": "CLM-000195",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 136920,
+    "line_amount": 136920
+  },
+  {
+    "claim_item_id": "ITM-000196",
+    "claim_id": "CLM-000196",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 56619,
+    "line_amount": 56619
+  },
+  {
+    "claim_item_id": "ITM-000197",
+    "claim_id": "CLM-000197",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 194034,
+    "line_amount": 194034
+  },
+  {
+    "claim_item_id": "ITM-000198",
+    "claim_id": "CLM-000198",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 101105,
+    "line_amount": 101105
+  },
+  {
+    "claim_item_id": "ITM-000199",
+    "claim_id": "CLM-000199",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 15542,
+    "line_amount": 15542
+  },
+  {
+    "claim_item_id": "ITM-000200",
+    "claim_id": "CLM-000200",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 177647,
+    "line_amount": 177647
+  },
+  {
+    "claim_item_id": "ITM-000201",
+    "claim_id": "CLM-000201",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 31428,
+    "line_amount": 31428
+  },
+  {
+    "claim_item_id": "ITM-000202",
+    "claim_id": "CLM-000202",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 34614,
+    "line_amount": 34614
+  },
+  {
+    "claim_item_id": "ITM-000203",
+    "claim_id": "CLM-000203",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 119084,
+    "line_amount": 119084
+  },
+  {
+    "claim_item_id": "ITM-000204",
+    "claim_id": "CLM-000204",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 179787,
+    "line_amount": 179787
+  },
+  {
+    "claim_item_id": "ITM-000205",
+    "claim_id": "CLM-000205",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 160535,
+    "line_amount": 160535
+  },
+  {
+    "claim_item_id": "ITM-000206",
+    "claim_id": "CLM-000206",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 172094,
+    "line_amount": 172094
+  },
+  {
+    "claim_item_id": "ITM-000207",
+    "claim_id": "CLM-000207",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 64072,
+    "line_amount": 64072
+  },
+  {
+    "claim_item_id": "ITM-000208",
+    "claim_id": "CLM-000208",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 31728,
+    "line_amount": 31728
+  },
+  {
+    "claim_item_id": "ITM-000209",
+    "claim_id": "CLM-000209",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 50167,
+    "line_amount": 50167
+  },
+  {
+    "claim_item_id": "ITM-000210",
+    "claim_id": "CLM-000210",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 142222,
+    "line_amount": 142222
+  },
+  {
+    "claim_item_id": "ITM-000211",
+    "claim_id": "CLM-000211",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 33234,
+    "line_amount": 33234
+  },
+  {
+    "claim_item_id": "ITM-000212",
+    "claim_id": "CLM-000212",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 49026,
+    "line_amount": 49026
+  },
+  {
+    "claim_item_id": "ITM-000213",
+    "claim_id": "CLM-000213",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 143136,
+    "line_amount": 143136
+  },
+  {
+    "claim_item_id": "ITM-000214",
+    "claim_id": "CLM-000214",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 16936,
+    "line_amount": 16936
+  },
+  {
+    "claim_item_id": "ITM-000215",
+    "claim_id": "CLM-000215",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 148322,
+    "line_amount": 148322
+  },
+  {
+    "claim_item_id": "ITM-000216",
+    "claim_id": "CLM-000216",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 182472,
+    "line_amount": 182472
+  },
+  {
+    "claim_item_id": "ITM-000217",
+    "claim_id": "CLM-000217",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 101398,
+    "line_amount": 101398
+  },
+  {
+    "claim_item_id": "ITM-000218",
+    "claim_id": "CLM-000218",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 42743,
+    "line_amount": 42743
+  },
+  {
+    "claim_item_id": "ITM-000219",
+    "claim_id": "CLM-000219",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 81902,
+    "line_amount": 81902
+  },
+  {
+    "claim_item_id": "ITM-000220",
+    "claim_id": "CLM-000220",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 36339,
+    "line_amount": 36339
+  },
+  {
+    "claim_item_id": "ITM-000221",
+    "claim_id": "CLM-000221",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 63019,
+    "line_amount": 63019
+  },
+  {
+    "claim_item_id": "ITM-000222",
+    "claim_id": "CLM-000222",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 31724,
+    "line_amount": 31724
+  },
+  {
+    "claim_item_id": "ITM-000223",
+    "claim_id": "CLM-000223",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 30460,
+    "line_amount": 30460
+  },
+  {
+    "claim_item_id": "ITM-000224",
+    "claim_id": "CLM-000224",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 131559,
+    "line_amount": 131559
+  },
+  {
+    "claim_item_id": "ITM-000225",
+    "claim_id": "CLM-000225",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 196336,
+    "line_amount": 196336
+  },
+  {
+    "claim_item_id": "ITM-000226",
+    "claim_id": "CLM-000226",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 141372,
+    "line_amount": 141372
+  },
+  {
+    "claim_item_id": "ITM-000227",
+    "claim_id": "CLM-000227",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 79111,
+    "line_amount": 79111
+  },
+  {
+    "claim_item_id": "ITM-000228",
+    "claim_id": "CLM-000228",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 175565,
+    "line_amount": 175565
+  },
+  {
+    "claim_item_id": "ITM-000229",
+    "claim_id": "CLM-000229",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 80498,
+    "line_amount": 80498
+  },
+  {
+    "claim_item_id": "ITM-000230",
+    "claim_id": "CLM-000230",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 193785,
+    "line_amount": 193785
+  },
+  {
+    "claim_item_id": "ITM-000231",
+    "claim_id": "CLM-000231",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 104100,
+    "line_amount": 104100
+  },
+  {
+    "claim_item_id": "ITM-000232",
+    "claim_id": "CLM-000232",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 136290,
+    "line_amount": 136290
+  },
+  {
+    "claim_item_id": "ITM-000233",
+    "claim_id": "CLM-000233",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 121702,
+    "line_amount": 121702
+  },
+  {
+    "claim_item_id": "ITM-000234",
+    "claim_id": "CLM-000234",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 67369,
+    "line_amount": 67369
+  },
+  {
+    "claim_item_id": "ITM-000235",
+    "claim_id": "CLM-000235",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 174375,
+    "line_amount": 174375
+  },
+  {
+    "claim_item_id": "ITM-000236",
+    "claim_id": "CLM-000236",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 191374,
+    "line_amount": 191374
+  },
+  {
+    "claim_item_id": "ITM-000237",
+    "claim_id": "CLM-000237",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 86001,
+    "line_amount": 86001
+  },
+  {
+    "claim_item_id": "ITM-000238",
+    "claim_id": "CLM-000238",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 74606,
+    "line_amount": 74606
+  },
+  {
+    "claim_item_id": "ITM-000239",
+    "claim_id": "CLM-000239",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 173507,
+    "line_amount": 173507
+  },
+  {
+    "claim_item_id": "ITM-000240",
+    "claim_id": "CLM-000240",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 191500,
+    "line_amount": 191500
+  },
+  {
+    "claim_item_id": "ITM-000241",
+    "claim_id": "CLM-000241",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 81984,
+    "line_amount": 81984
+  },
+  {
+    "claim_item_id": "ITM-000242",
+    "claim_id": "CLM-000242",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 163668,
+    "line_amount": 163668
+  },
+  {
+    "claim_item_id": "ITM-000243",
+    "claim_id": "CLM-000243",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 136349,
+    "line_amount": 136349
+  },
+  {
+    "claim_item_id": "ITM-000244",
+    "claim_id": "CLM-000244",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 170766,
+    "line_amount": 170766
+  },
+  {
+    "claim_item_id": "ITM-000245",
+    "claim_id": "CLM-000245",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 118580,
+    "line_amount": 118580
+  },
+  {
+    "claim_item_id": "ITM-000246",
+    "claim_id": "CLM-000246",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 33817,
+    "line_amount": 33817
+  },
+  {
+    "claim_item_id": "ITM-000247",
+    "claim_id": "CLM-000247",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 183503,
+    "line_amount": 183503
+  },
+  {
+    "claim_item_id": "ITM-000248",
+    "claim_id": "CLM-000248",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 45895,
+    "line_amount": 45895
+  },
+  {
+    "claim_item_id": "ITM-000249",
+    "claim_id": "CLM-000249",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 37779,
+    "line_amount": 37779
+  },
+  {
+    "claim_item_id": "ITM-000250",
+    "claim_id": "CLM-000250",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 87027,
+    "line_amount": 87027
+  },
+  {
+    "claim_item_id": "ITM-000251",
+    "claim_id": "CLM-000251",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 123728,
+    "line_amount": 123728
+  },
+  {
+    "claim_item_id": "ITM-000252",
+    "claim_id": "CLM-000252",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 62698,
+    "line_amount": 62698
+  },
+  {
+    "claim_item_id": "ITM-000253",
+    "claim_id": "CLM-000253",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 169761,
+    "line_amount": 169761
+  },
+  {
+    "claim_item_id": "ITM-000254",
+    "claim_id": "CLM-000254",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 83829,
+    "line_amount": 83829
+  },
+  {
+    "claim_item_id": "ITM-000255",
+    "claim_id": "CLM-000255",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 181352,
+    "line_amount": 181352
+  },
+  {
+    "claim_item_id": "ITM-000256",
+    "claim_id": "CLM-000256",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 126298,
+    "line_amount": 126298
+  },
+  {
+    "claim_item_id": "ITM-000257",
+    "claim_id": "CLM-000257",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 129738,
+    "line_amount": 129738
+  },
+  {
+    "claim_item_id": "ITM-000258",
+    "claim_id": "CLM-000258",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 105242,
+    "line_amount": 105242
+  },
+  {
+    "claim_item_id": "ITM-000259",
+    "claim_id": "CLM-000259",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 155080,
+    "line_amount": 155080
+  },
+  {
+    "claim_item_id": "ITM-000260",
+    "claim_id": "CLM-000260",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 74130,
+    "line_amount": 74130
+  },
+  {
+    "claim_item_id": "ITM-000261",
+    "claim_id": "CLM-000261",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 26139,
+    "line_amount": 26139
+  },
+  {
+    "claim_item_id": "ITM-000262",
+    "claim_id": "CLM-000262",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 190355,
+    "line_amount": 190355
+  },
+  {
+    "claim_item_id": "ITM-000263",
+    "claim_id": "CLM-000263",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 194462,
+    "line_amount": 194462
+  },
+  {
+    "claim_item_id": "ITM-000264",
+    "claim_id": "CLM-000264",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 195599,
+    "line_amount": 195599
+  },
+  {
+    "claim_item_id": "ITM-000265",
+    "claim_id": "CLM-000265",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 73400,
+    "line_amount": 73400
+  },
+  {
+    "claim_item_id": "ITM-000266",
+    "claim_id": "CLM-000266",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 199832,
+    "line_amount": 199832
+  },
+  {
+    "claim_item_id": "ITM-000267",
+    "claim_id": "CLM-000267",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 107534,
+    "line_amount": 107534
+  },
+  {
+    "claim_item_id": "ITM-000268",
+    "claim_id": "CLM-000268",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 188378,
+    "line_amount": 188378
+  },
+  {
+    "claim_item_id": "ITM-000269",
+    "claim_id": "CLM-000269",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 130852,
+    "line_amount": 130852
+  },
+  {
+    "claim_item_id": "ITM-000270",
+    "claim_id": "CLM-000270",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 19636,
+    "line_amount": 19636
+  },
+  {
+    "claim_item_id": "ITM-000271",
+    "claim_id": "CLM-000271",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 191910,
+    "line_amount": 191910
+  },
+  {
+    "claim_item_id": "ITM-000272",
+    "claim_id": "CLM-000272",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 169072,
+    "line_amount": 169072
+  },
+  {
+    "claim_item_id": "ITM-000273",
+    "claim_id": "CLM-000273",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 170761,
+    "line_amount": 170761
+  },
+  {
+    "claim_item_id": "ITM-000274",
+    "claim_id": "CLM-000274",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 171548,
+    "line_amount": 171548
+  },
+  {
+    "claim_item_id": "ITM-000275",
+    "claim_id": "CLM-000275",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 107425,
+    "line_amount": 107425
+  },
+  {
+    "claim_item_id": "ITM-000276",
+    "claim_id": "CLM-000276",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 143187,
+    "line_amount": 143187
+  },
+  {
+    "claim_item_id": "ITM-000277",
+    "claim_id": "CLM-000277",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 145942,
+    "line_amount": 145942
+  },
+  {
+    "claim_item_id": "ITM-000278",
+    "claim_id": "CLM-000278",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 58441,
+    "line_amount": 58441
+  },
+  {
+    "claim_item_id": "ITM-000279",
+    "claim_id": "CLM-000279",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 90078,
+    "line_amount": 90078
+  },
+  {
+    "claim_item_id": "ITM-000280",
+    "claim_id": "CLM-000280",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 46320,
+    "line_amount": 46320
+  },
+  {
+    "claim_item_id": "ITM-000281",
+    "claim_id": "CLM-000281",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 157232,
+    "line_amount": 157232
+  },
+  {
+    "claim_item_id": "ITM-000282",
+    "claim_id": "CLM-000282",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 57019,
+    "line_amount": 57019
+  },
+  {
+    "claim_item_id": "ITM-000283",
+    "claim_id": "CLM-000283",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 170367,
+    "line_amount": 170367
+  },
+  {
+    "claim_item_id": "ITM-000284",
+    "claim_id": "CLM-000284",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 115728,
+    "line_amount": 115728
+  },
+  {
+    "claim_item_id": "ITM-000285",
+    "claim_id": "CLM-000285",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 160832,
+    "line_amount": 160832
+  },
+  {
+    "claim_item_id": "ITM-000286",
+    "claim_id": "CLM-000286",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 36564,
+    "line_amount": 36564
+  },
+  {
+    "claim_item_id": "ITM-000287",
+    "claim_id": "CLM-000287",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 123035,
+    "line_amount": 123035
+  },
+  {
+    "claim_item_id": "ITM-000288",
+    "claim_id": "CLM-000288",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 20282,
+    "line_amount": 20282
+  },
+  {
+    "claim_item_id": "ITM-000289",
+    "claim_id": "CLM-000289",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 76885,
+    "line_amount": 76885
+  },
+  {
+    "claim_item_id": "ITM-000290",
+    "claim_id": "CLM-000290",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 162247,
+    "line_amount": 162247
+  },
+  {
+    "claim_item_id": "ITM-000291",
+    "claim_id": "CLM-000291",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 44301,
+    "line_amount": 44301
+  },
+  {
+    "claim_item_id": "ITM-000292",
+    "claim_id": "CLM-000292",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 16403,
+    "line_amount": 16403
+  },
+  {
+    "claim_item_id": "ITM-000293",
+    "claim_id": "CLM-000293",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 135000,
+    "line_amount": 135000
+  },
+  {
+    "claim_item_id": "ITM-000294",
+    "claim_id": "CLM-000294",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 154199,
+    "line_amount": 154199
+  },
+  {
+    "claim_item_id": "ITM-000295",
+    "claim_id": "CLM-000295",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 49735,
+    "line_amount": 49735
+  },
+  {
+    "claim_item_id": "ITM-000296",
+    "claim_id": "CLM-000296",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 126402,
+    "line_amount": 126402
+  },
+  {
+    "claim_item_id": "ITM-000297",
+    "claim_id": "CLM-000297",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 131985,
+    "line_amount": 131985
+  },
+  {
+    "claim_item_id": "ITM-000298",
+    "claim_id": "CLM-000298",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 50763,
+    "line_amount": 50763
+  },
+  {
+    "claim_item_id": "ITM-000299",
+    "claim_id": "CLM-000299",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 170569,
+    "line_amount": 170569
+  },
+  {
+    "claim_item_id": "ITM-000300",
+    "claim_id": "CLM-000300",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 78901,
+    "line_amount": 78901
+  },
+  {
+    "claim_item_id": "ITM-000301",
+    "claim_id": "CLM-000301",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 76953,
+    "line_amount": 76953
+  },
+  {
+    "claim_item_id": "ITM-000302",
+    "claim_id": "CLM-000302",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 129579,
+    "line_amount": 129579
+  },
+  {
+    "claim_item_id": "ITM-000303",
+    "claim_id": "CLM-000303",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 119176,
+    "line_amount": 119176
+  },
+  {
+    "claim_item_id": "ITM-000304",
+    "claim_id": "CLM-000304",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 15474,
+    "line_amount": 15474
+  },
+  {
+    "claim_item_id": "ITM-000305",
+    "claim_id": "CLM-000305",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 97464,
+    "line_amount": 97464
+  },
+  {
+    "claim_item_id": "ITM-000306",
+    "claim_id": "CLM-000306",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 147920,
+    "line_amount": 147920
+  },
+  {
+    "claim_item_id": "ITM-000307",
+    "claim_id": "CLM-000307",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 136328,
+    "line_amount": 136328
+  },
+  {
+    "claim_item_id": "ITM-000308",
+    "claim_id": "CLM-000308",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 122476,
+    "line_amount": 122476
+  },
+  {
+    "claim_item_id": "ITM-000309",
+    "claim_id": "CLM-000309",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 169715,
+    "line_amount": 169715
+  },
+  {
+    "claim_item_id": "ITM-000310",
+    "claim_id": "CLM-000310",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 188172,
+    "line_amount": 188172
+  },
+  {
+    "claim_item_id": "ITM-000311",
+    "claim_id": "CLM-000311",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 191945,
+    "line_amount": 191945
+  },
+  {
+    "claim_item_id": "ITM-000312",
+    "claim_id": "CLM-000312",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 48340,
+    "line_amount": 48340
+  },
+  {
+    "claim_item_id": "ITM-000313",
+    "claim_id": "CLM-000313",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 96085,
+    "line_amount": 96085
+  },
+  {
+    "claim_item_id": "ITM-000314",
+    "claim_id": "CLM-000314",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 96383,
+    "line_amount": 96383
+  },
+  {
+    "claim_item_id": "ITM-000315",
+    "claim_id": "CLM-000315",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 16805,
+    "line_amount": 16805
+  },
+  {
+    "claim_item_id": "ITM-000316",
+    "claim_id": "CLM-000316",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 17655,
+    "line_amount": 17655
+  },
+  {
+    "claim_item_id": "ITM-000317",
+    "claim_id": "CLM-000317",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 165938,
+    "line_amount": 165938
+  },
+  {
+    "claim_item_id": "ITM-000318",
+    "claim_id": "CLM-000318",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 114179,
+    "line_amount": 114179
+  },
+  {
+    "claim_item_id": "ITM-000319",
+    "claim_id": "CLM-000319",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 41730,
+    "line_amount": 41730
+  },
+  {
+    "claim_item_id": "ITM-000320",
+    "claim_id": "CLM-000320",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 111645,
+    "line_amount": 111645
+  },
+  {
+    "claim_item_id": "ITM-000321",
+    "claim_id": "CLM-000321",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 145013,
+    "line_amount": 145013
+  },
+  {
+    "claim_item_id": "ITM-000322",
+    "claim_id": "CLM-000322",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 45259,
+    "line_amount": 45259
+  },
+  {
+    "claim_item_id": "ITM-000323",
+    "claim_id": "CLM-000323",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 99395,
+    "line_amount": 99395
+  },
+  {
+    "claim_item_id": "ITM-000324",
+    "claim_id": "CLM-000324",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 82889,
+    "line_amount": 82889
+  },
+  {
+    "claim_item_id": "ITM-000325",
+    "claim_id": "CLM-000325",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 188782,
+    "line_amount": 188782
+  },
+  {
+    "claim_item_id": "ITM-000326",
+    "claim_id": "CLM-000326",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 130307,
+    "line_amount": 130307
+  },
+  {
+    "claim_item_id": "ITM-000327",
+    "claim_id": "CLM-000327",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 124476,
+    "line_amount": 124476
+  },
+  {
+    "claim_item_id": "ITM-000328",
+    "claim_id": "CLM-000328",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 102763,
+    "line_amount": 102763
+  },
+  {
+    "claim_item_id": "ITM-000329",
+    "claim_id": "CLM-000329",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 67131,
+    "line_amount": 67131
+  },
+  {
+    "claim_item_id": "ITM-000330",
+    "claim_id": "CLM-000330",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 82743,
+    "line_amount": 82743
+  },
+  {
+    "claim_item_id": "ITM-000331",
+    "claim_id": "CLM-000331",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 54198,
+    "line_amount": 54198
+  },
+  {
+    "claim_item_id": "ITM-000332",
+    "claim_id": "CLM-000332",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 134706,
+    "line_amount": 134706
+  },
+  {
+    "claim_item_id": "ITM-000333",
+    "claim_id": "CLM-000333",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 99426,
+    "line_amount": 99426
+  },
+  {
+    "claim_item_id": "ITM-000334",
+    "claim_id": "CLM-000334",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 41607,
+    "line_amount": 41607
+  },
+  {
+    "claim_item_id": "ITM-000335",
+    "claim_id": "CLM-000335",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 47820,
+    "line_amount": 47820
+  },
+  {
+    "claim_item_id": "ITM-000336",
+    "claim_id": "CLM-000336",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 151559,
+    "line_amount": 151559
+  },
+  {
+    "claim_item_id": "ITM-000337",
+    "claim_id": "CLM-000337",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 88216,
+    "line_amount": 88216
+  },
+  {
+    "claim_item_id": "ITM-000338",
+    "claim_id": "CLM-000338",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 162175,
+    "line_amount": 162175
+  },
+  {
+    "claim_item_id": "ITM-000339",
+    "claim_id": "CLM-000339",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 43881,
+    "line_amount": 43881
+  },
+  {
+    "claim_item_id": "ITM-000340",
+    "claim_id": "CLM-000340",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 90303,
+    "line_amount": 90303
+  },
+  {
+    "claim_item_id": "ITM-000341",
+    "claim_id": "CLM-000341",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 28021,
+    "line_amount": 28021
+  },
+  {
+    "claim_item_id": "ITM-000342",
+    "claim_id": "CLM-000342",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 101351,
+    "line_amount": 101351
+  },
+  {
+    "claim_item_id": "ITM-000343",
+    "claim_id": "CLM-000343",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 179728,
+    "line_amount": 179728
+  },
+  {
+    "claim_item_id": "ITM-000344",
+    "claim_id": "CLM-000344",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 128751,
+    "line_amount": 128751
+  },
+  {
+    "claim_item_id": "ITM-000345",
+    "claim_id": "CLM-000345",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 149341,
+    "line_amount": 149341
+  },
+  {
+    "claim_item_id": "ITM-000346",
+    "claim_id": "CLM-000346",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 158178,
+    "line_amount": 158178
+  },
+  {
+    "claim_item_id": "ITM-000347",
+    "claim_id": "CLM-000347",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 107265,
+    "line_amount": 107265
+  },
+  {
+    "claim_item_id": "ITM-000348",
+    "claim_id": "CLM-000348",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 93815,
+    "line_amount": 93815
+  },
+  {
+    "claim_item_id": "ITM-000349",
+    "claim_id": "CLM-000349",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 84905,
+    "line_amount": 84905
+  },
+  {
+    "claim_item_id": "ITM-000350",
+    "claim_id": "CLM-000350",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 29911,
+    "line_amount": 29911
+  },
+  {
+    "claim_item_id": "ITM-000351",
+    "claim_id": "CLM-000351",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 21324,
+    "line_amount": 21324
+  },
+  {
+    "claim_item_id": "ITM-000352",
+    "claim_id": "CLM-000352",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 144384,
+    "line_amount": 144384
+  },
+  {
+    "claim_item_id": "ITM-000353",
+    "claim_id": "CLM-000353",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 159934,
+    "line_amount": 159934
+  },
+  {
+    "claim_item_id": "ITM-000354",
+    "claim_id": "CLM-000354",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 190830,
+    "line_amount": 190830
+  },
+  {
+    "claim_item_id": "ITM-000355",
+    "claim_id": "CLM-000355",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 67481,
+    "line_amount": 67481
+  },
+  {
+    "claim_item_id": "ITM-000356",
+    "claim_id": "CLM-000356",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 93641,
+    "line_amount": 93641
+  },
+  {
+    "claim_item_id": "ITM-000357",
+    "claim_id": "CLM-000357",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 187986,
+    "line_amount": 187986
+  },
+  {
+    "claim_item_id": "ITM-000358",
+    "claim_id": "CLM-000358",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 82462,
+    "line_amount": 82462
+  },
+  {
+    "claim_item_id": "ITM-000359",
+    "claim_id": "CLM-000359",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 151237,
+    "line_amount": 151237
+  },
+  {
+    "claim_item_id": "ITM-000360",
+    "claim_id": "CLM-000360",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 111644,
+    "line_amount": 111644
+  },
+  {
+    "claim_item_id": "ITM-000361",
+    "claim_id": "CLM-000361",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 88968,
+    "line_amount": 88968
+  },
+  {
+    "claim_item_id": "ITM-000362",
+    "claim_id": "CLM-000362",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 39546,
+    "line_amount": 39546
+  },
+  {
+    "claim_item_id": "ITM-000363",
+    "claim_id": "CLM-000363",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 69485,
+    "line_amount": 69485
+  },
+  {
+    "claim_item_id": "ITM-000364",
+    "claim_id": "CLM-000364",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 77174,
+    "line_amount": 77174
+  },
+  {
+    "claim_item_id": "ITM-000365",
+    "claim_id": "CLM-000365",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 198104,
+    "line_amount": 198104
+  },
+  {
+    "claim_item_id": "ITM-000366",
+    "claim_id": "CLM-000366",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 127610,
+    "line_amount": 127610
+  },
+  {
+    "claim_item_id": "ITM-000367",
+    "claim_id": "CLM-000367",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 31515,
+    "line_amount": 31515
+  },
+  {
+    "claim_item_id": "ITM-000368",
+    "claim_id": "CLM-000368",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 30495,
+    "line_amount": 30495
+  },
+  {
+    "claim_item_id": "ITM-000369",
+    "claim_id": "CLM-000369",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 62162,
+    "line_amount": 62162
+  },
+  {
+    "claim_item_id": "ITM-000370",
+    "claim_id": "CLM-000370",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 62156,
+    "line_amount": 62156
+  },
+  {
+    "claim_item_id": "ITM-000371",
+    "claim_id": "CLM-000371",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 153765,
+    "line_amount": 153765
+  },
+  {
+    "claim_item_id": "ITM-000372",
+    "claim_id": "CLM-000372",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 180238,
+    "line_amount": 180238
+  },
+  {
+    "claim_item_id": "ITM-000373",
+    "claim_id": "CLM-000373",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 123358,
+    "line_amount": 123358
+  },
+  {
+    "claim_item_id": "ITM-000374",
+    "claim_id": "CLM-000374",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 113620,
+    "line_amount": 113620
+  },
+  {
+    "claim_item_id": "ITM-000375",
+    "claim_id": "CLM-000375",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 169486,
+    "line_amount": 169486
+  },
+  {
+    "claim_item_id": "ITM-000376",
+    "claim_id": "CLM-000376",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 102599,
+    "line_amount": 102599
+  },
+  {
+    "claim_item_id": "ITM-000377",
+    "claim_id": "CLM-000377",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 107093,
+    "line_amount": 107093
+  },
+  {
+    "claim_item_id": "ITM-000378",
+    "claim_id": "CLM-000378",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 21490,
+    "line_amount": 21490
+  },
+  {
+    "claim_item_id": "ITM-000379",
+    "claim_id": "CLM-000379",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 93343,
+    "line_amount": 93343
+  },
+  {
+    "claim_item_id": "ITM-000380",
+    "claim_id": "CLM-000380",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 179976,
+    "line_amount": 179976
+  },
+  {
+    "claim_item_id": "ITM-000381",
+    "claim_id": "CLM-000381",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 51435,
+    "line_amount": 51435
+  },
+  {
+    "claim_item_id": "ITM-000382",
+    "claim_id": "CLM-000382",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 101140,
+    "line_amount": 101140
+  },
+  {
+    "claim_item_id": "ITM-000383",
+    "claim_id": "CLM-000383",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 27515,
+    "line_amount": 27515
+  },
+  {
+    "claim_item_id": "ITM-000384",
+    "claim_id": "CLM-000384",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 40449,
+    "line_amount": 40449
+  },
+  {
+    "claim_item_id": "ITM-000385",
+    "claim_id": "CLM-000385",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 174890,
+    "line_amount": 174890
+  },
+  {
+    "claim_item_id": "ITM-000386",
+    "claim_id": "CLM-000386",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 15733,
+    "line_amount": 15733
+  },
+  {
+    "claim_item_id": "ITM-000387",
+    "claim_id": "CLM-000387",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 155314,
+    "line_amount": 155314
+  },
+  {
+    "claim_item_id": "ITM-000388",
+    "claim_id": "CLM-000388",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 197621,
+    "line_amount": 197621
+  },
+  {
+    "claim_item_id": "ITM-000389",
+    "claim_id": "CLM-000389",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 87291,
+    "line_amount": 87291
+  },
+  {
+    "claim_item_id": "ITM-000390",
+    "claim_id": "CLM-000390",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 193975,
+    "line_amount": 193975
+  },
+  {
+    "claim_item_id": "ITM-000391",
+    "claim_id": "CLM-000391",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 159573,
+    "line_amount": 159573
+  },
+  {
+    "claim_item_id": "ITM-000392",
+    "claim_id": "CLM-000392",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 94338,
+    "line_amount": 94338
+  },
+  {
+    "claim_item_id": "ITM-000393",
+    "claim_id": "CLM-000393",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 154155,
+    "line_amount": 154155
+  },
+  {
+    "claim_item_id": "ITM-000394",
+    "claim_id": "CLM-000394",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 198858,
+    "line_amount": 198858
+  },
+  {
+    "claim_item_id": "ITM-000395",
+    "claim_id": "CLM-000395",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 72481,
+    "line_amount": 72481
+  },
+  {
+    "claim_item_id": "ITM-000396",
+    "claim_id": "CLM-000396",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 18797,
+    "line_amount": 18797
+  },
+  {
+    "claim_item_id": "ITM-000397",
+    "claim_id": "CLM-000397",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 47282,
+    "line_amount": 47282
+  },
+  {
+    "claim_item_id": "ITM-000398",
+    "claim_id": "CLM-000398",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 169978,
+    "line_amount": 169978
+  },
+  {
+    "claim_item_id": "ITM-000399",
+    "claim_id": "CLM-000399",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 123056,
+    "line_amount": 123056
+  },
+  {
+    "claim_item_id": "ITM-000400",
+    "claim_id": "CLM-000400",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 90479,
+    "line_amount": 90479
+  },
+  {
+    "claim_item_id": "ITM-000401",
+    "claim_id": "CLM-000401",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 152179,
+    "line_amount": 152179
+  },
+  {
+    "claim_item_id": "ITM-000402",
+    "claim_id": "CLM-000402",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 74913,
+    "line_amount": 74913
+  },
+  {
+    "claim_item_id": "ITM-000403",
+    "claim_id": "CLM-000403",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 50051,
+    "line_amount": 50051
+  },
+  {
+    "claim_item_id": "ITM-000404",
+    "claim_id": "CLM-000404",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 173223,
+    "line_amount": 173223
+  },
+  {
+    "claim_item_id": "ITM-000405",
+    "claim_id": "CLM-000405",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 142667,
+    "line_amount": 142667
+  },
+  {
+    "claim_item_id": "ITM-000406",
+    "claim_id": "CLM-000406",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 53606,
+    "line_amount": 53606
+  },
+  {
+    "claim_item_id": "ITM-000407",
+    "claim_id": "CLM-000407",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 19529,
+    "line_amount": 19529
+  },
+  {
+    "claim_item_id": "ITM-000408",
+    "claim_id": "CLM-000408",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 147184,
+    "line_amount": 147184
+  },
+  {
+    "claim_item_id": "ITM-000409",
+    "claim_id": "CLM-000409",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 83940,
+    "line_amount": 83940
+  },
+  {
+    "claim_item_id": "ITM-000410",
+    "claim_id": "CLM-000410",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 92922,
+    "line_amount": 92922
+  },
+  {
+    "claim_item_id": "ITM-000411",
+    "claim_id": "CLM-000411",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 78504,
+    "line_amount": 78504
+  },
+  {
+    "claim_item_id": "ITM-000412",
+    "claim_id": "CLM-000412",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 169609,
+    "line_amount": 169609
+  },
+  {
+    "claim_item_id": "ITM-000413",
+    "claim_id": "CLM-000413",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 148481,
+    "line_amount": 148481
+  },
+  {
+    "claim_item_id": "ITM-000414",
+    "claim_id": "CLM-000414",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 138263,
+    "line_amount": 138263
+  },
+  {
+    "claim_item_id": "ITM-000415",
+    "claim_id": "CLM-000415",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 167132,
+    "line_amount": 167132
+  },
+  {
+    "claim_item_id": "ITM-000416",
+    "claim_id": "CLM-000416",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 188478,
+    "line_amount": 188478
+  },
+  {
+    "claim_item_id": "ITM-000417",
+    "claim_id": "CLM-000417",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 110005,
+    "line_amount": 110005
+  },
+  {
+    "claim_item_id": "ITM-000418",
+    "claim_id": "CLM-000418",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 76322,
+    "line_amount": 76322
+  },
+  {
+    "claim_item_id": "ITM-000419",
+    "claim_id": "CLM-000419",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 147259,
+    "line_amount": 147259
+  },
+  {
+    "claim_item_id": "ITM-000420",
+    "claim_id": "CLM-000420",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 168076,
+    "line_amount": 168076
+  },
+  {
+    "claim_item_id": "ITM-000421",
+    "claim_id": "CLM-000421",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 98044,
+    "line_amount": 98044
+  },
+  {
+    "claim_item_id": "ITM-000422",
+    "claim_id": "CLM-000422",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 194333,
+    "line_amount": 194333
+  },
+  {
+    "claim_item_id": "ITM-000423",
+    "claim_id": "CLM-000423",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 17471,
+    "line_amount": 17471
+  },
+  {
+    "claim_item_id": "ITM-000424",
+    "claim_id": "CLM-000424",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 26374,
+    "line_amount": 26374
+  },
+  {
+    "claim_item_id": "ITM-000425",
+    "claim_id": "CLM-000425",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 165669,
+    "line_amount": 165669
+  },
+  {
+    "claim_item_id": "ITM-000426",
+    "claim_id": "CLM-000426",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 198702,
+    "line_amount": 198702
+  },
+  {
+    "claim_item_id": "ITM-000427",
+    "claim_id": "CLM-000427",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 153321,
+    "line_amount": 153321
+  },
+  {
+    "claim_item_id": "ITM-000428",
+    "claim_id": "CLM-000428",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 75348,
+    "line_amount": 75348
+  },
+  {
+    "claim_item_id": "ITM-000429",
+    "claim_id": "CLM-000429",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 174252,
+    "line_amount": 174252
+  },
+  {
+    "claim_item_id": "ITM-000430",
+    "claim_id": "CLM-000430",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 45110,
+    "line_amount": 45110
+  },
+  {
+    "claim_item_id": "ITM-000431",
+    "claim_id": "CLM-000431",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 17924,
+    "line_amount": 17924
+  },
+  {
+    "claim_item_id": "ITM-000432",
+    "claim_id": "CLM-000432",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 63328,
+    "line_amount": 63328
+  },
+  {
+    "claim_item_id": "ITM-000433",
+    "claim_id": "CLM-000433",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 28093,
+    "line_amount": 28093
+  },
+  {
+    "claim_item_id": "ITM-000434",
+    "claim_id": "CLM-000434",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 20934,
+    "line_amount": 20934
+  },
+  {
+    "claim_item_id": "ITM-000435",
+    "claim_id": "CLM-000435",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 43182,
+    "line_amount": 43182
+  },
+  {
+    "claim_item_id": "ITM-000436",
+    "claim_id": "CLM-000436",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 40595,
+    "line_amount": 40595
+  },
+  {
+    "claim_item_id": "ITM-000437",
+    "claim_id": "CLM-000437",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 148807,
+    "line_amount": 148807
+  },
+  {
+    "claim_item_id": "ITM-000438",
+    "claim_id": "CLM-000438",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 157676,
+    "line_amount": 157676
+  },
+  {
+    "claim_item_id": "ITM-000439",
+    "claim_id": "CLM-000439",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 89769,
+    "line_amount": 89769
+  },
+  {
+    "claim_item_id": "ITM-000440",
+    "claim_id": "CLM-000440",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 72569,
+    "line_amount": 72569
+  },
+  {
+    "claim_item_id": "ITM-000441",
+    "claim_id": "CLM-000441",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 40405,
+    "line_amount": 40405
+  },
+  {
+    "claim_item_id": "ITM-000442",
+    "claim_id": "CLM-000442",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 141879,
+    "line_amount": 141879
+  },
+  {
+    "claim_item_id": "ITM-000443",
+    "claim_id": "CLM-000443",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 30110,
+    "line_amount": 30110
+  },
+  {
+    "claim_item_id": "ITM-000444",
+    "claim_id": "CLM-000444",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 90366,
+    "line_amount": 90366
+  },
+  {
+    "claim_item_id": "ITM-000445",
+    "claim_id": "CLM-000445",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 84524,
+    "line_amount": 84524
+  },
+  {
+    "claim_item_id": "ITM-000446",
+    "claim_id": "CLM-000446",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 117973,
+    "line_amount": 117973
+  },
+  {
+    "claim_item_id": "ITM-000447",
+    "claim_id": "CLM-000447",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 172692,
+    "line_amount": 172692
+  },
+  {
+    "claim_item_id": "ITM-000448",
+    "claim_id": "CLM-000448",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 92382,
+    "line_amount": 92382
+  },
+  {
+    "claim_item_id": "ITM-000449",
+    "claim_id": "CLM-000449",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 87155,
+    "line_amount": 87155
+  },
+  {
+    "claim_item_id": "ITM-000450",
+    "claim_id": "CLM-000450",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 101017,
+    "line_amount": 101017
+  },
+  {
+    "claim_item_id": "ITM-000451",
+    "claim_id": "CLM-000451",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 163577,
+    "line_amount": 163577
+  },
+  {
+    "claim_item_id": "ITM-000452",
+    "claim_id": "CLM-000452",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 171709,
+    "line_amount": 171709
+  },
+  {
+    "claim_item_id": "ITM-000453",
+    "claim_id": "CLM-000453",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 121924,
+    "line_amount": 121924
+  },
+  {
+    "claim_item_id": "ITM-000454",
+    "claim_id": "CLM-000454",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 21331,
+    "line_amount": 21331
+  },
+  {
+    "claim_item_id": "ITM-000455",
+    "claim_id": "CLM-000455",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 188444,
+    "line_amount": 188444
+  },
+  {
+    "claim_item_id": "ITM-000456",
+    "claim_id": "CLM-000456",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 28538,
+    "line_amount": 28538
+  },
+  {
+    "claim_item_id": "ITM-000457",
+    "claim_id": "CLM-000457",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 56715,
+    "line_amount": 56715
+  },
+  {
+    "claim_item_id": "ITM-000458",
+    "claim_id": "CLM-000458",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 23278,
+    "line_amount": 23278
+  },
+  {
+    "claim_item_id": "ITM-000459",
+    "claim_id": "CLM-000459",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 117047,
+    "line_amount": 117047
+  },
+  {
+    "claim_item_id": "ITM-000460",
+    "claim_id": "CLM-000460",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 167485,
+    "line_amount": 167485
+  },
+  {
+    "claim_item_id": "ITM-000461",
+    "claim_id": "CLM-000461",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 137395,
+    "line_amount": 137395
+  },
+  {
+    "claim_item_id": "ITM-000462",
+    "claim_id": "CLM-000462",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 147677,
+    "line_amount": 147677
+  },
+  {
+    "claim_item_id": "ITM-000463",
+    "claim_id": "CLM-000463",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 39709,
+    "line_amount": 39709
+  },
+  {
+    "claim_item_id": "ITM-000464",
+    "claim_id": "CLM-000464",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 136442,
+    "line_amount": 136442
+  },
+  {
+    "claim_item_id": "ITM-000465",
+    "claim_id": "CLM-000465",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 37692,
+    "line_amount": 37692
+  },
+  {
+    "claim_item_id": "ITM-000466",
+    "claim_id": "CLM-000466",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 59323,
+    "line_amount": 59323
+  },
+  {
+    "claim_item_id": "ITM-000467",
+    "claim_id": "CLM-000467",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 149777,
+    "line_amount": 149777
+  },
+  {
+    "claim_item_id": "ITM-000468",
+    "claim_id": "CLM-000468",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 169459,
+    "line_amount": 169459
+  },
+  {
+    "claim_item_id": "ITM-000469",
+    "claim_id": "CLM-000469",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 155081,
+    "line_amount": 155081
+  },
+  {
+    "claim_item_id": "ITM-000470",
+    "claim_id": "CLM-000470",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 42655,
+    "line_amount": 42655
+  },
+  {
+    "claim_item_id": "ITM-000471",
+    "claim_id": "CLM-000471",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 163109,
+    "line_amount": 163109
+  },
+  {
+    "claim_item_id": "ITM-000472",
+    "claim_id": "CLM-000472",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 198030,
+    "line_amount": 198030
+  },
+  {
+    "claim_item_id": "ITM-000473",
+    "claim_id": "CLM-000473",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 165825,
+    "line_amount": 165825
+  },
+  {
+    "claim_item_id": "ITM-000474",
+    "claim_id": "CLM-000474",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 28286,
+    "line_amount": 28286
+  },
+  {
+    "claim_item_id": "ITM-000475",
+    "claim_id": "CLM-000475",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 197792,
+    "line_amount": 197792
+  },
+  {
+    "claim_item_id": "ITM-000476",
+    "claim_id": "CLM-000476",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 55429,
+    "line_amount": 55429
+  },
+  {
+    "claim_item_id": "ITM-000477",
+    "claim_id": "CLM-000477",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 196436,
+    "line_amount": 196436
+  },
+  {
+    "claim_item_id": "ITM-000478",
+    "claim_id": "CLM-000478",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 164827,
+    "line_amount": 164827
+  },
+  {
+    "claim_item_id": "ITM-000479",
+    "claim_id": "CLM-000479",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 126200,
+    "line_amount": 126200
+  },
+  {
+    "claim_item_id": "ITM-000480",
+    "claim_id": "CLM-000480",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 187472,
+    "line_amount": 187472
+  },
+  {
+    "claim_item_id": "ITM-000481",
+    "claim_id": "CLM-000481",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 94528,
+    "line_amount": 94528
+  },
+  {
+    "claim_item_id": "ITM-000482",
+    "claim_id": "CLM-000482",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 150190,
+    "line_amount": 150190
+  },
+  {
+    "claim_item_id": "ITM-000483",
+    "claim_id": "CLM-000483",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 175796,
+    "line_amount": 175796
+  },
+  {
+    "claim_item_id": "ITM-000484",
+    "claim_id": "CLM-000484",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 162058,
+    "line_amount": 162058
+  },
+  {
+    "claim_item_id": "ITM-000485",
+    "claim_id": "CLM-000485",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 147299,
+    "line_amount": 147299
+  },
+  {
+    "claim_item_id": "ITM-000486",
+    "claim_id": "CLM-000486",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 151545,
+    "line_amount": 151545
+  },
+  {
+    "claim_item_id": "ITM-000487",
+    "claim_id": "CLM-000487",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 28028,
+    "line_amount": 28028
+  },
+  {
+    "claim_item_id": "ITM-000488",
+    "claim_id": "CLM-000488",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 125823,
+    "line_amount": 125823
+  },
+  {
+    "claim_item_id": "ITM-000489",
+    "claim_id": "CLM-000489",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 104170,
+    "line_amount": 104170
+  },
+  {
+    "claim_item_id": "ITM-000490",
+    "claim_id": "CLM-000490",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 191521,
+    "line_amount": 191521
+  },
+  {
+    "claim_item_id": "ITM-000491",
+    "claim_id": "CLM-000491",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 144978,
+    "line_amount": 144978
+  },
+  {
+    "claim_item_id": "ITM-000492",
+    "claim_id": "CLM-000492",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 73296,
+    "line_amount": 73296
+  },
+  {
+    "claim_item_id": "ITM-000493",
+    "claim_id": "CLM-000493",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 99218,
+    "line_amount": 99218
+  },
+  {
+    "claim_item_id": "ITM-000494",
+    "claim_id": "CLM-000494",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 75455,
+    "line_amount": 75455
+  },
+  {
+    "claim_item_id": "ITM-000495",
+    "claim_id": "CLM-000495",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 139220,
+    "line_amount": 139220
+  },
+  {
+    "claim_item_id": "ITM-000496",
+    "claim_id": "CLM-000496",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 162272,
+    "line_amount": 162272
+  },
+  {
+    "claim_item_id": "ITM-000497",
+    "claim_id": "CLM-000497",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 184643,
+    "line_amount": 184643
+  },
+  {
+    "claim_item_id": "ITM-000498",
+    "claim_id": "CLM-000498",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 114925,
+    "line_amount": 114925
+  },
+  {
+    "claim_item_id": "ITM-000499",
+    "claim_id": "CLM-000499",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 159475,
+    "line_amount": 159475
+  },
+  {
+    "claim_item_id": "ITM-000500",
+    "claim_id": "CLM-000500",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 121645,
+    "line_amount": 121645
+  },
+  {
+    "claim_item_id": "ITM-000501",
+    "claim_id": "CLM-000501",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 143953,
+    "line_amount": 143953
+  },
+  {
+    "claim_item_id": "ITM-000502",
+    "claim_id": "CLM-000502",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 134777,
+    "line_amount": 134777
+  },
+  {
+    "claim_item_id": "ITM-000503",
+    "claim_id": "CLM-000503",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 40317,
+    "line_amount": 40317
+  },
+  {
+    "claim_item_id": "ITM-000504",
+    "claim_id": "CLM-000504",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 136140,
+    "line_amount": 136140
+  },
+  {
+    "claim_item_id": "ITM-000505",
+    "claim_id": "CLM-000505",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 199290,
+    "line_amount": 199290
+  },
+  {
+    "claim_item_id": "ITM-000506",
+    "claim_id": "CLM-000506",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 196890,
+    "line_amount": 196890
+  },
+  {
+    "claim_item_id": "ITM-000507",
+    "claim_id": "CLM-000507",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 28398,
+    "line_amount": 28398
+  },
+  {
+    "claim_item_id": "ITM-000508",
+    "claim_id": "CLM-000508",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 82490,
+    "line_amount": 82490
+  },
+  {
+    "claim_item_id": "ITM-000509",
+    "claim_id": "CLM-000509",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 145361,
+    "line_amount": 145361
+  },
+  {
+    "claim_item_id": "ITM-000510",
+    "claim_id": "CLM-000510",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 169611,
+    "line_amount": 169611
+  },
+  {
+    "claim_item_id": "ITM-000511",
+    "claim_id": "CLM-000511",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 132609,
+    "line_amount": 132609
+  },
+  {
+    "claim_item_id": "ITM-000512",
+    "claim_id": "CLM-000512",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 103083,
+    "line_amount": 103083
+  },
+  {
+    "claim_item_id": "ITM-000513",
+    "claim_id": "CLM-000513",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 192698,
+    "line_amount": 192698
+  },
+  {
+    "claim_item_id": "ITM-000514",
+    "claim_id": "CLM-000514",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 116898,
+    "line_amount": 116898
+  },
+  {
+    "claim_item_id": "ITM-000515",
+    "claim_id": "CLM-000515",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 188810,
+    "line_amount": 188810
+  },
+  {
+    "claim_item_id": "ITM-000516",
+    "claim_id": "CLM-000516",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 153920,
+    "line_amount": 153920
+  },
+  {
+    "claim_item_id": "ITM-000517",
+    "claim_id": "CLM-000517",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 63968,
+    "line_amount": 63968
+  },
+  {
+    "claim_item_id": "ITM-000518",
+    "claim_id": "CLM-000518",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 40202,
+    "line_amount": 40202
+  },
+  {
+    "claim_item_id": "ITM-000519",
+    "claim_id": "CLM-000519",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 199642,
+    "line_amount": 199642
+  },
+  {
+    "claim_item_id": "ITM-000520",
+    "claim_id": "CLM-000520",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 89654,
+    "line_amount": 89654
+  },
+  {
+    "claim_item_id": "ITM-000521",
+    "claim_id": "CLM-000521",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 190685,
+    "line_amount": 190685
+  },
+  {
+    "claim_item_id": "ITM-000522",
+    "claim_id": "CLM-000522",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 52399,
+    "line_amount": 52399
+  },
+  {
+    "claim_item_id": "ITM-000523",
+    "claim_id": "CLM-000523",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 143335,
+    "line_amount": 143335
+  },
+  {
+    "claim_item_id": "ITM-000524",
+    "claim_id": "CLM-000524",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 133000,
+    "line_amount": 133000
+  },
+  {
+    "claim_item_id": "ITM-000525",
+    "claim_id": "CLM-000525",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 146479,
+    "line_amount": 146479
+  },
+  {
+    "claim_item_id": "ITM-000526",
+    "claim_id": "CLM-000526",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 32006,
+    "line_amount": 32006
+  },
+  {
+    "claim_item_id": "ITM-000527",
+    "claim_id": "CLM-000527",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 166492,
+    "line_amount": 166492
+  },
+  {
+    "claim_item_id": "ITM-000528",
+    "claim_id": "CLM-000528",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 63258,
+    "line_amount": 63258
+  },
+  {
+    "claim_item_id": "ITM-000529",
+    "claim_id": "CLM-000529",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 103748,
+    "line_amount": 103748
+  },
+  {
+    "claim_item_id": "ITM-000530",
+    "claim_id": "CLM-000530",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 64744,
+    "line_amount": 64744
+  },
+  {
+    "claim_item_id": "ITM-000531",
+    "claim_id": "CLM-000531",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 148586,
+    "line_amount": 148586
+  },
+  {
+    "claim_item_id": "ITM-000532",
+    "claim_id": "CLM-000532",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 165544,
+    "line_amount": 165544
+  },
+  {
+    "claim_item_id": "ITM-000533",
+    "claim_id": "CLM-000533",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 158940,
+    "line_amount": 158940
+  },
+  {
+    "claim_item_id": "ITM-000534",
+    "claim_id": "CLM-000534",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 116122,
+    "line_amount": 116122
+  },
+  {
+    "claim_item_id": "ITM-000535",
+    "claim_id": "CLM-000535",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 126499,
+    "line_amount": 126499
+  },
+  {
+    "claim_item_id": "ITM-000536",
+    "claim_id": "CLM-000536",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 38190,
+    "line_amount": 38190
+  },
+  {
+    "claim_item_id": "ITM-000537",
+    "claim_id": "CLM-000537",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 31562,
+    "line_amount": 31562
+  },
+  {
+    "claim_item_id": "ITM-000538",
+    "claim_id": "CLM-000538",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 26304,
+    "line_amount": 26304
+  },
+  {
+    "claim_item_id": "ITM-000539",
+    "claim_id": "CLM-000539",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 158641,
+    "line_amount": 158641
+  },
+  {
+    "claim_item_id": "ITM-000540",
+    "claim_id": "CLM-000540",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 96168,
+    "line_amount": 96168
+  },
+  {
+    "claim_item_id": "ITM-000541",
+    "claim_id": "CLM-000541",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 101543,
+    "line_amount": 101543
+  },
+  {
+    "claim_item_id": "ITM-000542",
+    "claim_id": "CLM-000542",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 74909,
+    "line_amount": 74909
+  },
+  {
+    "claim_item_id": "ITM-000543",
+    "claim_id": "CLM-000543",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 134024,
+    "line_amount": 134024
+  },
+  {
+    "claim_item_id": "ITM-000544",
+    "claim_id": "CLM-000544",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 154026,
+    "line_amount": 154026
+  },
+  {
+    "claim_item_id": "ITM-000545",
+    "claim_id": "CLM-000545",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 21122,
+    "line_amount": 21122
+  },
+  {
+    "claim_item_id": "ITM-000546",
+    "claim_id": "CLM-000546",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 182020,
+    "line_amount": 182020
+  },
+  {
+    "claim_item_id": "ITM-000547",
+    "claim_id": "CLM-000547",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 184457,
+    "line_amount": 184457
+  },
+  {
+    "claim_item_id": "ITM-000548",
+    "claim_id": "CLM-000548",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 149306,
+    "line_amount": 149306
+  },
+  {
+    "claim_item_id": "ITM-000549",
+    "claim_id": "CLM-000549",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 162963,
+    "line_amount": 162963
+  },
+  {
+    "claim_item_id": "ITM-000550",
+    "claim_id": "CLM-000550",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 49469,
+    "line_amount": 49469
+  },
+  {
+    "claim_item_id": "ITM-000551",
+    "claim_id": "CLM-000551",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 51546,
+    "line_amount": 51546
+  },
+  {
+    "claim_item_id": "ITM-000552",
+    "claim_id": "CLM-000552",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 74530,
+    "line_amount": 74530
+  },
+  {
+    "claim_item_id": "ITM-000553",
+    "claim_id": "CLM-000553",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 151736,
+    "line_amount": 151736
+  },
+  {
+    "claim_item_id": "ITM-000554",
+    "claim_id": "CLM-000554",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 22900,
+    "line_amount": 22900
+  },
+  {
+    "claim_item_id": "ITM-000555",
+    "claim_id": "CLM-000555",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 157745,
+    "line_amount": 157745
+  },
+  {
+    "claim_item_id": "ITM-000556",
+    "claim_id": "CLM-000556",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 108077,
+    "line_amount": 108077
+  },
+  {
+    "claim_item_id": "ITM-000557",
+    "claim_id": "CLM-000557",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 138078,
+    "line_amount": 138078
+  },
+  {
+    "claim_item_id": "ITM-000558",
+    "claim_id": "CLM-000558",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 182246,
+    "line_amount": 182246
+  },
+  {
+    "claim_item_id": "ITM-000559",
+    "claim_id": "CLM-000559",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 47177,
+    "line_amount": 47177
+  },
+  {
+    "claim_item_id": "ITM-000560",
+    "claim_id": "CLM-000560",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 34158,
+    "line_amount": 34158
+  },
+  {
+    "claim_item_id": "ITM-000561",
+    "claim_id": "CLM-000561",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 22060,
+    "line_amount": 22060
+  },
+  {
+    "claim_item_id": "ITM-000562",
+    "claim_id": "CLM-000562",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 170370,
+    "line_amount": 170370
+  },
+  {
+    "claim_item_id": "ITM-000563",
+    "claim_id": "CLM-000563",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 80979,
+    "line_amount": 80979
+  },
+  {
+    "claim_item_id": "ITM-000564",
+    "claim_id": "CLM-000564",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 53445,
+    "line_amount": 53445
+  },
+  {
+    "claim_item_id": "ITM-000565",
+    "claim_id": "CLM-000565",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 191779,
+    "line_amount": 191779
+  },
+  {
+    "claim_item_id": "ITM-000566",
+    "claim_id": "CLM-000566",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 145085,
+    "line_amount": 145085
+  },
+  {
+    "claim_item_id": "ITM-000567",
+    "claim_id": "CLM-000567",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 32480,
+    "line_amount": 32480
+  },
+  {
+    "claim_item_id": "ITM-000568",
+    "claim_id": "CLM-000568",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 26836,
+    "line_amount": 26836
+  },
+  {
+    "claim_item_id": "ITM-000569",
+    "claim_id": "CLM-000569",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 161124,
+    "line_amount": 161124
+  },
+  {
+    "claim_item_id": "ITM-000570",
+    "claim_id": "CLM-000570",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 115246,
+    "line_amount": 115246
+  },
+  {
+    "claim_item_id": "ITM-000571",
+    "claim_id": "CLM-000571",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 57207,
+    "line_amount": 57207
+  },
+  {
+    "claim_item_id": "ITM-000572",
+    "claim_id": "CLM-000572",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 145708,
+    "line_amount": 145708
+  },
+  {
+    "claim_item_id": "ITM-000573",
+    "claim_id": "CLM-000573",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 30042,
+    "line_amount": 30042
+  },
+  {
+    "claim_item_id": "ITM-000574",
+    "claim_id": "CLM-000574",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 43965,
+    "line_amount": 43965
+  },
+  {
+    "claim_item_id": "ITM-000575",
+    "claim_id": "CLM-000575",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 29089,
+    "line_amount": 29089
+  },
+  {
+    "claim_item_id": "ITM-000576",
+    "claim_id": "CLM-000576",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 84222,
+    "line_amount": 84222
+  },
+  {
+    "claim_item_id": "ITM-000577",
+    "claim_id": "CLM-000577",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 112444,
+    "line_amount": 112444
+  },
+  {
+    "claim_item_id": "ITM-000578",
+    "claim_id": "CLM-000578",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 152169,
+    "line_amount": 152169
+  },
+  {
+    "claim_item_id": "ITM-000579",
+    "claim_id": "CLM-000579",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 47523,
+    "line_amount": 47523
+  },
+  {
+    "claim_item_id": "ITM-000580",
+    "claim_id": "CLM-000580",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 47856,
+    "line_amount": 47856
+  },
+  {
+    "claim_item_id": "ITM-000581",
+    "claim_id": "CLM-000581",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 113269,
+    "line_amount": 113269
+  },
+  {
+    "claim_item_id": "ITM-000582",
+    "claim_id": "CLM-000582",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 106079,
+    "line_amount": 106079
+  },
+  {
+    "claim_item_id": "ITM-000583",
+    "claim_id": "CLM-000583",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 66135,
+    "line_amount": 66135
+  },
+  {
+    "claim_item_id": "ITM-000584",
+    "claim_id": "CLM-000584",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 132841,
+    "line_amount": 132841
+  },
+  {
+    "claim_item_id": "ITM-000585",
+    "claim_id": "CLM-000585",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 48671,
+    "line_amount": 48671
+  },
+  {
+    "claim_item_id": "ITM-000586",
+    "claim_id": "CLM-000586",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 80455,
+    "line_amount": 80455
+  },
+  {
+    "claim_item_id": "ITM-000587",
+    "claim_id": "CLM-000587",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 44305,
+    "line_amount": 44305
+  },
+  {
+    "claim_item_id": "ITM-000588",
+    "claim_id": "CLM-000588",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 189564,
+    "line_amount": 189564
+  },
+  {
+    "claim_item_id": "ITM-000589",
+    "claim_id": "CLM-000589",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 135008,
+    "line_amount": 135008
+  },
+  {
+    "claim_item_id": "ITM-000590",
+    "claim_id": "CLM-000590",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 140401,
+    "line_amount": 140401
+  },
+  {
+    "claim_item_id": "ITM-000591",
+    "claim_id": "CLM-000591",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 151804,
+    "line_amount": 151804
+  },
+  {
+    "claim_item_id": "ITM-000592",
+    "claim_id": "CLM-000592",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 166983,
+    "line_amount": 166983
+  },
+  {
+    "claim_item_id": "ITM-000593",
+    "claim_id": "CLM-000593",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 90563,
+    "line_amount": 90563
+  },
+  {
+    "claim_item_id": "ITM-000594",
+    "claim_id": "CLM-000594",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 28459,
+    "line_amount": 28459
+  },
+  {
+    "claim_item_id": "ITM-000595",
+    "claim_id": "CLM-000595",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 57997,
+    "line_amount": 57997
+  },
+  {
+    "claim_item_id": "ITM-000596",
+    "claim_id": "CLM-000596",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 119759,
+    "line_amount": 119759
+  },
+  {
+    "claim_item_id": "ITM-000597",
+    "claim_id": "CLM-000597",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 112344,
+    "line_amount": 112344
+  },
+  {
+    "claim_item_id": "ITM-000598",
+    "claim_id": "CLM-000598",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 169960,
+    "line_amount": 169960
+  },
+  {
+    "claim_item_id": "ITM-000599",
+    "claim_id": "CLM-000599",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 95221,
+    "line_amount": 95221
+  },
+  {
+    "claim_item_id": "ITM-000600",
+    "claim_id": "CLM-000600",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 189908,
+    "line_amount": 189908
+  },
+  {
+    "claim_item_id": "ITM-000601",
+    "claim_id": "CLM-000601",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 157711,
+    "line_amount": 157711
+  },
+  {
+    "claim_item_id": "ITM-000602",
+    "claim_id": "CLM-000602",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 199891,
+    "line_amount": 199891
+  },
+  {
+    "claim_item_id": "ITM-000603",
+    "claim_id": "CLM-000603",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 186009,
+    "line_amount": 186009
+  },
+  {
+    "claim_item_id": "ITM-000604",
+    "claim_id": "CLM-000604",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 160519,
+    "line_amount": 160519
+  },
+  {
+    "claim_item_id": "ITM-000605",
+    "claim_id": "CLM-000605",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 21128,
+    "line_amount": 21128
+  },
+  {
+    "claim_item_id": "ITM-000606",
+    "claim_id": "CLM-000606",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 199884,
+    "line_amount": 199884
+  },
+  {
+    "claim_item_id": "ITM-000607",
+    "claim_id": "CLM-000607",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 177967,
+    "line_amount": 177967
+  },
+  {
+    "claim_item_id": "ITM-000608",
+    "claim_id": "CLM-000608",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 139134,
+    "line_amount": 139134
+  },
+  {
+    "claim_item_id": "ITM-000609",
+    "claim_id": "CLM-000609",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 83237,
+    "line_amount": 83237
+  },
+  {
+    "claim_item_id": "ITM-000610",
+    "claim_id": "CLM-000610",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 72318,
+    "line_amount": 72318
+  },
+  {
+    "claim_item_id": "ITM-000611",
+    "claim_id": "CLM-000611",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 40033,
+    "line_amount": 40033
+  },
+  {
+    "claim_item_id": "ITM-000612",
+    "claim_id": "CLM-000612",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 57014,
+    "line_amount": 57014
+  },
+  {
+    "claim_item_id": "ITM-000613",
+    "claim_id": "CLM-000613",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 25671,
+    "line_amount": 25671
+  },
+  {
+    "claim_item_id": "ITM-000614",
+    "claim_id": "CLM-000614",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 101800,
+    "line_amount": 101800
+  },
+  {
+    "claim_item_id": "ITM-000615",
+    "claim_id": "CLM-000615",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 36210,
+    "line_amount": 36210
+  },
+  {
+    "claim_item_id": "ITM-000616",
+    "claim_id": "CLM-000616",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 111039,
+    "line_amount": 111039
+  },
+  {
+    "claim_item_id": "ITM-000617",
+    "claim_id": "CLM-000617",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 197084,
+    "line_amount": 197084
+  },
+  {
+    "claim_item_id": "ITM-000618",
+    "claim_id": "CLM-000618",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 31538,
+    "line_amount": 31538
+  },
+  {
+    "claim_item_id": "ITM-000619",
+    "claim_id": "CLM-000619",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 171881,
+    "line_amount": 171881
+  },
+  {
+    "claim_item_id": "ITM-000620",
+    "claim_id": "CLM-000620",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 193159,
+    "line_amount": 193159
+  },
+  {
+    "claim_item_id": "ITM-000621",
+    "claim_id": "CLM-000621",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 70526,
+    "line_amount": 70526
+  },
+  {
+    "claim_item_id": "ITM-000622",
+    "claim_id": "CLM-000622",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 70111,
+    "line_amount": 70111
+  },
+  {
+    "claim_item_id": "ITM-000623",
+    "claim_id": "CLM-000623",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 105554,
+    "line_amount": 105554
+  },
+  {
+    "claim_item_id": "ITM-000624",
+    "claim_id": "CLM-000624",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 199138,
+    "line_amount": 199138
+  },
+  {
+    "claim_item_id": "ITM-000625",
+    "claim_id": "CLM-000625",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 90490,
+    "line_amount": 90490
+  },
+  {
+    "claim_item_id": "ITM-000626",
+    "claim_id": "CLM-000626",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 30537,
+    "line_amount": 30537
+  },
+  {
+    "claim_item_id": "ITM-000627",
+    "claim_id": "CLM-000627",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 97976,
+    "line_amount": 97976
+  },
+  {
+    "claim_item_id": "ITM-000628",
+    "claim_id": "CLM-000628",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 62104,
+    "line_amount": 62104
+  },
+  {
+    "claim_item_id": "ITM-000629",
+    "claim_id": "CLM-000629",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 184259,
+    "line_amount": 184259
+  },
+  {
+    "claim_item_id": "ITM-000630",
+    "claim_id": "CLM-000630",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 165373,
+    "line_amount": 165373
+  },
+  {
+    "claim_item_id": "ITM-000631",
+    "claim_id": "CLM-000631",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 65653,
+    "line_amount": 65653
+  },
+  {
+    "claim_item_id": "ITM-000632",
+    "claim_id": "CLM-000632",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 119748,
+    "line_amount": 119748
+  },
+  {
+    "claim_item_id": "ITM-000633",
+    "claim_id": "CLM-000633",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 193014,
+    "line_amount": 193014
+  },
+  {
+    "claim_item_id": "ITM-000634",
+    "claim_id": "CLM-000634",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 168496,
+    "line_amount": 168496
+  },
+  {
+    "claim_item_id": "ITM-000635",
+    "claim_id": "CLM-000635",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 80806,
+    "line_amount": 80806
+  },
+  {
+    "claim_item_id": "ITM-000636",
+    "claim_id": "CLM-000636",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 92048,
+    "line_amount": 92048
+  },
+  {
+    "claim_item_id": "ITM-000637",
+    "claim_id": "CLM-000637",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 126468,
+    "line_amount": 126468
+  },
+  {
+    "claim_item_id": "ITM-000638",
+    "claim_id": "CLM-000638",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 152574,
+    "line_amount": 152574
+  },
+  {
+    "claim_item_id": "ITM-000639",
+    "claim_id": "CLM-000639",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 197895,
+    "line_amount": 197895
+  },
+  {
+    "claim_item_id": "ITM-000640",
+    "claim_id": "CLM-000640",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 146675,
+    "line_amount": 146675
+  },
+  {
+    "claim_item_id": "ITM-000641",
+    "claim_id": "CLM-000641",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 172278,
+    "line_amount": 172278
+  },
+  {
+    "claim_item_id": "ITM-000642",
+    "claim_id": "CLM-000642",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 153131,
+    "line_amount": 153131
+  },
+  {
+    "claim_item_id": "ITM-000643",
+    "claim_id": "CLM-000643",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 147283,
+    "line_amount": 147283
+  },
+  {
+    "claim_item_id": "ITM-000644",
+    "claim_id": "CLM-000644",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 77268,
+    "line_amount": 77268
+  },
+  {
+    "claim_item_id": "ITM-000645",
+    "claim_id": "CLM-000645",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 83640,
+    "line_amount": 83640
+  },
+  {
+    "claim_item_id": "ITM-000646",
+    "claim_id": "CLM-000646",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 147459,
+    "line_amount": 147459
+  },
+  {
+    "claim_item_id": "ITM-000647",
+    "claim_id": "CLM-000647",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 171894,
+    "line_amount": 171894
+  },
+  {
+    "claim_item_id": "ITM-000648",
+    "claim_id": "CLM-000648",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 55953,
+    "line_amount": 55953
+  },
+  {
+    "claim_item_id": "ITM-000649",
+    "claim_id": "CLM-000649",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 124604,
+    "line_amount": 124604
+  },
+  {
+    "claim_item_id": "ITM-000650",
+    "claim_id": "CLM-000650",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 38776,
+    "line_amount": 38776
+  },
+  {
+    "claim_item_id": "ITM-000651",
+    "claim_id": "CLM-000651",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 164024,
+    "line_amount": 164024
+  },
+  {
+    "claim_item_id": "ITM-000652",
+    "claim_id": "CLM-000652",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 67177,
+    "line_amount": 67177
+  },
+  {
+    "claim_item_id": "ITM-000653",
+    "claim_id": "CLM-000653",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 151037,
+    "line_amount": 151037
+  },
+  {
+    "claim_item_id": "ITM-000654",
+    "claim_id": "CLM-000654",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 89965,
+    "line_amount": 89965
+  },
+  {
+    "claim_item_id": "ITM-000655",
+    "claim_id": "CLM-000655",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 37157,
+    "line_amount": 37157
+  },
+  {
+    "claim_item_id": "ITM-000656",
+    "claim_id": "CLM-000656",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 117501,
+    "line_amount": 117501
+  },
+  {
+    "claim_item_id": "ITM-000657",
+    "claim_id": "CLM-000657",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 51232,
+    "line_amount": 51232
+  },
+  {
+    "claim_item_id": "ITM-000658",
+    "claim_id": "CLM-000658",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 69142,
+    "line_amount": 69142
+  },
+  {
+    "claim_item_id": "ITM-000659",
+    "claim_id": "CLM-000659",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 25809,
+    "line_amount": 25809
+  },
+  {
+    "claim_item_id": "ITM-000660",
+    "claim_id": "CLM-000660",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 130719,
+    "line_amount": 130719
+  },
+  {
+    "claim_item_id": "ITM-000661",
+    "claim_id": "CLM-000661",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 113505,
+    "line_amount": 113505
+  },
+  {
+    "claim_item_id": "ITM-000662",
+    "claim_id": "CLM-000662",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 134463,
+    "line_amount": 134463
+  },
+  {
+    "claim_item_id": "ITM-000663",
+    "claim_id": "CLM-000663",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 23168,
+    "line_amount": 23168
+  },
+  {
+    "claim_item_id": "ITM-000664",
+    "claim_id": "CLM-000664",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 119628,
+    "line_amount": 119628
+  },
+  {
+    "claim_item_id": "ITM-000665",
+    "claim_id": "CLM-000665",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 65118,
+    "line_amount": 65118
+  },
+  {
+    "claim_item_id": "ITM-000666",
+    "claim_id": "CLM-000666",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 155958,
+    "line_amount": 155958
+  },
+  {
+    "claim_item_id": "ITM-000667",
+    "claim_id": "CLM-000667",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 29810,
+    "line_amount": 29810
+  },
+  {
+    "claim_item_id": "ITM-000668",
+    "claim_id": "CLM-000668",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 49326,
+    "line_amount": 49326
+  },
+  {
+    "claim_item_id": "ITM-000669",
+    "claim_id": "CLM-000669",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 195585,
+    "line_amount": 195585
+  },
+  {
+    "claim_item_id": "ITM-000670",
+    "claim_id": "CLM-000670",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 45999,
+    "line_amount": 45999
+  },
+  {
+    "claim_item_id": "ITM-000671",
+    "claim_id": "CLM-000671",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 148781,
+    "line_amount": 148781
+  },
+  {
+    "claim_item_id": "ITM-000672",
+    "claim_id": "CLM-000672",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 58275,
+    "line_amount": 58275
+  },
+  {
+    "claim_item_id": "ITM-000673",
+    "claim_id": "CLM-000673",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 24195,
+    "line_amount": 24195
+  },
+  {
+    "claim_item_id": "ITM-000674",
+    "claim_id": "CLM-000674",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 136554,
+    "line_amount": 136554
+  },
+  {
+    "claim_item_id": "ITM-000675",
+    "claim_id": "CLM-000675",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 33641,
+    "line_amount": 33641
+  },
+  {
+    "claim_item_id": "ITM-000676",
+    "claim_id": "CLM-000676",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 43433,
+    "line_amount": 43433
+  },
+  {
+    "claim_item_id": "ITM-000677",
+    "claim_id": "CLM-000677",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 62243,
+    "line_amount": 62243
+  },
+  {
+    "claim_item_id": "ITM-000678",
+    "claim_id": "CLM-000678",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 85464,
+    "line_amount": 85464
+  },
+  {
+    "claim_item_id": "ITM-000679",
+    "claim_id": "CLM-000679",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 70710,
+    "line_amount": 70710
+  },
+  {
+    "claim_item_id": "ITM-000680",
+    "claim_id": "CLM-000680",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 116161,
+    "line_amount": 116161
+  },
+  {
+    "claim_item_id": "ITM-000681",
+    "claim_id": "CLM-000681",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 114870,
+    "line_amount": 114870
+  },
+  {
+    "claim_item_id": "ITM-000682",
+    "claim_id": "CLM-000682",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 52768,
+    "line_amount": 52768
+  },
+  {
+    "claim_item_id": "ITM-000683",
+    "claim_id": "CLM-000683",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 158391,
+    "line_amount": 158391
+  },
+  {
+    "claim_item_id": "ITM-000684",
+    "claim_id": "CLM-000684",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 152940,
+    "line_amount": 152940
+  },
+  {
+    "claim_item_id": "ITM-000685",
+    "claim_id": "CLM-000685",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 103864,
+    "line_amount": 103864
+  },
+  {
+    "claim_item_id": "ITM-000686",
+    "claim_id": "CLM-000686",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 63834,
+    "line_amount": 63834
+  },
+  {
+    "claim_item_id": "ITM-000687",
+    "claim_id": "CLM-000687",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 188036,
+    "line_amount": 188036
+  },
+  {
+    "claim_item_id": "ITM-000688",
+    "claim_id": "CLM-000688",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 86647,
+    "line_amount": 86647
+  },
+  {
+    "claim_item_id": "ITM-000689",
+    "claim_id": "CLM-000689",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 64090,
+    "line_amount": 64090
+  },
+  {
+    "claim_item_id": "ITM-000690",
+    "claim_id": "CLM-000690",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 185912,
+    "line_amount": 185912
+  },
+  {
+    "claim_item_id": "ITM-000691",
+    "claim_id": "CLM-000691",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 181902,
+    "line_amount": 181902
+  },
+  {
+    "claim_item_id": "ITM-000692",
+    "claim_id": "CLM-000692",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 185441,
+    "line_amount": 185441
+  },
+  {
+    "claim_item_id": "ITM-000693",
+    "claim_id": "CLM-000693",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 28473,
+    "line_amount": 28473
+  },
+  {
+    "claim_item_id": "ITM-000694",
+    "claim_id": "CLM-000694",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 148195,
+    "line_amount": 148195
+  },
+  {
+    "claim_item_id": "ITM-000695",
+    "claim_id": "CLM-000695",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 103887,
+    "line_amount": 103887
+  },
+  {
+    "claim_item_id": "ITM-000696",
+    "claim_id": "CLM-000696",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 192225,
+    "line_amount": 192225
+  },
+  {
+    "claim_item_id": "ITM-000697",
+    "claim_id": "CLM-000697",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 135717,
+    "line_amount": 135717
+  },
+  {
+    "claim_item_id": "ITM-000698",
+    "claim_id": "CLM-000698",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 142714,
+    "line_amount": 142714
+  },
+  {
+    "claim_item_id": "ITM-000699",
+    "claim_id": "CLM-000699",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 72517,
+    "line_amount": 72517
+  },
+  {
+    "claim_item_id": "ITM-000700",
+    "claim_id": "CLM-000700",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 61758,
+    "line_amount": 61758
+  },
+  {
+    "claim_item_id": "ITM-000701",
+    "claim_id": "CLM-000701",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 34453,
+    "line_amount": 34453
+  },
+  {
+    "claim_item_id": "ITM-000702",
+    "claim_id": "CLM-000702",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 19602,
+    "line_amount": 19602
+  },
+  {
+    "claim_item_id": "ITM-000703",
+    "claim_id": "CLM-000703",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 190857,
+    "line_amount": 190857
+  },
+  {
+    "claim_item_id": "ITM-000704",
+    "claim_id": "CLM-000704",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 18569,
+    "line_amount": 18569
+  },
+  {
+    "claim_item_id": "ITM-000705",
+    "claim_id": "CLM-000705",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 129481,
+    "line_amount": 129481
+  },
+  {
+    "claim_item_id": "ITM-000706",
+    "claim_id": "CLM-000706",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 189734,
+    "line_amount": 189734
+  },
+  {
+    "claim_item_id": "ITM-000707",
+    "claim_id": "CLM-000707",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 159446,
+    "line_amount": 159446
+  },
+  {
+    "claim_item_id": "ITM-000708",
+    "claim_id": "CLM-000708",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 19825,
+    "line_amount": 19825
+  },
+  {
+    "claim_item_id": "ITM-000709",
+    "claim_id": "CLM-000709",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 157716,
+    "line_amount": 157716
+  },
+  {
+    "claim_item_id": "ITM-000710",
+    "claim_id": "CLM-000710",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 114042,
+    "line_amount": 114042
+  },
+  {
+    "claim_item_id": "ITM-000711",
+    "claim_id": "CLM-000711",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 68554,
+    "line_amount": 68554
+  },
+  {
+    "claim_item_id": "ITM-000712",
+    "claim_id": "CLM-000712",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 162514,
+    "line_amount": 162514
+  },
+  {
+    "claim_item_id": "ITM-000713",
+    "claim_id": "CLM-000713",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 137205,
+    "line_amount": 137205
+  },
+  {
+    "claim_item_id": "ITM-000714",
+    "claim_id": "CLM-000714",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 18625,
+    "line_amount": 18625
+  },
+  {
+    "claim_item_id": "ITM-000715",
+    "claim_id": "CLM-000715",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 18284,
+    "line_amount": 18284
+  },
+  {
+    "claim_item_id": "ITM-000716",
+    "claim_id": "CLM-000716",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 183768,
+    "line_amount": 183768
+  },
+  {
+    "claim_item_id": "ITM-000717",
+    "claim_id": "CLM-000717",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 124249,
+    "line_amount": 124249
+  },
+  {
+    "claim_item_id": "ITM-000718",
+    "claim_id": "CLM-000718",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 177527,
+    "line_amount": 177527
+  },
+  {
+    "claim_item_id": "ITM-000719",
+    "claim_id": "CLM-000719",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 130272,
+    "line_amount": 130272
+  },
+  {
+    "claim_item_id": "ITM-000720",
+    "claim_id": "CLM-000720",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 119243,
+    "line_amount": 119243
+  },
+  {
+    "claim_item_id": "ITM-000721",
+    "claim_id": "CLM-000721",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 91638,
+    "line_amount": 91638
+  },
+  {
+    "claim_item_id": "ITM-000722",
+    "claim_id": "CLM-000722",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 34887,
+    "line_amount": 34887
+  },
+  {
+    "claim_item_id": "ITM-000723",
+    "claim_id": "CLM-000723",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 112434,
+    "line_amount": 112434
+  },
+  {
+    "claim_item_id": "ITM-000724",
+    "claim_id": "CLM-000724",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 100728,
+    "line_amount": 100728
+  },
+  {
+    "claim_item_id": "ITM-000725",
+    "claim_id": "CLM-000725",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 75856,
+    "line_amount": 75856
+  },
+  {
+    "claim_item_id": "ITM-000726",
+    "claim_id": "CLM-000726",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 187048,
+    "line_amount": 187048
+  },
+  {
+    "claim_item_id": "ITM-000727",
+    "claim_id": "CLM-000727",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 160626,
+    "line_amount": 160626
+  },
+  {
+    "claim_item_id": "ITM-000728",
+    "claim_id": "CLM-000728",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 177987,
+    "line_amount": 177987
+  },
+  {
+    "claim_item_id": "ITM-000729",
+    "claim_id": "CLM-000729",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 42451,
+    "line_amount": 42451
+  },
+  {
+    "claim_item_id": "ITM-000730",
+    "claim_id": "CLM-000730",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 19624,
+    "line_amount": 19624
+  },
+  {
+    "claim_item_id": "ITM-000731",
+    "claim_id": "CLM-000731",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 188661,
+    "line_amount": 188661
+  },
+  {
+    "claim_item_id": "ITM-000732",
+    "claim_id": "CLM-000732",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 178172,
+    "line_amount": 178172
+  },
+  {
+    "claim_item_id": "ITM-000733",
+    "claim_id": "CLM-000733",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 65240,
+    "line_amount": 65240
+  },
+  {
+    "claim_item_id": "ITM-000734",
+    "claim_id": "CLM-000734",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 115256,
+    "line_amount": 115256
+  },
+  {
+    "claim_item_id": "ITM-000735",
+    "claim_id": "CLM-000735",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 33565,
+    "line_amount": 33565
+  },
+  {
+    "claim_item_id": "ITM-000736",
+    "claim_id": "CLM-000736",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 66982,
+    "line_amount": 66982
+  },
+  {
+    "claim_item_id": "ITM-000737",
+    "claim_id": "CLM-000737",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 159382,
+    "line_amount": 159382
+  },
+  {
+    "claim_item_id": "ITM-000738",
+    "claim_id": "CLM-000738",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 47713,
+    "line_amount": 47713
+  },
+  {
+    "claim_item_id": "ITM-000739",
+    "claim_id": "CLM-000739",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 139245,
+    "line_amount": 139245
+  },
+  {
+    "claim_item_id": "ITM-000740",
+    "claim_id": "CLM-000740",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 45564,
+    "line_amount": 45564
+  },
+  {
+    "claim_item_id": "ITM-000741",
+    "claim_id": "CLM-000741",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 111998,
+    "line_amount": 111998
+  },
+  {
+    "claim_item_id": "ITM-000742",
+    "claim_id": "CLM-000742",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 175204,
+    "line_amount": 175204
+  },
+  {
+    "claim_item_id": "ITM-000743",
+    "claim_id": "CLM-000743",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 55393,
+    "line_amount": 55393
+  },
+  {
+    "claim_item_id": "ITM-000744",
+    "claim_id": "CLM-000744",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 57063,
+    "line_amount": 57063
+  },
+  {
+    "claim_item_id": "ITM-000745",
+    "claim_id": "CLM-000745",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 98398,
+    "line_amount": 98398
+  },
+  {
+    "claim_item_id": "ITM-000746",
+    "claim_id": "CLM-000746",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 141850,
+    "line_amount": 141850
+  },
+  {
+    "claim_item_id": "ITM-000747",
+    "claim_id": "CLM-000747",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 131193,
+    "line_amount": 131193
+  },
+  {
+    "claim_item_id": "ITM-000748",
+    "claim_id": "CLM-000748",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 114121,
+    "line_amount": 114121
+  },
+  {
+    "claim_item_id": "ITM-000749",
+    "claim_id": "CLM-000749",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 38003,
+    "line_amount": 38003
+  },
+  {
+    "claim_item_id": "ITM-000750",
+    "claim_id": "CLM-000750",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 23218,
+    "line_amount": 23218
+  },
+  {
+    "claim_item_id": "ITM-000751",
+    "claim_id": "CLM-000751",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 52334,
+    "line_amount": 52334
+  },
+  {
+    "claim_item_id": "ITM-000752",
+    "claim_id": "CLM-000752",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 48658,
+    "line_amount": 48658
+  },
+  {
+    "claim_item_id": "ITM-000753",
+    "claim_id": "CLM-000753",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 42255,
+    "line_amount": 42255
+  },
+  {
+    "claim_item_id": "ITM-000754",
+    "claim_id": "CLM-000754",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 92515,
+    "line_amount": 92515
+  },
+  {
+    "claim_item_id": "ITM-000755",
+    "claim_id": "CLM-000755",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 133170,
+    "line_amount": 133170
+  },
+  {
+    "claim_item_id": "ITM-000756",
+    "claim_id": "CLM-000756",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 190335,
+    "line_amount": 190335
+  },
+  {
+    "claim_item_id": "ITM-000757",
+    "claim_id": "CLM-000757",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 137866,
+    "line_amount": 137866
+  },
+  {
+    "claim_item_id": "ITM-000758",
+    "claim_id": "CLM-000758",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 33483,
+    "line_amount": 33483
+  },
+  {
+    "claim_item_id": "ITM-000759",
+    "claim_id": "CLM-000759",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 141126,
+    "line_amount": 141126
+  },
+  {
+    "claim_item_id": "ITM-000760",
+    "claim_id": "CLM-000760",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 72509,
+    "line_amount": 72509
+  },
+  {
+    "claim_item_id": "ITM-000761",
+    "claim_id": "CLM-000761",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 124986,
+    "line_amount": 124986
+  },
+  {
+    "claim_item_id": "ITM-000762",
+    "claim_id": "CLM-000762",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 193537,
+    "line_amount": 193537
+  },
+  {
+    "claim_item_id": "ITM-000763",
+    "claim_id": "CLM-000763",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 121053,
+    "line_amount": 121053
+  },
+  {
+    "claim_item_id": "ITM-000764",
+    "claim_id": "CLM-000764",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 15062,
+    "line_amount": 15062
+  },
+  {
+    "claim_item_id": "ITM-000765",
+    "claim_id": "CLM-000765",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 195315,
+    "line_amount": 195315
+  },
+  {
+    "claim_item_id": "ITM-000766",
+    "claim_id": "CLM-000766",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 121761,
+    "line_amount": 121761
+  },
+  {
+    "claim_item_id": "ITM-000767",
+    "claim_id": "CLM-000767",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 160540,
+    "line_amount": 160540
+  },
+  {
+    "claim_item_id": "ITM-000768",
+    "claim_id": "CLM-000768",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 106583,
+    "line_amount": 106583
+  },
+  {
+    "claim_item_id": "ITM-000769",
+    "claim_id": "CLM-000769",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 91021,
+    "line_amount": 91021
+  },
+  {
+    "claim_item_id": "ITM-000770",
+    "claim_id": "CLM-000770",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 173995,
+    "line_amount": 173995
+  },
+  {
+    "claim_item_id": "ITM-000771",
+    "claim_id": "CLM-000771",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 61262,
+    "line_amount": 61262
+  },
+  {
+    "claim_item_id": "ITM-000772",
+    "claim_id": "CLM-000772",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 82081,
+    "line_amount": 82081
+  },
+  {
+    "claim_item_id": "ITM-000773",
+    "claim_id": "CLM-000773",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 89762,
+    "line_amount": 89762
+  },
+  {
+    "claim_item_id": "ITM-000774",
+    "claim_id": "CLM-000774",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 47884,
+    "line_amount": 47884
+  },
+  {
+    "claim_item_id": "ITM-000775",
+    "claim_id": "CLM-000775",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 19179,
+    "line_amount": 19179
+  },
+  {
+    "claim_item_id": "ITM-000776",
+    "claim_id": "CLM-000776",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 62860,
+    "line_amount": 62860
+  },
+  {
+    "claim_item_id": "ITM-000777",
+    "claim_id": "CLM-000777",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 83803,
+    "line_amount": 83803
+  },
+  {
+    "claim_item_id": "ITM-000778",
+    "claim_id": "CLM-000778",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 28605,
+    "line_amount": 28605
+  },
+  {
+    "claim_item_id": "ITM-000779",
+    "claim_id": "CLM-000779",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 52348,
+    "line_amount": 52348
+  },
+  {
+    "claim_item_id": "ITM-000780",
+    "claim_id": "CLM-000780",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 92653,
+    "line_amount": 92653
+  },
+  {
+    "claim_item_id": "ITM-000781",
+    "claim_id": "CLM-000781",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 146407,
+    "line_amount": 146407
+  },
+  {
+    "claim_item_id": "ITM-000782",
+    "claim_id": "CLM-000782",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 43562,
+    "line_amount": 43562
+  },
+  {
+    "claim_item_id": "ITM-000783",
+    "claim_id": "CLM-000783",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 179361,
+    "line_amount": 179361
+  },
+  {
+    "claim_item_id": "ITM-000784",
+    "claim_id": "CLM-000784",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 44490,
+    "line_amount": 44490
+  },
+  {
+    "claim_item_id": "ITM-000785",
+    "claim_id": "CLM-000785",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 130530,
+    "line_amount": 130530
+  },
+  {
+    "claim_item_id": "ITM-000786",
+    "claim_id": "CLM-000786",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 61658,
+    "line_amount": 61658
+  },
+  {
+    "claim_item_id": "ITM-000787",
+    "claim_id": "CLM-000787",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 75983,
+    "line_amount": 75983
+  },
+  {
+    "claim_item_id": "ITM-000788",
+    "claim_id": "CLM-000788",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 121119,
+    "line_amount": 121119
+  },
+  {
+    "claim_item_id": "ITM-000789",
+    "claim_id": "CLM-000789",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 101854,
+    "line_amount": 101854
+  },
+  {
+    "claim_item_id": "ITM-000790",
+    "claim_id": "CLM-000790",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 77020,
+    "line_amount": 77020
+  },
+  {
+    "claim_item_id": "ITM-000791",
+    "claim_id": "CLM-000791",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 193780,
+    "line_amount": 193780
+  },
+  {
+    "claim_item_id": "ITM-000792",
+    "claim_id": "CLM-000792",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 109726,
+    "line_amount": 109726
+  },
+  {
+    "claim_item_id": "ITM-000793",
+    "claim_id": "CLM-000793",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 56466,
+    "line_amount": 56466
+  },
+  {
+    "claim_item_id": "ITM-000794",
+    "claim_id": "CLM-000794",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 180511,
+    "line_amount": 180511
+  },
+  {
+    "claim_item_id": "ITM-000795",
+    "claim_id": "CLM-000795",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 161428,
+    "line_amount": 161428
+  },
+  {
+    "claim_item_id": "ITM-000796",
+    "claim_id": "CLM-000796",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 180176,
+    "line_amount": 180176
+  },
+  {
+    "claim_item_id": "ITM-000797",
+    "claim_id": "CLM-000797",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 193484,
+    "line_amount": 193484
+  },
+  {
+    "claim_item_id": "ITM-000798",
+    "claim_id": "CLM-000798",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 128367,
+    "line_amount": 128367
+  },
+  {
+    "claim_item_id": "ITM-000799",
+    "claim_id": "CLM-000799",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 181121,
+    "line_amount": 181121
+  },
+  {
+    "claim_item_id": "ITM-000800",
+    "claim_id": "CLM-000800",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 30399,
+    "line_amount": 30399
+  },
+  {
+    "claim_item_id": "ITM-000801",
+    "claim_id": "CLM-000801",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 196658,
+    "line_amount": 196658
+  },
+  {
+    "claim_item_id": "ITM-000802",
+    "claim_id": "CLM-000802",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 46409,
+    "line_amount": 46409
+  },
+  {
+    "claim_item_id": "ITM-000803",
+    "claim_id": "CLM-000803",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 62601,
+    "line_amount": 62601
+  },
+  {
+    "claim_item_id": "ITM-000804",
+    "claim_id": "CLM-000804",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 36476,
+    "line_amount": 36476
+  },
+  {
+    "claim_item_id": "ITM-000805",
+    "claim_id": "CLM-000805",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 85677,
+    "line_amount": 85677
+  },
+  {
+    "claim_item_id": "ITM-000806",
+    "claim_id": "CLM-000806",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 137099,
+    "line_amount": 137099
+  },
+  {
+    "claim_item_id": "ITM-000807",
+    "claim_id": "CLM-000807",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 70094,
+    "line_amount": 70094
+  },
+  {
+    "claim_item_id": "ITM-000808",
+    "claim_id": "CLM-000808",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 129314,
+    "line_amount": 129314
+  },
+  {
+    "claim_item_id": "ITM-000809",
+    "claim_id": "CLM-000809",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 134894,
+    "line_amount": 134894
+  },
+  {
+    "claim_item_id": "ITM-000810",
+    "claim_id": "CLM-000810",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 109502,
+    "line_amount": 109502
+  },
+  {
+    "claim_item_id": "ITM-000811",
+    "claim_id": "CLM-000811",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 27702,
+    "line_amount": 27702
+  },
+  {
+    "claim_item_id": "ITM-000812",
+    "claim_id": "CLM-000812",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 33460,
+    "line_amount": 33460
+  },
+  {
+    "claim_item_id": "ITM-000813",
+    "claim_id": "CLM-000813",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 19691,
+    "line_amount": 19691
+  },
+  {
+    "claim_item_id": "ITM-000814",
+    "claim_id": "CLM-000814",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 192898,
+    "line_amount": 192898
+  },
+  {
+    "claim_item_id": "ITM-000815",
+    "claim_id": "CLM-000815",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 129243,
+    "line_amount": 129243
+  },
+  {
+    "claim_item_id": "ITM-000816",
+    "claim_id": "CLM-000816",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 187987,
+    "line_amount": 187987
+  },
+  {
+    "claim_item_id": "ITM-000817",
+    "claim_id": "CLM-000817",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 185472,
+    "line_amount": 185472
+  },
+  {
+    "claim_item_id": "ITM-000818",
+    "claim_id": "CLM-000818",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 97738,
+    "line_amount": 97738
+  },
+  {
+    "claim_item_id": "ITM-000819",
+    "claim_id": "CLM-000819",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 108030,
+    "line_amount": 108030
+  },
+  {
+    "claim_item_id": "ITM-000820",
+    "claim_id": "CLM-000820",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 34074,
+    "line_amount": 34074
+  },
+  {
+    "claim_item_id": "ITM-000821",
+    "claim_id": "CLM-000821",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 156875,
+    "line_amount": 156875
+  },
+  {
+    "claim_item_id": "ITM-000822",
+    "claim_id": "CLM-000822",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 73713,
+    "line_amount": 73713
+  },
+  {
+    "claim_item_id": "ITM-000823",
+    "claim_id": "CLM-000823",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 26633,
+    "line_amount": 26633
+  },
+  {
+    "claim_item_id": "ITM-000824",
+    "claim_id": "CLM-000824",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 178679,
+    "line_amount": 178679
+  },
+  {
+    "claim_item_id": "ITM-000825",
+    "claim_id": "CLM-000825",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 58809,
+    "line_amount": 58809
+  },
+  {
+    "claim_item_id": "ITM-000826",
+    "claim_id": "CLM-000826",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 64973,
+    "line_amount": 64973
+  },
+  {
+    "claim_item_id": "ITM-000827",
+    "claim_id": "CLM-000827",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 66906,
+    "line_amount": 66906
+  },
+  {
+    "claim_item_id": "ITM-000828",
+    "claim_id": "CLM-000828",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 111582,
+    "line_amount": 111582
+  },
+  {
+    "claim_item_id": "ITM-000829",
+    "claim_id": "CLM-000829",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 69265,
+    "line_amount": 69265
+  },
+  {
+    "claim_item_id": "ITM-000830",
+    "claim_id": "CLM-000830",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 67655,
+    "line_amount": 67655
+  },
+  {
+    "claim_item_id": "ITM-000831",
+    "claim_id": "CLM-000831",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 19551,
+    "line_amount": 19551
+  },
+  {
+    "claim_item_id": "ITM-000832",
+    "claim_id": "CLM-000832",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 81462,
+    "line_amount": 81462
+  },
+  {
+    "claim_item_id": "ITM-000833",
+    "claim_id": "CLM-000833",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 148603,
+    "line_amount": 148603
+  },
+  {
+    "claim_item_id": "ITM-000834",
+    "claim_id": "CLM-000834",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 145963,
+    "line_amount": 145963
+  },
+  {
+    "claim_item_id": "ITM-000835",
+    "claim_id": "CLM-000835",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 174430,
+    "line_amount": 174430
+  },
+  {
+    "claim_item_id": "ITM-000836",
+    "claim_id": "CLM-000836",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 148180,
+    "line_amount": 148180
+  },
+  {
+    "claim_item_id": "ITM-000837",
+    "claim_id": "CLM-000837",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 189914,
+    "line_amount": 189914
+  },
+  {
+    "claim_item_id": "ITM-000838",
+    "claim_id": "CLM-000838",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 102418,
+    "line_amount": 102418
+  },
+  {
+    "claim_item_id": "ITM-000839",
+    "claim_id": "CLM-000839",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 51678,
+    "line_amount": 51678
+  },
+  {
+    "claim_item_id": "ITM-000840",
+    "claim_id": "CLM-000840",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 60667,
+    "line_amount": 60667
+  },
+  {
+    "claim_item_id": "ITM-000841",
+    "claim_id": "CLM-000841",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 36045,
+    "line_amount": 36045
+  },
+  {
+    "claim_item_id": "ITM-000842",
+    "claim_id": "CLM-000842",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 115719,
+    "line_amount": 115719
+  },
+  {
+    "claim_item_id": "ITM-000843",
+    "claim_id": "CLM-000843",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 77722,
+    "line_amount": 77722
+  },
+  {
+    "claim_item_id": "ITM-000844",
+    "claim_id": "CLM-000844",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 37205,
+    "line_amount": 37205
+  },
+  {
+    "claim_item_id": "ITM-000845",
+    "claim_id": "CLM-000845",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 15844,
+    "line_amount": 15844
+  },
+  {
+    "claim_item_id": "ITM-000846",
+    "claim_id": "CLM-000846",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 144927,
+    "line_amount": 144927
+  },
+  {
+    "claim_item_id": "ITM-000847",
+    "claim_id": "CLM-000847",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 46636,
+    "line_amount": 46636
+  },
+  {
+    "claim_item_id": "ITM-000848",
+    "claim_id": "CLM-000848",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 65529,
+    "line_amount": 65529
+  },
+  {
+    "claim_item_id": "ITM-000849",
+    "claim_id": "CLM-000849",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 79962,
+    "line_amount": 79962
+  },
+  {
+    "claim_item_id": "ITM-000850",
+    "claim_id": "CLM-000850",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 80633,
+    "line_amount": 80633
+  },
+  {
+    "claim_item_id": "ITM-000851",
+    "claim_id": "CLM-000851",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 28117,
+    "line_amount": 28117
+  },
+  {
+    "claim_item_id": "ITM-000852",
+    "claim_id": "CLM-000852",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 97266,
+    "line_amount": 97266
+  },
+  {
+    "claim_item_id": "ITM-000853",
+    "claim_id": "CLM-000853",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 112498,
+    "line_amount": 112498
+  },
+  {
+    "claim_item_id": "ITM-000854",
+    "claim_id": "CLM-000854",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 160581,
+    "line_amount": 160581
+  },
+  {
+    "claim_item_id": "ITM-000855",
+    "claim_id": "CLM-000855",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 19216,
+    "line_amount": 19216
+  },
+  {
+    "claim_item_id": "ITM-000856",
+    "claim_id": "CLM-000856",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 148365,
+    "line_amount": 148365
+  },
+  {
+    "claim_item_id": "ITM-000857",
+    "claim_id": "CLM-000857",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 37654,
+    "line_amount": 37654
+  },
+  {
+    "claim_item_id": "ITM-000858",
+    "claim_id": "CLM-000858",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 43783,
+    "line_amount": 43783
+  },
+  {
+    "claim_item_id": "ITM-000859",
+    "claim_id": "CLM-000859",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 193783,
+    "line_amount": 193783
+  },
+  {
+    "claim_item_id": "ITM-000860",
+    "claim_id": "CLM-000860",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 199494,
+    "line_amount": 199494
+  },
+  {
+    "claim_item_id": "ITM-000861",
+    "claim_id": "CLM-000861",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 156473,
+    "line_amount": 156473
+  },
+  {
+    "claim_item_id": "ITM-000862",
+    "claim_id": "CLM-000862",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 131182,
+    "line_amount": 131182
+  },
+  {
+    "claim_item_id": "ITM-000863",
+    "claim_id": "CLM-000863",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 102203,
+    "line_amount": 102203
+  },
+  {
+    "claim_item_id": "ITM-000864",
+    "claim_id": "CLM-000864",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 144348,
+    "line_amount": 144348
+  },
+  {
+    "claim_item_id": "ITM-000865",
+    "claim_id": "CLM-000865",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 170435,
+    "line_amount": 170435
+  },
+  {
+    "claim_item_id": "ITM-000866",
+    "claim_id": "CLM-000866",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 28422,
+    "line_amount": 28422
+  },
+  {
+    "claim_item_id": "ITM-000867",
+    "claim_id": "CLM-000867",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 94575,
+    "line_amount": 94575
+  },
+  {
+    "claim_item_id": "ITM-000868",
+    "claim_id": "CLM-000868",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 133191,
+    "line_amount": 133191
+  },
+  {
+    "claim_item_id": "ITM-000869",
+    "claim_id": "CLM-000869",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 94395,
+    "line_amount": 94395
+  },
+  {
+    "claim_item_id": "ITM-000870",
+    "claim_id": "CLM-000870",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 32433,
+    "line_amount": 32433
+  },
+  {
+    "claim_item_id": "ITM-000871",
+    "claim_id": "CLM-000871",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 37354,
+    "line_amount": 37354
+  },
+  {
+    "claim_item_id": "ITM-000872",
+    "claim_id": "CLM-000872",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 76787,
+    "line_amount": 76787
+  },
+  {
+    "claim_item_id": "ITM-000873",
+    "claim_id": "CLM-000873",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 142107,
+    "line_amount": 142107
+  },
+  {
+    "claim_item_id": "ITM-000874",
+    "claim_id": "CLM-000874",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 45964,
+    "line_amount": 45964
+  },
+  {
+    "claim_item_id": "ITM-000875",
+    "claim_id": "CLM-000875",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 171522,
+    "line_amount": 171522
+  },
+  {
+    "claim_item_id": "ITM-000876",
+    "claim_id": "CLM-000876",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 84583,
+    "line_amount": 84583
+  },
+  {
+    "claim_item_id": "ITM-000877",
+    "claim_id": "CLM-000877",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 68104,
+    "line_amount": 68104
+  },
+  {
+    "claim_item_id": "ITM-000878",
+    "claim_id": "CLM-000878",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 92683,
+    "line_amount": 92683
+  },
+  {
+    "claim_item_id": "ITM-000879",
+    "claim_id": "CLM-000879",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 119592,
+    "line_amount": 119592
+  },
+  {
+    "claim_item_id": "ITM-000880",
+    "claim_id": "CLM-000880",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 149836,
+    "line_amount": 149836
+  },
+  {
+    "claim_item_id": "ITM-000881",
+    "claim_id": "CLM-000881",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 73276,
+    "line_amount": 73276
+  },
+  {
+    "claim_item_id": "ITM-000882",
+    "claim_id": "CLM-000882",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 129890,
+    "line_amount": 129890
+  },
+  {
+    "claim_item_id": "ITM-000883",
+    "claim_id": "CLM-000883",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 76420,
+    "line_amount": 76420
+  },
+  {
+    "claim_item_id": "ITM-000884",
+    "claim_id": "CLM-000884",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 153725,
+    "line_amount": 153725
+  },
+  {
+    "claim_item_id": "ITM-000885",
+    "claim_id": "CLM-000885",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 99057,
+    "line_amount": 99057
+  },
+  {
+    "claim_item_id": "ITM-000886",
+    "claim_id": "CLM-000886",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 98315,
+    "line_amount": 98315
+  },
+  {
+    "claim_item_id": "ITM-000887",
+    "claim_id": "CLM-000887",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 19339,
+    "line_amount": 19339
+  },
+  {
+    "claim_item_id": "ITM-000888",
+    "claim_id": "CLM-000888",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 85119,
+    "line_amount": 85119
+  },
+  {
+    "claim_item_id": "ITM-000889",
+    "claim_id": "CLM-000889",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 80689,
+    "line_amount": 80689
+  },
+  {
+    "claim_item_id": "ITM-000890",
+    "claim_id": "CLM-000890",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 101368,
+    "line_amount": 101368
+  },
+  {
+    "claim_item_id": "ITM-000891",
+    "claim_id": "CLM-000891",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 133390,
+    "line_amount": 133390
+  },
+  {
+    "claim_item_id": "ITM-000892",
+    "claim_id": "CLM-000892",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 164363,
+    "line_amount": 164363
+  },
+  {
+    "claim_item_id": "ITM-000893",
+    "claim_id": "CLM-000893",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 15639,
+    "line_amount": 15639
+  },
+  {
+    "claim_item_id": "ITM-000894",
+    "claim_id": "CLM-000894",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 193583,
+    "line_amount": 193583
+  },
+  {
+    "claim_item_id": "ITM-000895",
+    "claim_id": "CLM-000895",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 142822,
+    "line_amount": 142822
+  },
+  {
+    "claim_item_id": "ITM-000896",
+    "claim_id": "CLM-000896",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 132894,
+    "line_amount": 132894
+  },
+  {
+    "claim_item_id": "ITM-000897",
+    "claim_id": "CLM-000897",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 88009,
+    "line_amount": 88009
+  },
+  {
+    "claim_item_id": "ITM-000898",
+    "claim_id": "CLM-000898",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 178940,
+    "line_amount": 178940
+  },
+  {
+    "claim_item_id": "ITM-000899",
+    "claim_id": "CLM-000899",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 73172,
+    "line_amount": 73172
+  },
+  {
+    "claim_item_id": "ITM-000900",
+    "claim_id": "CLM-000900",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 91680,
+    "line_amount": 91680
+  },
+  {
+    "claim_item_id": "ITM-000901",
+    "claim_id": "CLM-000901",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 155844,
+    "line_amount": 155844
+  },
+  {
+    "claim_item_id": "ITM-000902",
+    "claim_id": "CLM-000902",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 126506,
+    "line_amount": 126506
+  },
+  {
+    "claim_item_id": "ITM-000903",
+    "claim_id": "CLM-000903",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 122369,
+    "line_amount": 122369
+  },
+  {
+    "claim_item_id": "ITM-000904",
+    "claim_id": "CLM-000904",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 63846,
+    "line_amount": 63846
+  },
+  {
+    "claim_item_id": "ITM-000905",
+    "claim_id": "CLM-000905",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 34657,
+    "line_amount": 34657
+  },
+  {
+    "claim_item_id": "ITM-000906",
+    "claim_id": "CLM-000906",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 183057,
+    "line_amount": 183057
+  },
+  {
+    "claim_item_id": "ITM-000907",
+    "claim_id": "CLM-000907",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 90701,
+    "line_amount": 90701
+  },
+  {
+    "claim_item_id": "ITM-000908",
+    "claim_id": "CLM-000908",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 103015,
+    "line_amount": 103015
+  },
+  {
+    "claim_item_id": "ITM-000909",
+    "claim_id": "CLM-000909",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 165183,
+    "line_amount": 165183
+  },
+  {
+    "claim_item_id": "ITM-000910",
+    "claim_id": "CLM-000910",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 114525,
+    "line_amount": 114525
+  },
+  {
+    "claim_item_id": "ITM-000911",
+    "claim_id": "CLM-000911",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 110596,
+    "line_amount": 110596
+  },
+  {
+    "claim_item_id": "ITM-000912",
+    "claim_id": "CLM-000912",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 166635,
+    "line_amount": 166635
+  },
+  {
+    "claim_item_id": "ITM-000913",
+    "claim_id": "CLM-000913",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 172214,
+    "line_amount": 172214
+  },
+  {
+    "claim_item_id": "ITM-000914",
+    "claim_id": "CLM-000914",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 118851,
+    "line_amount": 118851
+  },
+  {
+    "claim_item_id": "ITM-000915",
+    "claim_id": "CLM-000915",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 86737,
+    "line_amount": 86737
+  },
+  {
+    "claim_item_id": "ITM-000916",
+    "claim_id": "CLM-000916",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 20086,
+    "line_amount": 20086
+  },
+  {
+    "claim_item_id": "ITM-000917",
+    "claim_id": "CLM-000917",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 121258,
+    "line_amount": 121258
+  },
+  {
+    "claim_item_id": "ITM-000918",
+    "claim_id": "CLM-000918",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 97528,
+    "line_amount": 97528
+  },
+  {
+    "claim_item_id": "ITM-000919",
+    "claim_id": "CLM-000919",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 189049,
+    "line_amount": 189049
+  },
+  {
+    "claim_item_id": "ITM-000920",
+    "claim_id": "CLM-000920",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 117291,
+    "line_amount": 117291
+  },
+  {
+    "claim_item_id": "ITM-000921",
+    "claim_id": "CLM-000921",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 27857,
+    "line_amount": 27857
+  },
+  {
+    "claim_item_id": "ITM-000922",
+    "claim_id": "CLM-000922",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 136746,
+    "line_amount": 136746
+  },
+  {
+    "claim_item_id": "ITM-000923",
+    "claim_id": "CLM-000923",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 141286,
+    "line_amount": 141286
+  },
+  {
+    "claim_item_id": "ITM-000924",
+    "claim_id": "CLM-000924",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 65808,
+    "line_amount": 65808
+  },
+  {
+    "claim_item_id": "ITM-000925",
+    "claim_id": "CLM-000925",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 189610,
+    "line_amount": 189610
+  },
+  {
+    "claim_item_id": "ITM-000926",
+    "claim_id": "CLM-000926",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 148525,
+    "line_amount": 148525
+  },
+  {
+    "claim_item_id": "ITM-000927",
+    "claim_id": "CLM-000927",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 32528,
+    "line_amount": 32528
+  },
+  {
+    "claim_item_id": "ITM-000928",
+    "claim_id": "CLM-000928",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 198516,
+    "line_amount": 198516
+  },
+  {
+    "claim_item_id": "ITM-000929",
+    "claim_id": "CLM-000929",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 76287,
+    "line_amount": 76287
+  },
+  {
+    "claim_item_id": "ITM-000930",
+    "claim_id": "CLM-000930",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 78049,
+    "line_amount": 78049
+  },
+  {
+    "claim_item_id": "ITM-000931",
+    "claim_id": "CLM-000931",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 71020,
+    "line_amount": 71020
+  },
+  {
+    "claim_item_id": "ITM-000932",
+    "claim_id": "CLM-000932",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 164925,
+    "line_amount": 164925
+  },
+  {
+    "claim_item_id": "ITM-000933",
+    "claim_id": "CLM-000933",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 104521,
+    "line_amount": 104521
+  },
+  {
+    "claim_item_id": "ITM-000934",
+    "claim_id": "CLM-000934",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 134072,
+    "line_amount": 134072
+  },
+  {
+    "claim_item_id": "ITM-000935",
+    "claim_id": "CLM-000935",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 72189,
+    "line_amount": 72189
+  },
+  {
+    "claim_item_id": "ITM-000936",
+    "claim_id": "CLM-000936",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 187157,
+    "line_amount": 187157
+  },
+  {
+    "claim_item_id": "ITM-000937",
+    "claim_id": "CLM-000937",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 167517,
+    "line_amount": 167517
+  },
+  {
+    "claim_item_id": "ITM-000938",
+    "claim_id": "CLM-000938",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 146056,
+    "line_amount": 146056
+  },
+  {
+    "claim_item_id": "ITM-000939",
+    "claim_id": "CLM-000939",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 25003,
+    "line_amount": 25003
+  },
+  {
+    "claim_item_id": "ITM-000940",
+    "claim_id": "CLM-000940",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 170219,
+    "line_amount": 170219
+  },
+  {
+    "claim_item_id": "ITM-000941",
+    "claim_id": "CLM-000941",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 124424,
+    "line_amount": 124424
+  },
+  {
+    "claim_item_id": "ITM-000942",
+    "claim_id": "CLM-000942",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 52398,
+    "line_amount": 52398
+  },
+  {
+    "claim_item_id": "ITM-000943",
+    "claim_id": "CLM-000943",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 51556,
+    "line_amount": 51556
+  },
+  {
+    "claim_item_id": "ITM-000944",
+    "claim_id": "CLM-000944",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 22247,
+    "line_amount": 22247
+  },
+  {
+    "claim_item_id": "ITM-000945",
+    "claim_id": "CLM-000945",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 191072,
+    "line_amount": 191072
+  },
+  {
+    "claim_item_id": "ITM-000946",
+    "claim_id": "CLM-000946",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 149140,
+    "line_amount": 149140
+  },
+  {
+    "claim_item_id": "ITM-000947",
+    "claim_id": "CLM-000947",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 48870,
+    "line_amount": 48870
+  },
+  {
+    "claim_item_id": "ITM-000948",
+    "claim_id": "CLM-000948",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 38065,
+    "line_amount": 38065
+  },
+  {
+    "claim_item_id": "ITM-000949",
+    "claim_id": "CLM-000949",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 142548,
+    "line_amount": 142548
+  },
+  {
+    "claim_item_id": "ITM-000950",
+    "claim_id": "CLM-000950",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 55142,
+    "line_amount": 55142
+  },
+  {
+    "claim_item_id": "ITM-000951",
+    "claim_id": "CLM-000951",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 57890,
+    "line_amount": 57890
+  },
+  {
+    "claim_item_id": "ITM-000952",
+    "claim_id": "CLM-000952",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 36483,
+    "line_amount": 36483
+  },
+  {
+    "claim_item_id": "ITM-000953",
+    "claim_id": "CLM-000953",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 141995,
+    "line_amount": 141995
+  },
+  {
+    "claim_item_id": "ITM-000954",
+    "claim_id": "CLM-000954",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 189757,
+    "line_amount": 189757
+  },
+  {
+    "claim_item_id": "ITM-000955",
+    "claim_id": "CLM-000955",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 49536,
+    "line_amount": 49536
+  },
+  {
+    "claim_item_id": "ITM-000956",
+    "claim_id": "CLM-000956",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 147121,
+    "line_amount": 147121
+  },
+  {
+    "claim_item_id": "ITM-000957",
+    "claim_id": "CLM-000957",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 140237,
+    "line_amount": 140237
+  },
+  {
+    "claim_item_id": "ITM-000958",
+    "claim_id": "CLM-000958",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 132454,
+    "line_amount": 132454
+  },
+  {
+    "claim_item_id": "ITM-000959",
+    "claim_id": "CLM-000959",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 44596,
+    "line_amount": 44596
+  },
+  {
+    "claim_item_id": "ITM-000960",
+    "claim_id": "CLM-000960",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 111610,
+    "line_amount": 111610
+  },
+  {
+    "claim_item_id": "ITM-000961",
+    "claim_id": "CLM-000961",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 102411,
+    "line_amount": 102411
+  },
+  {
+    "claim_item_id": "ITM-000962",
+    "claim_id": "CLM-000962",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 183096,
+    "line_amount": 183096
+  },
+  {
+    "claim_item_id": "ITM-000963",
+    "claim_id": "CLM-000963",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 29906,
+    "line_amount": 29906
+  },
+  {
+    "claim_item_id": "ITM-000964",
+    "claim_id": "CLM-000964",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 119583,
+    "line_amount": 119583
+  },
+  {
+    "claim_item_id": "ITM-000965",
+    "claim_id": "CLM-000965",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 21721,
+    "line_amount": 21721
+  },
+  {
+    "claim_item_id": "ITM-000966",
+    "claim_id": "CLM-000966",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 190902,
+    "line_amount": 190902
+  },
+  {
+    "claim_item_id": "ITM-000967",
+    "claim_id": "CLM-000967",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 144174,
+    "line_amount": 144174
+  },
+  {
+    "claim_item_id": "ITM-000968",
+    "claim_id": "CLM-000968",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 117785,
+    "line_amount": 117785
+  },
+  {
+    "claim_item_id": "ITM-000969",
+    "claim_id": "CLM-000969",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 152728,
+    "line_amount": 152728
+  },
+  {
+    "claim_item_id": "ITM-000970",
+    "claim_id": "CLM-000970",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 43554,
+    "line_amount": 43554
+  },
+  {
+    "claim_item_id": "ITM-000971",
+    "claim_id": "CLM-000971",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 191769,
+    "line_amount": 191769
+  },
+  {
+    "claim_item_id": "ITM-000972",
+    "claim_id": "CLM-000972",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 181160,
+    "line_amount": 181160
+  },
+  {
+    "claim_item_id": "ITM-000973",
+    "claim_id": "CLM-000973",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 170703,
+    "line_amount": 170703
+  },
+  {
+    "claim_item_id": "ITM-000974",
+    "claim_id": "CLM-000974",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 56266,
+    "line_amount": 56266
+  },
+  {
+    "claim_item_id": "ITM-000975",
+    "claim_id": "CLM-000975",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 151571,
+    "line_amount": 151571
+  },
+  {
+    "claim_item_id": "ITM-000976",
+    "claim_id": "CLM-000976",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 50868,
+    "line_amount": 50868
+  },
+  {
+    "claim_item_id": "ITM-000977",
+    "claim_id": "CLM-000977",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 42260,
+    "line_amount": 42260
+  },
+  {
+    "claim_item_id": "ITM-000978",
+    "claim_id": "CLM-000978",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 145691,
+    "line_amount": 145691
+  },
+  {
+    "claim_item_id": "ITM-000979",
+    "claim_id": "CLM-000979",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 21973,
+    "line_amount": 21973
+  },
+  {
+    "claim_item_id": "ITM-000980",
+    "claim_id": "CLM-000980",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 71957,
+    "line_amount": 71957
+  },
+  {
+    "claim_item_id": "ITM-000981",
+    "claim_id": "CLM-000981",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 49690,
+    "line_amount": 49690
+  },
+  {
+    "claim_item_id": "ITM-000982",
+    "claim_id": "CLM-000982",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 91616,
+    "line_amount": 91616
+  },
+  {
+    "claim_item_id": "ITM-000983",
+    "claim_id": "CLM-000983",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 46521,
+    "line_amount": 46521
+  },
+  {
+    "claim_item_id": "ITM-000984",
+    "claim_id": "CLM-000984",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 78100,
+    "line_amount": 78100
+  },
+  {
+    "claim_item_id": "ITM-000985",
+    "claim_id": "CLM-000985",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 93170,
+    "line_amount": 93170
+  },
+  {
+    "claim_item_id": "ITM-000986",
+    "claim_id": "CLM-000986",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 188629,
+    "line_amount": 188629
+  },
+  {
+    "claim_item_id": "ITM-000987",
+    "claim_id": "CLM-000987",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 179373,
+    "line_amount": 179373
+  },
+  {
+    "claim_item_id": "ITM-000988",
+    "claim_id": "CLM-000988",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 145994,
+    "line_amount": 145994
+  },
+  {
+    "claim_item_id": "ITM-000989",
+    "claim_id": "CLM-000989",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 187584,
+    "line_amount": 187584
+  },
+  {
+    "claim_item_id": "ITM-000990",
+    "claim_id": "CLM-000990",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 56498,
+    "line_amount": 56498
+  },
+  {
+    "claim_item_id": "ITM-000991",
+    "claim_id": "CLM-000991",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 105532,
+    "line_amount": 105532
+  },
+  {
+    "claim_item_id": "ITM-000992",
+    "claim_id": "CLM-000992",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 20049,
+    "line_amount": 20049
+  },
+  {
+    "claim_item_id": "ITM-000993",
+    "claim_id": "CLM-000993",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 190018,
+    "line_amount": 190018
+  },
+  {
+    "claim_item_id": "ITM-000994",
+    "claim_id": "CLM-000994",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 61352,
+    "line_amount": 61352
+  },
+  {
+    "claim_item_id": "ITM-000995",
+    "claim_id": "CLM-000995",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 26591,
+    "line_amount": 26591
+  },
+  {
+    "claim_item_id": "ITM-000996",
+    "claim_id": "CLM-000996",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 176474,
+    "line_amount": 176474
+  },
+  {
+    "claim_item_id": "ITM-000997",
+    "claim_id": "CLM-000997",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 91564,
+    "line_amount": 91564
+  },
+  {
+    "claim_item_id": "ITM-000998",
+    "claim_id": "CLM-000998",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 86119,
+    "line_amount": 86119
+  },
+  {
+    "claim_item_id": "ITM-000999",
+    "claim_id": "CLM-000999",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 144398,
+    "line_amount": 144398
+  },
+  {
+    "claim_item_id": "ITM-001000",
+    "claim_id": "CLM-001000",
+    "description": "Eligible expense",
+    "quantity": 1,
+    "unit_cost": 90377,
+    "line_amount": 90377
+  }
+]

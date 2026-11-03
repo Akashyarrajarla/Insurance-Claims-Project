@@ -1,0 +1,12 @@
+PRAGMA foreign_keys=ON;
+CREATE TABLE customers(customer_id TEXT PRIMARY KEY,full_name TEXT,email TEXT UNIQUE,city TEXT,created_date TEXT);
+CREATE TABLE adjusters(adjuster_id TEXT PRIMARY KEY,full_name TEXT,specialty TEXT);
+CREATE TABLE policies(policy_id TEXT PRIMARY KEY,customer_id TEXT REFERENCES customers,policy_type TEXT,start_date TEXT,end_date TEXT,status TEXT,coverage_limit INTEGER,deductible INTEGER);
+CREATE TABLE coverage(coverage_id TEXT PRIMARY KEY,policy_id TEXT REFERENCES policies,coverage_type TEXT,coverage_limit INTEGER,exclusions TEXT);
+CREATE TABLE incidents(incident_id TEXT PRIMARY KEY,policy_id TEXT REFERENCES policies,incident_date TEXT,incident_type TEXT,description TEXT);
+CREATE TABLE claims(claim_id TEXT PRIMARY KEY,policy_id TEXT REFERENCES policies,incident_id TEXT REFERENCES incidents,claim_type TEXT,submitted_date TEXT,claimed_amount INTEGER,status TEXT);
+CREATE TABLE claim_items(claim_item_id TEXT PRIMARY KEY,claim_id TEXT REFERENCES claims,description TEXT,quantity INTEGER,unit_cost INTEGER,line_amount INTEGER);
+CREATE TABLE documents(document_id TEXT PRIMARY KEY,claim_id TEXT REFERENCES claims,document_type TEXT,received_date TEXT,required INTEGER,is_present INTEGER);
+CREATE TABLE assessments(assessment_id TEXT PRIMARY KEY,claim_id TEXT REFERENCES claims,adjuster_id TEXT REFERENCES adjusters,eligible_amount INTEGER,assessment_date TEXT,decision TEXT,decision_reason TEXT);
+CREATE TABLE reserves(reserve_id TEXT PRIMARY KEY,claim_id TEXT REFERENCES claims,reserve_amount INTEGER,created_date TEXT,released INTEGER);
+CREATE TABLE settlements(settlement_id TEXT PRIMARY KEY,claim_id TEXT REFERENCES claims,approved_amount INTEGER,payment_status TEXT,payment_date TEXT);

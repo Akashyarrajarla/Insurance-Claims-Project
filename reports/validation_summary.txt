@@ -1,0 +1,24 @@
+{
+  "seed": 20261022,
+  "counts": {
+    "customers": 2000,
+    "adjusters": 30,
+    "policies": 2000,
+    "coverage": 2000,
+    "incidents": 1000,
+    "claims": 1000,
+    "claim_items": 1000,
+    "documents": 2000,
+    "assessments": 1000,
+    "reserves": 1000,
+    "settlements": 1000
+  },
+  "checks": {
+    "policy_customer_fk": true,
+    "claim_policy_fk": true,
+    "claim_incident_fk": true,
+    "unique_claim_ids": true,
+    "nonnegative_amounts": true
+  },
+  "all_checks_pass": true
+}

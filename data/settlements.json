@@ -1,0 +1,7002 @@
+[
+  {
+    "settlement_id": "SET-000001",
+    "claim_id": "CLM-000001",
+    "approved_amount": 28716,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000002",
+    "claim_id": "CLM-000002",
+    "approved_amount": 0,
+    "payment_status": "NOT_APPROVED",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000003",
+    "claim_id": "CLM-000003",
+    "approved_amount": 0,
+    "payment_status": "NOT_APPROVED",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000004",
+    "claim_id": "CLM-000004",
+    "approved_amount": 0,
+    "payment_status": "NOT_APPROVED",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000005",
+    "claim_id": "CLM-000005",
+    "approved_amount": 0,
+    "payment_status": "NOT_APPROVED",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000006",
+    "claim_id": "CLM-000006",
+    "approved_amount": 37464,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000007",
+    "claim_id": "CLM-000007",
+    "approved_amount": 62368,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000008",
+    "claim_id": "CLM-000008",
+    "approved_amount": 31040,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000009",
+    "claim_id": "CLM-000009",
+    "approved_amount": 182254,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000010",
+    "claim_id": "CLM-000010",
+    "approved_amount": 90176,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000011",
+    "claim_id": "CLM-000011",
+    "approved_amount": 20507,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000012",
+    "claim_id": "CLM-000012",
+    "approved_amount": 19628,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000013",
+    "claim_id": "CLM-000013",
+    "approved_amount": 97964,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000014",
+    "claim_id": "CLM-000014",
+    "approved_amount": 63473,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000015",
+    "claim_id": "CLM-000015",
+    "approved_amount": 149073,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000016",
+    "claim_id": "CLM-000016",
+    "approved_amount": 133864,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000017",
+    "claim_id": "CLM-000017",
+    "approved_amount": 57866,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000018",
+    "claim_id": "CLM-000018",
+    "approved_amount": 18237,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000019",
+    "claim_id": "CLM-000019",
+    "approved_amount": 126682,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000020",
+    "claim_id": "CLM-000020",
+    "approved_amount": 121803,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000021",
+    "claim_id": "CLM-000021",
+    "approved_amount": 93460,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000022",
+    "claim_id": "CLM-000022",
+    "approved_amount": 116549,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000023",
+    "claim_id": "CLM-000023",
+    "approved_amount": 73179,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000024",
+    "claim_id": "CLM-000024",
+    "approved_amount": 142838,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000025",
+    "claim_id": "CLM-000025",
+    "approved_amount": 184055,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000026",
+    "claim_id": "CLM-000026",
+    "approved_amount": 94522,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000027",
+    "claim_id": "CLM-000027",
+    "approved_amount": 34036,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000028",
+    "claim_id": "CLM-000028",
+    "approved_amount": 13626,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000029",
+    "claim_id": "CLM-000029",
+    "approved_amount": 161719,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000030",
+    "claim_id": "CLM-000030",
+    "approved_amount": 81623,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000031",
+    "claim_id": "CLM-000031",
+    "approved_amount": 55863,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000032",
+    "claim_id": "CLM-000032",
+    "approved_amount": 84929,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000033",
+    "claim_id": "CLM-000033",
+    "approved_amount": 170515,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000034",
+    "claim_id": "CLM-000034",
+    "approved_amount": 132196,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000035",
+    "claim_id": "CLM-000035",
+    "approved_amount": 36721,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000036",
+    "claim_id": "CLM-000036",
+    "approved_amount": 100612,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000037",
+    "claim_id": "CLM-000037",
+    "approved_amount": 85238,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000038",
+    "claim_id": "CLM-000038",
+    "approved_amount": 143285,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000039",
+    "claim_id": "CLM-000039",
+    "approved_amount": 98203,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000040",
+    "claim_id": "CLM-000040",
+    "approved_amount": 0,
+    "payment_status": "NOT_APPROVED",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000041",
+    "claim_id": "CLM-000041",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000042",
+    "claim_id": "CLM-000042",
+    "approved_amount": 122769,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000043",
+    "claim_id": "CLM-000043",
+    "approved_amount": 126843,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000044",
+    "claim_id": "CLM-000044",
+    "approved_amount": 151957,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000045",
+    "claim_id": "CLM-000045",
+    "approved_amount": 161300,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000046",
+    "claim_id": "CLM-000046",
+    "approved_amount": 85328,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000047",
+    "claim_id": "CLM-000047",
+    "approved_amount": 62449,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000048",
+    "claim_id": "CLM-000048",
+    "approved_amount": 69934,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000049",
+    "claim_id": "CLM-000049",
+    "approved_amount": 55488,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000050",
+    "claim_id": "CLM-000050",
+    "approved_amount": 184476,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000051",
+    "claim_id": "CLM-000051",
+    "approved_amount": 89174,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000052",
+    "claim_id": "CLM-000052",
+    "approved_amount": 191323,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000053",
+    "claim_id": "CLM-000053",
+    "approved_amount": 35113,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000054",
+    "claim_id": "CLM-000054",
+    "approved_amount": 175127,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000055",
+    "claim_id": "CLM-000055",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000056",
+    "claim_id": "CLM-000056",
+    "approved_amount": 92895,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000057",
+    "claim_id": "CLM-000057",
+    "approved_amount": 34654,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000058",
+    "claim_id": "CLM-000058",
+    "approved_amount": 118695,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000059",
+    "claim_id": "CLM-000059",
+    "approved_amount": 92207,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000060",
+    "claim_id": "CLM-000060",
+    "approved_amount": 73183,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000061",
+    "claim_id": "CLM-000061",
+    "approved_amount": 36463,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000062",
+    "claim_id": "CLM-000062",
+    "approved_amount": 22457,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000063",
+    "claim_id": "CLM-000063",
+    "approved_amount": 159607,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000064",
+    "claim_id": "CLM-000064",
+    "approved_amount": 110789,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000065",
+    "claim_id": "CLM-000065",
+    "approved_amount": 190223,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000066",
+    "claim_id": "CLM-000066",
+    "approved_amount": 184361,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000067",
+    "claim_id": "CLM-000067",
+    "approved_amount": 49153,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000068",
+    "claim_id": "CLM-000068",
+    "approved_amount": 132283,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000069",
+    "claim_id": "CLM-000069",
+    "approved_amount": 19490,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000070",
+    "claim_id": "CLM-000070",
+    "approved_amount": 91191,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000071",
+    "claim_id": "CLM-000071",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000072",
+    "claim_id": "CLM-000072",
+    "approved_amount": 172064,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000073",
+    "claim_id": "CLM-000073",
+    "approved_amount": 159456,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000074",
+    "claim_id": "CLM-000074",
+    "approved_amount": 109192,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000075",
+    "claim_id": "CLM-000075",
+    "approved_amount": 31044,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000076",
+    "claim_id": "CLM-000076",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000077",
+    "claim_id": "CLM-000077",
+    "approved_amount": 34590,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000078",
+    "claim_id": "CLM-000078",
+    "approved_amount": 94146,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000079",
+    "claim_id": "CLM-000079",
+    "approved_amount": 34176,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000080",
+    "claim_id": "CLM-000080",
+    "approved_amount": 52161,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000081",
+    "claim_id": "CLM-000081",
+    "approved_amount": 126747,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000082",
+    "claim_id": "CLM-000082",
+    "approved_amount": 85372,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000083",
+    "claim_id": "CLM-000083",
+    "approved_amount": 84518,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000084",
+    "claim_id": "CLM-000084",
+    "approved_amount": 88279,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000085",
+    "claim_id": "CLM-000085",
+    "approved_amount": 53593,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000086",
+    "claim_id": "CLM-000086",
+    "approved_amount": 67369,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000087",
+    "claim_id": "CLM-000087",
+    "approved_amount": 17275,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000088",
+    "claim_id": "CLM-000088",
+    "approved_amount": 107470,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000089",
+    "claim_id": "CLM-000089",
+    "approved_amount": 108226,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000090",
+    "claim_id": "CLM-000090",
+    "approved_amount": 154687,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000091",
+    "claim_id": "CLM-000091",
+    "approved_amount": 40659,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000092",
+    "claim_id": "CLM-000092",
+    "approved_amount": 165034,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000093",
+    "claim_id": "CLM-000093",
+    "approved_amount": 31831,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000094",
+    "claim_id": "CLM-000094",
+    "approved_amount": 102279,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000095",
+    "claim_id": "CLM-000095",
+    "approved_amount": 25953,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000096",
+    "claim_id": "CLM-000096",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000097",
+    "claim_id": "CLM-000097",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000098",
+    "claim_id": "CLM-000098",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000099",
+    "claim_id": "CLM-000099",
+    "approved_amount": 80607,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000100",
+    "claim_id": "CLM-000100",
+    "approved_amount": 151987,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000101",
+    "claim_id": "CLM-000101",
+    "approved_amount": 158914,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000102",
+    "claim_id": "CLM-000102",
+    "approved_amount": 26854,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000103",
+    "claim_id": "CLM-000103",
+    "approved_amount": 19771,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000104",
+    "claim_id": "CLM-000104",
+    "approved_amount": 169424,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000105",
+    "claim_id": "CLM-000105",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000106",
+    "claim_id": "CLM-000106",
+    "approved_amount": 6171,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000107",
+    "claim_id": "CLM-000107",
+    "approved_amount": 173958,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000108",
+    "claim_id": "CLM-000108",
+    "approved_amount": 108449,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000109",
+    "claim_id": "CLM-000109",
+    "approved_amount": 117616,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000110",
+    "claim_id": "CLM-000110",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000111",
+    "claim_id": "CLM-000111",
+    "approved_amount": 165280,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000112",
+    "claim_id": "CLM-000112",
+    "approved_amount": 97421,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000113",
+    "claim_id": "CLM-000113",
+    "approved_amount": 39724,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000114",
+    "claim_id": "CLM-000114",
+    "approved_amount": 0,
+    "payment_status": "NOT_APPROVED",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000115",
+    "claim_id": "CLM-000115",
+    "approved_amount": 13261,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000116",
+    "claim_id": "CLM-000116",
+    "approved_amount": 123820,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000117",
+    "claim_id": "CLM-000117",
+    "approved_amount": 51326,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000118",
+    "claim_id": "CLM-000118",
+    "approved_amount": 34008,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000119",
+    "claim_id": "CLM-000119",
+    "approved_amount": 172505,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000120",
+    "claim_id": "CLM-000120",
+    "approved_amount": 54086,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000121",
+    "claim_id": "CLM-000121",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000122",
+    "claim_id": "CLM-000122",
+    "approved_amount": 119598,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000123",
+    "claim_id": "CLM-000123",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000124",
+    "claim_id": "CLM-000124",
+    "approved_amount": 99783,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000125",
+    "claim_id": "CLM-000125",
+    "approved_amount": 11739,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000126",
+    "claim_id": "CLM-000126",
+    "approved_amount": 149227,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000127",
+    "claim_id": "CLM-000127",
+    "approved_amount": 43472,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000128",
+    "claim_id": "CLM-000128",
+    "approved_amount": 126653,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000129",
+    "claim_id": "CLM-000129",
+    "approved_amount": 164599,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000130",
+    "claim_id": "CLM-000130",
+    "approved_amount": 8049,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000131",
+    "claim_id": "CLM-000131",
+    "approved_amount": 121434,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000132",
+    "claim_id": "CLM-000132",
+    "approved_amount": 120720,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000133",
+    "claim_id": "CLM-000133",
+    "approved_amount": 40225,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000134",
+    "claim_id": "CLM-000134",
+    "approved_amount": 125874,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000135",
+    "claim_id": "CLM-000135",
+    "approved_amount": 118479,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000136",
+    "claim_id": "CLM-000136",
+    "approved_amount": 59038,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000137",
+    "claim_id": "CLM-000137",
+    "approved_amount": 83273,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000138",
+    "claim_id": "CLM-000138",
+    "approved_amount": 107004,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000139",
+    "claim_id": "CLM-000139",
+    "approved_amount": 17322,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000140",
+    "claim_id": "CLM-000140",
+    "approved_amount": 62858,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000141",
+    "claim_id": "CLM-000141",
+    "approved_amount": 133366,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000142",
+    "claim_id": "CLM-000142",
+    "approved_amount": 114308,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000143",
+    "claim_id": "CLM-000143",
+    "approved_amount": 95964,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000144",
+    "claim_id": "CLM-000144",
+    "approved_amount": 67563,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000145",
+    "claim_id": "CLM-000145",
+    "approved_amount": 171857,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000146",
+    "claim_id": "CLM-000146",
+    "approved_amount": 22573,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000147",
+    "claim_id": "CLM-000147",
+    "approved_amount": 9848,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000148",
+    "claim_id": "CLM-000148",
+    "approved_amount": 18782,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000149",
+    "claim_id": "CLM-000149",
+    "approved_amount": 106836,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000150",
+    "claim_id": "CLM-000150",
+    "approved_amount": 73788,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000151",
+    "claim_id": "CLM-000151",
+    "approved_amount": 124389,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000152",
+    "claim_id": "CLM-000152",
+    "approved_amount": 97547,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000153",
+    "claim_id": "CLM-000153",
+    "approved_amount": 32039,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000154",
+    "claim_id": "CLM-000154",
+    "approved_amount": 38458,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000155",
+    "claim_id": "CLM-000155",
+    "approved_amount": 173513,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000156",
+    "claim_id": "CLM-000156",
+    "approved_amount": 110272,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000157",
+    "claim_id": "CLM-000157",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000158",
+    "claim_id": "CLM-000158",
+    "approved_amount": 46752,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000159",
+    "claim_id": "CLM-000159",
+    "approved_amount": 3627,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000160",
+    "claim_id": "CLM-000160",
+    "approved_amount": 78877,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000161",
+    "claim_id": "CLM-000161",
+    "approved_amount": 30160,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000162",
+    "claim_id": "CLM-000162",
+    "approved_amount": 153946,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000163",
+    "claim_id": "CLM-000163",
+    "approved_amount": 57311,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000164",
+    "claim_id": "CLM-000164",
+    "approved_amount": 15160,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000165",
+    "claim_id": "CLM-000165",
+    "approved_amount": 61371,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000166",
+    "claim_id": "CLM-000166",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000167",
+    "claim_id": "CLM-000167",
+    "approved_amount": 62432,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000168",
+    "claim_id": "CLM-000168",
+    "approved_amount": 155893,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000169",
+    "claim_id": "CLM-000169",
+    "approved_amount": 58997,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000170",
+    "claim_id": "CLM-000170",
+    "approved_amount": 112584,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000171",
+    "claim_id": "CLM-000171",
+    "approved_amount": 61525,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000172",
+    "claim_id": "CLM-000172",
+    "approved_amount": 108450,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000173",
+    "claim_id": "CLM-000173",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000174",
+    "claim_id": "CLM-000174",
+    "approved_amount": 145426,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000175",
+    "claim_id": "CLM-000175",
+    "approved_amount": 28005,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000176",
+    "claim_id": "CLM-000176",
+    "approved_amount": 96292,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000177",
+    "claim_id": "CLM-000177",
+    "approved_amount": 184087,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000178",
+    "claim_id": "CLM-000178",
+    "approved_amount": 87590,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000179",
+    "claim_id": "CLM-000179",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000180",
+    "claim_id": "CLM-000180",
+    "approved_amount": 46641,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000181",
+    "claim_id": "CLM-000181",
+    "approved_amount": 57714,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000182",
+    "claim_id": "CLM-000182",
+    "approved_amount": 110742,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000183",
+    "claim_id": "CLM-000183",
+    "approved_amount": 136515,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000184",
+    "claim_id": "CLM-000184",
+    "approved_amount": 173674,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000185",
+    "claim_id": "CLM-000185",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000186",
+    "claim_id": "CLM-000186",
+    "approved_amount": 172144,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000187",
+    "claim_id": "CLM-000187",
+    "approved_amount": 185925,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000188",
+    "claim_id": "CLM-000188",
+    "approved_amount": 86258,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000189",
+    "claim_id": "CLM-000189",
+    "approved_amount": 19692,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000190",
+    "claim_id": "CLM-000190",
+    "approved_amount": 128859,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000191",
+    "claim_id": "CLM-000191",
+    "approved_amount": 142019,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000192",
+    "claim_id": "CLM-000192",
+    "approved_amount": 122587,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000193",
+    "claim_id": "CLM-000193",
+    "approved_amount": 18239,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000194",
+    "claim_id": "CLM-000194",
+    "approved_amount": 170640,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000195",
+    "claim_id": "CLM-000195",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000196",
+    "claim_id": "CLM-000196",
+    "approved_amount": 51619,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000197",
+    "claim_id": "CLM-000197",
+    "approved_amount": 189034,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000198",
+    "claim_id": "CLM-000198",
+    "approved_amount": 96105,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000199",
+    "claim_id": "CLM-000199",
+    "approved_amount": 0,
+    "payment_status": "NOT_APPROVED",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000200",
+    "claim_id": "CLM-000200",
+    "approved_amount": 167647,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000201",
+    "claim_id": "CLM-000201",
+    "approved_amount": 31428,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000202",
+    "claim_id": "CLM-000202",
+    "approved_amount": 9614,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000203",
+    "claim_id": "CLM-000203",
+    "approved_amount": 114084,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000204",
+    "claim_id": "CLM-000204",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000205",
+    "claim_id": "CLM-000205",
+    "approved_amount": 155535,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000206",
+    "claim_id": "CLM-000206",
+    "approved_amount": 167094,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000207",
+    "claim_id": "CLM-000207",
+    "approved_amount": 64072,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000208",
+    "claim_id": "CLM-000208",
+    "approved_amount": 21728,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000209",
+    "claim_id": "CLM-000209",
+    "approved_amount": 50167,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000210",
+    "claim_id": "CLM-000210",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000211",
+    "claim_id": "CLM-000211",
+    "approved_amount": 33234,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000212",
+    "claim_id": "CLM-000212",
+    "approved_amount": 39026,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000213",
+    "claim_id": "CLM-000213",
+    "approved_amount": 118136,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000214",
+    "claim_id": "CLM-000214",
+    "approved_amount": 6936,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000215",
+    "claim_id": "CLM-000215",
+    "approved_amount": 143322,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000216",
+    "claim_id": "CLM-000216",
+    "approved_amount": 157472,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000217",
+    "claim_id": "CLM-000217",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000218",
+    "claim_id": "CLM-000218",
+    "approved_amount": 32743,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000219",
+    "claim_id": "CLM-000219",
+    "approved_amount": 76902,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000220",
+    "claim_id": "CLM-000220",
+    "approved_amount": 31339,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000221",
+    "claim_id": "CLM-000221",
+    "approved_amount": 53019,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000222",
+    "claim_id": "CLM-000222",
+    "approved_amount": 21724,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000223",
+    "claim_id": "CLM-000223",
+    "approved_amount": 25460,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000224",
+    "claim_id": "CLM-000224",
+    "approved_amount": 126559,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000225",
+    "claim_id": "CLM-000225",
+    "approved_amount": 186336,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000226",
+    "claim_id": "CLM-000226",
+    "approved_amount": 141372,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000227",
+    "claim_id": "CLM-000227",
+    "approved_amount": 74111,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000228",
+    "claim_id": "CLM-000228",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000229",
+    "claim_id": "CLM-000229",
+    "approved_amount": 55498,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000230",
+    "claim_id": "CLM-000230",
+    "approved_amount": 183785,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000231",
+    "claim_id": "CLM-000231",
+    "approved_amount": 104100,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000232",
+    "claim_id": "CLM-000232",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000233",
+    "claim_id": "CLM-000233",
+    "approved_amount": 121702,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000234",
+    "claim_id": "CLM-000234",
+    "approved_amount": 42369,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000235",
+    "claim_id": "CLM-000235",
+    "approved_amount": 149375,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000236",
+    "claim_id": "CLM-000236",
+    "approved_amount": 181374,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000237",
+    "claim_id": "CLM-000237",
+    "approved_amount": 81001,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000238",
+    "claim_id": "CLM-000238",
+    "approved_amount": 74606,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000239",
+    "claim_id": "CLM-000239",
+    "approved_amount": 163507,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000240",
+    "claim_id": "CLM-000240",
+    "approved_amount": 181500,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000241",
+    "claim_id": "CLM-000241",
+    "approved_amount": 81984,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000242",
+    "claim_id": "CLM-000242",
+    "approved_amount": 158668,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000243",
+    "claim_id": "CLM-000243",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000244",
+    "claim_id": "CLM-000244",
+    "approved_amount": 160766,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000245",
+    "claim_id": "CLM-000245",
+    "approved_amount": 113580,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000246",
+    "claim_id": "CLM-000246",
+    "approved_amount": 23817,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000247",
+    "claim_id": "CLM-000247",
+    "approved_amount": 183503,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000248",
+    "claim_id": "CLM-000248",
+    "approved_amount": 20895,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000249",
+    "claim_id": "CLM-000249",
+    "approved_amount": 12779,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000250",
+    "claim_id": "CLM-000250",
+    "approved_amount": 82027,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000251",
+    "claim_id": "CLM-000251",
+    "approved_amount": 118728,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000252",
+    "claim_id": "CLM-000252",
+    "approved_amount": 57698,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000253",
+    "claim_id": "CLM-000253",
+    "approved_amount": 159761,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000254",
+    "claim_id": "CLM-000254",
+    "approved_amount": 78829,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000255",
+    "claim_id": "CLM-000255",
+    "approved_amount": 176352,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000256",
+    "claim_id": "CLM-000256",
+    "approved_amount": 126298,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000257",
+    "claim_id": "CLM-000257",
+    "approved_amount": 104738,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000258",
+    "claim_id": "CLM-000258",
+    "approved_amount": 80242,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000259",
+    "claim_id": "CLM-000259",
+    "approved_amount": 155080,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000260",
+    "claim_id": "CLM-000260",
+    "approved_amount": 64130,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000261",
+    "claim_id": "CLM-000261",
+    "approved_amount": 1139,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000262",
+    "claim_id": "CLM-000262",
+    "approved_amount": 190355,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000263",
+    "claim_id": "CLM-000263",
+    "approved_amount": 169462,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000264",
+    "claim_id": "CLM-000264",
+    "approved_amount": 185599,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000265",
+    "claim_id": "CLM-000265",
+    "approved_amount": 63400,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000266",
+    "claim_id": "CLM-000266",
+    "approved_amount": 194832,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000267",
+    "claim_id": "CLM-000267",
+    "approved_amount": 102534,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000268",
+    "claim_id": "CLM-000268",
+    "approved_amount": 183378,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000269",
+    "claim_id": "CLM-000269",
+    "approved_amount": 105852,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000270",
+    "claim_id": "CLM-000270",
+    "approved_amount": 14636,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000271",
+    "claim_id": "CLM-000271",
+    "approved_amount": 191910,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000272",
+    "claim_id": "CLM-000272",
+    "approved_amount": 169072,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000273",
+    "claim_id": "CLM-000273",
+    "approved_amount": 145761,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000274",
+    "claim_id": "CLM-000274",
+    "approved_amount": 171548,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000275",
+    "claim_id": "CLM-000275",
+    "approved_amount": 82425,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000276",
+    "claim_id": "CLM-000276",
+    "approved_amount": 138187,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000277",
+    "claim_id": "CLM-000277",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000278",
+    "claim_id": "CLM-000278",
+    "approved_amount": 58441,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000279",
+    "claim_id": "CLM-000279",
+    "approved_amount": 80078,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000280",
+    "claim_id": "CLM-000280",
+    "approved_amount": 36320,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000281",
+    "claim_id": "CLM-000281",
+    "approved_amount": 147232,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000282",
+    "claim_id": "CLM-000282",
+    "approved_amount": 47019,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000283",
+    "claim_id": "CLM-000283",
+    "approved_amount": 165367,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000284",
+    "claim_id": "CLM-000284",
+    "approved_amount": 115728,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000285",
+    "claim_id": "CLM-000285",
+    "approved_amount": 150832,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000286",
+    "claim_id": "CLM-000286",
+    "approved_amount": 36564,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000287",
+    "claim_id": "CLM-000287",
+    "approved_amount": 123035,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000288",
+    "claim_id": "CLM-000288",
+    "approved_amount": 20282,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000289",
+    "claim_id": "CLM-000289",
+    "approved_amount": 66885,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000290",
+    "claim_id": "CLM-000290",
+    "approved_amount": 137247,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000291",
+    "claim_id": "CLM-000291",
+    "approved_amount": 19301,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000292",
+    "claim_id": "CLM-000292",
+    "approved_amount": 0,
+    "payment_status": "NOT_APPROVED",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000293",
+    "claim_id": "CLM-000293",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000294",
+    "claim_id": "CLM-000294",
+    "approved_amount": 144199,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000295",
+    "claim_id": "CLM-000295",
+    "approved_amount": 49735,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000296",
+    "claim_id": "CLM-000296",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000297",
+    "claim_id": "CLM-000297",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000298",
+    "claim_id": "CLM-000298",
+    "approved_amount": 25763,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000299",
+    "claim_id": "CLM-000299",
+    "approved_amount": 145569,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000300",
+    "claim_id": "CLM-000300",
+    "approved_amount": 53901,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000301",
+    "claim_id": "CLM-000301",
+    "approved_amount": 71953,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000302",
+    "claim_id": "CLM-000302",
+    "approved_amount": 124579,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000303",
+    "claim_id": "CLM-000303",
+    "approved_amount": 119176,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000304",
+    "claim_id": "CLM-000304",
+    "approved_amount": 10474,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000305",
+    "claim_id": "CLM-000305",
+    "approved_amount": 97464,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000306",
+    "claim_id": "CLM-000306",
+    "approved_amount": 137920,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000307",
+    "claim_id": "CLM-000307",
+    "approved_amount": 136328,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000308",
+    "claim_id": "CLM-000308",
+    "approved_amount": 112476,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000309",
+    "claim_id": "CLM-000309",
+    "approved_amount": 169715,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000310",
+    "claim_id": "CLM-000310",
+    "approved_amount": 188172,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000311",
+    "claim_id": "CLM-000311",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000312",
+    "claim_id": "CLM-000312",
+    "approved_amount": 38340,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000313",
+    "claim_id": "CLM-000313",
+    "approved_amount": 86085,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000314",
+    "claim_id": "CLM-000314",
+    "approved_amount": 71383,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000315",
+    "claim_id": "CLM-000315",
+    "approved_amount": 6805,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000316",
+    "claim_id": "CLM-000316",
+    "approved_amount": 17655,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000317",
+    "claim_id": "CLM-000317",
+    "approved_amount": 140938,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000318",
+    "claim_id": "CLM-000318",
+    "approved_amount": 109179,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000319",
+    "claim_id": "CLM-000319",
+    "approved_amount": 41730,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000320",
+    "claim_id": "CLM-000320",
+    "approved_amount": 111645,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000321",
+    "claim_id": "CLM-000321",
+    "approved_amount": 120013,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000322",
+    "claim_id": "CLM-000322",
+    "approved_amount": 40259,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000323",
+    "claim_id": "CLM-000323",
+    "approved_amount": 94395,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000324",
+    "claim_id": "CLM-000324",
+    "approved_amount": 57889,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000325",
+    "claim_id": "CLM-000325",
+    "approved_amount": 183782,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000326",
+    "claim_id": "CLM-000326",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000327",
+    "claim_id": "CLM-000327",
+    "approved_amount": 99476,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000328",
+    "claim_id": "CLM-000328",
+    "approved_amount": 102763,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000329",
+    "claim_id": "CLM-000329",
+    "approved_amount": 62131,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000330",
+    "claim_id": "CLM-000330",
+    "approved_amount": 82743,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000331",
+    "claim_id": "CLM-000331",
+    "approved_amount": 44198,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000332",
+    "claim_id": "CLM-000332",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000333",
+    "claim_id": "CLM-000333",
+    "approved_amount": 94426,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000334",
+    "claim_id": "CLM-000334",
+    "approved_amount": 31607,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000335",
+    "claim_id": "CLM-000335",
+    "approved_amount": 22820,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000336",
+    "claim_id": "CLM-000336",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000337",
+    "claim_id": "CLM-000337",
+    "approved_amount": 83216,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000338",
+    "claim_id": "CLM-000338",
+    "approved_amount": 152175,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000339",
+    "claim_id": "CLM-000339",
+    "approved_amount": 43881,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000340",
+    "claim_id": "CLM-000340",
+    "approved_amount": 90303,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000341",
+    "claim_id": "CLM-000341",
+    "approved_amount": 3021,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000342",
+    "claim_id": "CLM-000342",
+    "approved_amount": 91351,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000343",
+    "claim_id": "CLM-000343",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000344",
+    "claim_id": "CLM-000344",
+    "approved_amount": 128751,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000345",
+    "claim_id": "CLM-000345",
+    "approved_amount": 124341,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000346",
+    "claim_id": "CLM-000346",
+    "approved_amount": 158178,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000347",
+    "claim_id": "CLM-000347",
+    "approved_amount": 97265,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000348",
+    "claim_id": "CLM-000348",
+    "approved_amount": 68815,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000349",
+    "claim_id": "CLM-000349",
+    "approved_amount": 74905,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000350",
+    "claim_id": "CLM-000350",
+    "approved_amount": 4911,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000351",
+    "claim_id": "CLM-000351",
+    "approved_amount": 11324,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000352",
+    "claim_id": "CLM-000352",
+    "approved_amount": 119384,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000353",
+    "claim_id": "CLM-000353",
+    "approved_amount": 149934,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000354",
+    "claim_id": "CLM-000354",
+    "approved_amount": 190830,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000355",
+    "claim_id": "CLM-000355",
+    "approved_amount": 57481,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000356",
+    "claim_id": "CLM-000356",
+    "approved_amount": 88641,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000357",
+    "claim_id": "CLM-000357",
+    "approved_amount": 177986,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000358",
+    "claim_id": "CLM-000358",
+    "approved_amount": 72462,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000359",
+    "claim_id": "CLM-000359",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000360",
+    "claim_id": "CLM-000360",
+    "approved_amount": 101644,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000361",
+    "claim_id": "CLM-000361",
+    "approved_amount": 78968,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000362",
+    "claim_id": "CLM-000362",
+    "approved_amount": 14546,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000363",
+    "claim_id": "CLM-000363",
+    "approved_amount": 64485,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000364",
+    "claim_id": "CLM-000364",
+    "approved_amount": 77174,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000365",
+    "claim_id": "CLM-000365",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000366",
+    "claim_id": "CLM-000366",
+    "approved_amount": 127610,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000367",
+    "claim_id": "CLM-000367",
+    "approved_amount": 21515,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000368",
+    "claim_id": "CLM-000368",
+    "approved_amount": 5495,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000369",
+    "claim_id": "CLM-000369",
+    "approved_amount": 52162,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000370",
+    "claim_id": "CLM-000370",
+    "approved_amount": 37156,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000371",
+    "claim_id": "CLM-000371",
+    "approved_amount": 143765,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000372",
+    "claim_id": "CLM-000372",
+    "approved_amount": 180238,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000373",
+    "claim_id": "CLM-000373",
+    "approved_amount": 118358,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000374",
+    "claim_id": "CLM-000374",
+    "approved_amount": 103620,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000375",
+    "claim_id": "CLM-000375",
+    "approved_amount": 144486,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000376",
+    "claim_id": "CLM-000376",
+    "approved_amount": 77599,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000377",
+    "claim_id": "CLM-000377",
+    "approved_amount": 107093,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000378",
+    "claim_id": "CLM-000378",
+    "approved_amount": 16490,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000379",
+    "claim_id": "CLM-000379",
+    "approved_amount": 83343,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000380",
+    "claim_id": "CLM-000380",
+    "approved_amount": 154976,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000381",
+    "claim_id": "CLM-000381",
+    "approved_amount": 51435,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000382",
+    "claim_id": "CLM-000382",
+    "approved_amount": 96140,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000383",
+    "claim_id": "CLM-000383",
+    "approved_amount": 22515,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000384",
+    "claim_id": "CLM-000384",
+    "approved_amount": 35449,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000385",
+    "claim_id": "CLM-000385",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000386",
+    "claim_id": "CLM-000386",
+    "approved_amount": 5733,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000387",
+    "claim_id": "CLM-000387",
+    "approved_amount": 155314,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000388",
+    "claim_id": "CLM-000388",
+    "approved_amount": 187621,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000389",
+    "claim_id": "CLM-000389",
+    "approved_amount": 62291,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000390",
+    "claim_id": "CLM-000390",
+    "approved_amount": 183975,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000391",
+    "claim_id": "CLM-000391",
+    "approved_amount": 134573,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000392",
+    "claim_id": "CLM-000392",
+    "approved_amount": 69338,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000393",
+    "claim_id": "CLM-000393",
+    "approved_amount": 149155,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000394",
+    "claim_id": "CLM-000394",
+    "approved_amount": 173858,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000395",
+    "claim_id": "CLM-000395",
+    "approved_amount": 62481,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000396",
+    "claim_id": "CLM-000396",
+    "approved_amount": 0,
+    "payment_status": "NOT_APPROVED",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000397",
+    "claim_id": "CLM-000397",
+    "approved_amount": 37282,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000398",
+    "claim_id": "CLM-000398",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000399",
+    "claim_id": "CLM-000399",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000400",
+    "claim_id": "CLM-000400",
+    "approved_amount": 80479,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000401",
+    "claim_id": "CLM-000401",
+    "approved_amount": 127179,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000402",
+    "claim_id": "CLM-000402",
+    "approved_amount": 64913,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000403",
+    "claim_id": "CLM-000403",
+    "approved_amount": 45051,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000404",
+    "claim_id": "CLM-000404",
+    "approved_amount": 163223,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000405",
+    "claim_id": "CLM-000405",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000406",
+    "claim_id": "CLM-000406",
+    "approved_amount": 43606,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000407",
+    "claim_id": "CLM-000407",
+    "approved_amount": 9529,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000408",
+    "claim_id": "CLM-000408",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000409",
+    "claim_id": "CLM-000409",
+    "approved_amount": 73940,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000410",
+    "claim_id": "CLM-000410",
+    "approved_amount": 67922,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000411",
+    "claim_id": "CLM-000411",
+    "approved_amount": 73504,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000412",
+    "claim_id": "CLM-000412",
+    "approved_amount": 159609,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000413",
+    "claim_id": "CLM-000413",
+    "approved_amount": 138481,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000414",
+    "claim_id": "CLM-000414",
+    "approved_amount": 128263,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000415",
+    "claim_id": "CLM-000415",
+    "approved_amount": 142132,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000416",
+    "claim_id": "CLM-000416",
+    "approved_amount": 188478,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000417",
+    "claim_id": "CLM-000417",
+    "approved_amount": 110005,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000418",
+    "claim_id": "CLM-000418",
+    "approved_amount": 71322,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000419",
+    "claim_id": "CLM-000419",
+    "approved_amount": 147259,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000420",
+    "claim_id": "CLM-000420",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000421",
+    "claim_id": "CLM-000421",
+    "approved_amount": 73044,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000422",
+    "claim_id": "CLM-000422",
+    "approved_amount": 189333,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000423",
+    "claim_id": "CLM-000423",
+    "approved_amount": 0,
+    "payment_status": "NOT_APPROVED",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000424",
+    "claim_id": "CLM-000424",
+    "approved_amount": 1374,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000425",
+    "claim_id": "CLM-000425",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000426",
+    "claim_id": "CLM-000426",
+    "approved_amount": 198702,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000427",
+    "claim_id": "CLM-000427",
+    "approved_amount": 153321,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000428",
+    "claim_id": "CLM-000428",
+    "approved_amount": 70348,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000429",
+    "claim_id": "CLM-000429",
+    "approved_amount": 164252,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000430",
+    "claim_id": "CLM-000430",
+    "approved_amount": 20110,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000431",
+    "claim_id": "CLM-000431",
+    "approved_amount": 7924,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000432",
+    "claim_id": "CLM-000432",
+    "approved_amount": 58328,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000433",
+    "claim_id": "CLM-000433",
+    "approved_amount": 23093,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000434",
+    "claim_id": "CLM-000434",
+    "approved_amount": 20934,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000435",
+    "claim_id": "CLM-000435",
+    "approved_amount": 18182,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000436",
+    "claim_id": "CLM-000436",
+    "approved_amount": 15595,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000437",
+    "claim_id": "CLM-000437",
+    "approved_amount": 143807,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000438",
+    "claim_id": "CLM-000438",
+    "approved_amount": 157676,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000439",
+    "claim_id": "CLM-000439",
+    "approved_amount": 89769,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000440",
+    "claim_id": "CLM-000440",
+    "approved_amount": 47569,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000441",
+    "claim_id": "CLM-000441",
+    "approved_amount": 15405,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000442",
+    "claim_id": "CLM-000442",
+    "approved_amount": 116879,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000443",
+    "claim_id": "CLM-000443",
+    "approved_amount": 30110,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000444",
+    "claim_id": "CLM-000444",
+    "approved_amount": 80366,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000445",
+    "claim_id": "CLM-000445",
+    "approved_amount": 74524,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000446",
+    "claim_id": "CLM-000446",
+    "approved_amount": 117973,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000447",
+    "claim_id": "CLM-000447",
+    "approved_amount": 162692,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000448",
+    "claim_id": "CLM-000448",
+    "approved_amount": 82382,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000449",
+    "claim_id": "CLM-000449",
+    "approved_amount": 77155,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000450",
+    "claim_id": "CLM-000450",
+    "approved_amount": 101017,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000451",
+    "claim_id": "CLM-000451",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000452",
+    "claim_id": "CLM-000452",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000453",
+    "claim_id": "CLM-000453",
+    "approved_amount": 111924,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000454",
+    "claim_id": "CLM-000454",
+    "approved_amount": 0,
+    "payment_status": "NOT_APPROVED",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000455",
+    "claim_id": "CLM-000455",
+    "approved_amount": 188444,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000456",
+    "claim_id": "CLM-000456",
+    "approved_amount": 28538,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000457",
+    "claim_id": "CLM-000457",
+    "approved_amount": 46715,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000458",
+    "claim_id": "CLM-000458",
+    "approved_amount": 13278,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000459",
+    "claim_id": "CLM-000459",
+    "approved_amount": 117047,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000460",
+    "claim_id": "CLM-000460",
+    "approved_amount": 157485,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000461",
+    "claim_id": "CLM-000461",
+    "approved_amount": 127395,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000462",
+    "claim_id": "CLM-000462",
+    "approved_amount": 137677,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000463",
+    "claim_id": "CLM-000463",
+    "approved_amount": 39709,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000464",
+    "claim_id": "CLM-000464",
+    "approved_amount": 131442,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000465",
+    "claim_id": "CLM-000465",
+    "approved_amount": 32692,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000466",
+    "claim_id": "CLM-000466",
+    "approved_amount": 34323,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000467",
+    "claim_id": "CLM-000467",
+    "approved_amount": 144777,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000468",
+    "claim_id": "CLM-000468",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000469",
+    "claim_id": "CLM-000469",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000470",
+    "claim_id": "CLM-000470",
+    "approved_amount": 42655,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000471",
+    "claim_id": "CLM-000471",
+    "approved_amount": 158109,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000472",
+    "claim_id": "CLM-000472",
+    "approved_amount": 198030,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000473",
+    "claim_id": "CLM-000473",
+    "approved_amount": 140825,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000474",
+    "claim_id": "CLM-000474",
+    "approved_amount": 18286,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000475",
+    "claim_id": "CLM-000475",
+    "approved_amount": 172792,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000476",
+    "claim_id": "CLM-000476",
+    "approved_amount": 50429,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000477",
+    "claim_id": "CLM-000477",
+    "approved_amount": 171436,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000478",
+    "claim_id": "CLM-000478",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000479",
+    "claim_id": "CLM-000479",
+    "approved_amount": 101200,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000480",
+    "claim_id": "CLM-000480",
+    "approved_amount": 187472,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000481",
+    "claim_id": "CLM-000481",
+    "approved_amount": 69528,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000482",
+    "claim_id": "CLM-000482",
+    "approved_amount": 125190,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000483",
+    "claim_id": "CLM-000483",
+    "approved_amount": 150796,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000484",
+    "claim_id": "CLM-000484",
+    "approved_amount": 152058,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000485",
+    "claim_id": "CLM-000485",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000486",
+    "claim_id": "CLM-000486",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000487",
+    "claim_id": "CLM-000487",
+    "approved_amount": 28028,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000488",
+    "claim_id": "CLM-000488",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000489",
+    "claim_id": "CLM-000489",
+    "approved_amount": 79170,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000490",
+    "claim_id": "CLM-000490",
+    "approved_amount": 166521,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000491",
+    "claim_id": "CLM-000491",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000492",
+    "claim_id": "CLM-000492",
+    "approved_amount": 48296,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000493",
+    "claim_id": "CLM-000493",
+    "approved_amount": 74218,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000494",
+    "claim_id": "CLM-000494",
+    "approved_amount": 75455,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000495",
+    "claim_id": "CLM-000495",
+    "approved_amount": 134220,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000496",
+    "claim_id": "CLM-000496",
+    "approved_amount": 137272,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000497",
+    "claim_id": "CLM-000497",
+    "approved_amount": 179643,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000498",
+    "claim_id": "CLM-000498",
+    "approved_amount": 109925,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000499",
+    "claim_id": "CLM-000499",
+    "approved_amount": 154475,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000500",
+    "claim_id": "CLM-000500",
+    "approved_amount": 111645,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000501",
+    "claim_id": "CLM-000501",
+    "approved_amount": 138953,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000502",
+    "claim_id": "CLM-000502",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000503",
+    "claim_id": "CLM-000503",
+    "approved_amount": 15317,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000504",
+    "claim_id": "CLM-000504",
+    "approved_amount": 111140,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000505",
+    "claim_id": "CLM-000505",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000506",
+    "claim_id": "CLM-000506",
+    "approved_amount": 171890,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000507",
+    "claim_id": "CLM-000507",
+    "approved_amount": 3398,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000508",
+    "claim_id": "CLM-000508",
+    "approved_amount": 57490,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000509",
+    "claim_id": "CLM-000509",
+    "approved_amount": 135361,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000510",
+    "claim_id": "CLM-000510",
+    "approved_amount": 164611,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000511",
+    "claim_id": "CLM-000511",
+    "approved_amount": 122609,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000512",
+    "claim_id": "CLM-000512",
+    "approved_amount": 98083,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000513",
+    "claim_id": "CLM-000513",
+    "approved_amount": 167698,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000514",
+    "claim_id": "CLM-000514",
+    "approved_amount": 106898,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000515",
+    "claim_id": "CLM-000515",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000516",
+    "claim_id": "CLM-000516",
+    "approved_amount": 143920,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000517",
+    "claim_id": "CLM-000517",
+    "approved_amount": 53968,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000518",
+    "claim_id": "CLM-000518",
+    "approved_amount": 30202,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000519",
+    "claim_id": "CLM-000519",
+    "approved_amount": 199642,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000520",
+    "claim_id": "CLM-000520",
+    "approved_amount": 84654,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000521",
+    "claim_id": "CLM-000521",
+    "approved_amount": 165685,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000522",
+    "claim_id": "CLM-000522",
+    "approved_amount": 52399,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000523",
+    "claim_id": "CLM-000523",
+    "approved_amount": 143335,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000524",
+    "claim_id": "CLM-000524",
+    "approved_amount": 123000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000525",
+    "claim_id": "CLM-000525",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000526",
+    "claim_id": "CLM-000526",
+    "approved_amount": 32006,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000527",
+    "claim_id": "CLM-000527",
+    "approved_amount": 156492,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000528",
+    "claim_id": "CLM-000528",
+    "approved_amount": 53258,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000529",
+    "claim_id": "CLM-000529",
+    "approved_amount": 103748,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000530",
+    "claim_id": "CLM-000530",
+    "approved_amount": 64744,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000531",
+    "claim_id": "CLM-000531",
+    "approved_amount": 138586,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000532",
+    "claim_id": "CLM-000532",
+    "approved_amount": 155544,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000533",
+    "claim_id": "CLM-000533",
+    "approved_amount": 148940,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000534",
+    "claim_id": "CLM-000534",
+    "approved_amount": 111122,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000535",
+    "claim_id": "CLM-000535",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000536",
+    "claim_id": "CLM-000536",
+    "approved_amount": 33190,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000537",
+    "claim_id": "CLM-000537",
+    "approved_amount": 6562,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000538",
+    "claim_id": "CLM-000538",
+    "approved_amount": 1304,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000539",
+    "claim_id": "CLM-000539",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000540",
+    "claim_id": "CLM-000540",
+    "approved_amount": 71168,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000541",
+    "claim_id": "CLM-000541",
+    "approved_amount": 91543,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000542",
+    "claim_id": "CLM-000542",
+    "approved_amount": 49909,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000543",
+    "claim_id": "CLM-000543",
+    "approved_amount": 129024,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000544",
+    "claim_id": "CLM-000544",
+    "approved_amount": 149026,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000545",
+    "claim_id": "CLM-000545",
+    "approved_amount": 11122,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000546",
+    "claim_id": "CLM-000546",
+    "approved_amount": 157020,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000547",
+    "claim_id": "CLM-000547",
+    "approved_amount": 159457,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000548",
+    "claim_id": "CLM-000548",
+    "approved_amount": 149306,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000549",
+    "claim_id": "CLM-000549",
+    "approved_amount": 152963,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000550",
+    "claim_id": "CLM-000550",
+    "approved_amount": 24469,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000551",
+    "claim_id": "CLM-000551",
+    "approved_amount": 26546,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000552",
+    "claim_id": "CLM-000552",
+    "approved_amount": 49530,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000553",
+    "claim_id": "CLM-000553",
+    "approved_amount": 141736,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000554",
+    "claim_id": "CLM-000554",
+    "approved_amount": 12900,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000555",
+    "claim_id": "CLM-000555",
+    "approved_amount": 152745,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000556",
+    "claim_id": "CLM-000556",
+    "approved_amount": 83077,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000557",
+    "claim_id": "CLM-000557",
+    "approved_amount": 133078,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000558",
+    "claim_id": "CLM-000558",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000559",
+    "claim_id": "CLM-000559",
+    "approved_amount": 22177,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000560",
+    "claim_id": "CLM-000560",
+    "approved_amount": 9158,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000561",
+    "claim_id": "CLM-000561",
+    "approved_amount": 17060,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000562",
+    "claim_id": "CLM-000562",
+    "approved_amount": 160370,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000563",
+    "claim_id": "CLM-000563",
+    "approved_amount": 55979,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000564",
+    "claim_id": "CLM-000564",
+    "approved_amount": 28445,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000565",
+    "claim_id": "CLM-000565",
+    "approved_amount": 191779,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000566",
+    "claim_id": "CLM-000566",
+    "approved_amount": 135085,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000567",
+    "claim_id": "CLM-000567",
+    "approved_amount": 27480,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000568",
+    "claim_id": "CLM-000568",
+    "approved_amount": 26836,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000569",
+    "claim_id": "CLM-000569",
+    "approved_amount": 151124,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000570",
+    "claim_id": "CLM-000570",
+    "approved_amount": 110246,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000571",
+    "claim_id": "CLM-000571",
+    "approved_amount": 47207,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000572",
+    "claim_id": "CLM-000572",
+    "approved_amount": 140708,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000573",
+    "claim_id": "CLM-000573",
+    "approved_amount": 5042,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000574",
+    "claim_id": "CLM-000574",
+    "approved_amount": 18965,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000575",
+    "claim_id": "CLM-000575",
+    "approved_amount": 24089,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000576",
+    "claim_id": "CLM-000576",
+    "approved_amount": 59222,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000577",
+    "claim_id": "CLM-000577",
+    "approved_amount": 102444,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000578",
+    "claim_id": "CLM-000578",
+    "approved_amount": 127169,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000579",
+    "claim_id": "CLM-000579",
+    "approved_amount": 47523,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000580",
+    "claim_id": "CLM-000580",
+    "approved_amount": 22856,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000581",
+    "claim_id": "CLM-000581",
+    "approved_amount": 113269,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000582",
+    "claim_id": "CLM-000582",
+    "approved_amount": 96079,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000583",
+    "claim_id": "CLM-000583",
+    "approved_amount": 66135,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000584",
+    "claim_id": "CLM-000584",
+    "approved_amount": 122841,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000585",
+    "claim_id": "CLM-000585",
+    "approved_amount": 48671,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000586",
+    "claim_id": "CLM-000586",
+    "approved_amount": 75455,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000587",
+    "claim_id": "CLM-000587",
+    "approved_amount": 19305,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000588",
+    "claim_id": "CLM-000588",
+    "approved_amount": 164564,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000589",
+    "claim_id": "CLM-000589",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000590",
+    "claim_id": "CLM-000590",
+    "approved_amount": 115401,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000591",
+    "claim_id": "CLM-000591",
+    "approved_amount": 146804,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000592",
+    "claim_id": "CLM-000592",
+    "approved_amount": 156983,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000593",
+    "claim_id": "CLM-000593",
+    "approved_amount": 85563,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000594",
+    "claim_id": "CLM-000594",
+    "approved_amount": 18459,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000595",
+    "claim_id": "CLM-000595",
+    "approved_amount": 57997,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000596",
+    "claim_id": "CLM-000596",
+    "approved_amount": 114759,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000597",
+    "claim_id": "CLM-000597",
+    "approved_amount": 102344,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000598",
+    "claim_id": "CLM-000598",
+    "approved_amount": 144960,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000599",
+    "claim_id": "CLM-000599",
+    "approved_amount": 70221,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000600",
+    "claim_id": "CLM-000600",
+    "approved_amount": 189908,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000601",
+    "claim_id": "CLM-000601",
+    "approved_amount": 147711,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000602",
+    "claim_id": "CLM-000602",
+    "approved_amount": 194891,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000603",
+    "claim_id": "CLM-000603",
+    "approved_amount": 161009,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000604",
+    "claim_id": "CLM-000604",
+    "approved_amount": 155519,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000605",
+    "claim_id": "CLM-000605",
+    "approved_amount": 16128,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000606",
+    "claim_id": "CLM-000606",
+    "approved_amount": 189884,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000607",
+    "claim_id": "CLM-000607",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000608",
+    "claim_id": "CLM-000608",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000609",
+    "claim_id": "CLM-000609",
+    "approved_amount": 78237,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000610",
+    "claim_id": "CLM-000610",
+    "approved_amount": 67318,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000611",
+    "claim_id": "CLM-000611",
+    "approved_amount": 40033,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000612",
+    "claim_id": "CLM-000612",
+    "approved_amount": 32014,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000613",
+    "claim_id": "CLM-000613",
+    "approved_amount": 25671,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000614",
+    "claim_id": "CLM-000614",
+    "approved_amount": 91800,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000615",
+    "claim_id": "CLM-000615",
+    "approved_amount": 31210,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000616",
+    "claim_id": "CLM-000616",
+    "approved_amount": 101039,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000617",
+    "claim_id": "CLM-000617",
+    "approved_amount": 187084,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000618",
+    "claim_id": "CLM-000618",
+    "approved_amount": 21538,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000619",
+    "claim_id": "CLM-000619",
+    "approved_amount": 146881,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000620",
+    "claim_id": "CLM-000620",
+    "approved_amount": 193159,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000621",
+    "claim_id": "CLM-000621",
+    "approved_amount": 45526,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000622",
+    "claim_id": "CLM-000622",
+    "approved_amount": 65111,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000623",
+    "claim_id": "CLM-000623",
+    "approved_amount": 95554,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000624",
+    "claim_id": "CLM-000624",
+    "approved_amount": 189138,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000625",
+    "claim_id": "CLM-000625",
+    "approved_amount": 85490,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000626",
+    "claim_id": "CLM-000626",
+    "approved_amount": 30537,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000627",
+    "claim_id": "CLM-000627",
+    "approved_amount": 92976,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000628",
+    "claim_id": "CLM-000628",
+    "approved_amount": 57104,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000629",
+    "claim_id": "CLM-000629",
+    "approved_amount": 174259,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000630",
+    "claim_id": "CLM-000630",
+    "approved_amount": 140373,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000631",
+    "claim_id": "CLM-000631",
+    "approved_amount": 60653,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000632",
+    "claim_id": "CLM-000632",
+    "approved_amount": 109748,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000633",
+    "claim_id": "CLM-000633",
+    "approved_amount": 188014,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000634",
+    "claim_id": "CLM-000634",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000635",
+    "claim_id": "CLM-000635",
+    "approved_amount": 75806,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000636",
+    "claim_id": "CLM-000636",
+    "approved_amount": 82048,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000637",
+    "claim_id": "CLM-000637",
+    "approved_amount": 126468,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000638",
+    "claim_id": "CLM-000638",
+    "approved_amount": 152574,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000639",
+    "claim_id": "CLM-000639",
+    "approved_amount": 192895,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000640",
+    "claim_id": "CLM-000640",
+    "approved_amount": 141675,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000641",
+    "claim_id": "CLM-000641",
+    "approved_amount": 172278,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000642",
+    "claim_id": "CLM-000642",
+    "approved_amount": 148131,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000643",
+    "claim_id": "CLM-000643",
+    "approved_amount": 142283,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000644",
+    "claim_id": "CLM-000644",
+    "approved_amount": 67268,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000645",
+    "claim_id": "CLM-000645",
+    "approved_amount": 83640,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000646",
+    "claim_id": "CLM-000646",
+    "approved_amount": 122459,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000647",
+    "claim_id": "CLM-000647",
+    "approved_amount": 146894,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000648",
+    "claim_id": "CLM-000648",
+    "approved_amount": 50953,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000649",
+    "claim_id": "CLM-000649",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000650",
+    "claim_id": "CLM-000650",
+    "approved_amount": 33776,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000651",
+    "claim_id": "CLM-000651",
+    "approved_amount": 164024,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000652",
+    "claim_id": "CLM-000652",
+    "approved_amount": 62177,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000653",
+    "claim_id": "CLM-000653",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000654",
+    "claim_id": "CLM-000654",
+    "approved_amount": 79965,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000655",
+    "claim_id": "CLM-000655",
+    "approved_amount": 37157,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000656",
+    "claim_id": "CLM-000656",
+    "approved_amount": 107501,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000657",
+    "claim_id": "CLM-000657",
+    "approved_amount": 26232,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000658",
+    "claim_id": "CLM-000658",
+    "approved_amount": 59142,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000659",
+    "claim_id": "CLM-000659",
+    "approved_amount": 20809,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000660",
+    "claim_id": "CLM-000660",
+    "approved_amount": 120719,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000661",
+    "claim_id": "CLM-000661",
+    "approved_amount": 113505,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000662",
+    "claim_id": "CLM-000662",
+    "approved_amount": 109463,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000663",
+    "claim_id": "CLM-000663",
+    "approved_amount": 13168,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000664",
+    "claim_id": "CLM-000664",
+    "approved_amount": 109628,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000665",
+    "claim_id": "CLM-000665",
+    "approved_amount": 40118,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000666",
+    "claim_id": "CLM-000666",
+    "approved_amount": 130958,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000667",
+    "claim_id": "CLM-000667",
+    "approved_amount": 29810,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000668",
+    "claim_id": "CLM-000668",
+    "approved_amount": 49326,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000669",
+    "claim_id": "CLM-000669",
+    "approved_amount": 185585,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000670",
+    "claim_id": "CLM-000670",
+    "approved_amount": 35999,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000671",
+    "claim_id": "CLM-000671",
+    "approved_amount": 143781,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000672",
+    "claim_id": "CLM-000672",
+    "approved_amount": 58275,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000673",
+    "claim_id": "CLM-000673",
+    "approved_amount": 14195,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000674",
+    "claim_id": "CLM-000674",
+    "approved_amount": 131554,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000675",
+    "claim_id": "CLM-000675",
+    "approved_amount": 23641,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000676",
+    "claim_id": "CLM-000676",
+    "approved_amount": 33433,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000677",
+    "claim_id": "CLM-000677",
+    "approved_amount": 62243,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000678",
+    "claim_id": "CLM-000678",
+    "approved_amount": 80464,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000679",
+    "claim_id": "CLM-000679",
+    "approved_amount": 60710,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000680",
+    "claim_id": "CLM-000680",
+    "approved_amount": 116161,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000681",
+    "claim_id": "CLM-000681",
+    "approved_amount": 89870,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000682",
+    "claim_id": "CLM-000682",
+    "approved_amount": 47768,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000683",
+    "claim_id": "CLM-000683",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000684",
+    "claim_id": "CLM-000684",
+    "approved_amount": 152940,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000685",
+    "claim_id": "CLM-000685",
+    "approved_amount": 103864,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000686",
+    "claim_id": "CLM-000686",
+    "approved_amount": 63834,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000687",
+    "claim_id": "CLM-000687",
+    "approved_amount": 188036,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000688",
+    "claim_id": "CLM-000688",
+    "approved_amount": 76647,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000689",
+    "claim_id": "CLM-000689",
+    "approved_amount": 59090,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000690",
+    "claim_id": "CLM-000690",
+    "approved_amount": 185912,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000691",
+    "claim_id": "CLM-000691",
+    "approved_amount": 176902,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000692",
+    "claim_id": "CLM-000692",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000693",
+    "claim_id": "CLM-000693",
+    "approved_amount": 23473,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000694",
+    "claim_id": "CLM-000694",
+    "approved_amount": 138195,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000695",
+    "claim_id": "CLM-000695",
+    "approved_amount": 93887,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000696",
+    "claim_id": "CLM-000696",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000697",
+    "claim_id": "CLM-000697",
+    "approved_amount": 110717,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000698",
+    "claim_id": "CLM-000698",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000699",
+    "claim_id": "CLM-000699",
+    "approved_amount": 62517,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000700",
+    "claim_id": "CLM-000700",
+    "approved_amount": 56758,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000701",
+    "claim_id": "CLM-000701",
+    "approved_amount": 34453,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000702",
+    "claim_id": "CLM-000702",
+    "approved_amount": 14602,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000703",
+    "claim_id": "CLM-000703",
+    "approved_amount": 190857,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000704",
+    "claim_id": "CLM-000704",
+    "approved_amount": 18569,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000705",
+    "claim_id": "CLM-000705",
+    "approved_amount": 124481,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000706",
+    "claim_id": "CLM-000706",
+    "approved_amount": 184734,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000707",
+    "claim_id": "CLM-000707",
+    "approved_amount": 159446,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000708",
+    "claim_id": "CLM-000708",
+    "approved_amount": 14825,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000709",
+    "claim_id": "CLM-000709",
+    "approved_amount": 132716,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000710",
+    "claim_id": "CLM-000710",
+    "approved_amount": 89042,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000711",
+    "claim_id": "CLM-000711",
+    "approved_amount": 43554,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000712",
+    "claim_id": "CLM-000712",
+    "approved_amount": 152514,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000713",
+    "claim_id": "CLM-000713",
+    "approved_amount": 137205,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000714",
+    "claim_id": "CLM-000714",
+    "approved_amount": 0,
+    "payment_status": "NOT_APPROVED",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000715",
+    "claim_id": "CLM-000715",
+    "approved_amount": 13284,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000716",
+    "claim_id": "CLM-000716",
+    "approved_amount": 158768,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000717",
+    "claim_id": "CLM-000717",
+    "approved_amount": 119249,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000718",
+    "claim_id": "CLM-000718",
+    "approved_amount": 172527,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000719",
+    "claim_id": "CLM-000719",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000720",
+    "claim_id": "CLM-000720",
+    "approved_amount": 114243,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000721",
+    "claim_id": "CLM-000721",
+    "approved_amount": 81638,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000722",
+    "claim_id": "CLM-000722",
+    "approved_amount": 29887,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000723",
+    "claim_id": "CLM-000723",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000724",
+    "claim_id": "CLM-000724",
+    "approved_amount": 90728,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000725",
+    "claim_id": "CLM-000725",
+    "approved_amount": 75856,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000726",
+    "claim_id": "CLM-000726",
+    "approved_amount": 182048,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000727",
+    "claim_id": "CLM-000727",
+    "approved_amount": 135626,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000728",
+    "claim_id": "CLM-000728",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000729",
+    "claim_id": "CLM-000729",
+    "approved_amount": 32451,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000730",
+    "claim_id": "CLM-000730",
+    "approved_amount": 14624,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000731",
+    "claim_id": "CLM-000731",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000732",
+    "claim_id": "CLM-000732",
+    "approved_amount": 168172,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000733",
+    "claim_id": "CLM-000733",
+    "approved_amount": 40240,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000734",
+    "claim_id": "CLM-000734",
+    "approved_amount": 105256,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000735",
+    "claim_id": "CLM-000735",
+    "approved_amount": 33565,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000736",
+    "claim_id": "CLM-000736",
+    "approved_amount": 66982,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000737",
+    "claim_id": "CLM-000737",
+    "approved_amount": 159382,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000738",
+    "claim_id": "CLM-000738",
+    "approved_amount": 42713,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000739",
+    "claim_id": "CLM-000739",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000740",
+    "claim_id": "CLM-000740",
+    "approved_amount": 20564,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000741",
+    "claim_id": "CLM-000741",
+    "approved_amount": 86998,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000742",
+    "claim_id": "CLM-000742",
+    "approved_amount": 175204,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000743",
+    "claim_id": "CLM-000743",
+    "approved_amount": 50393,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000744",
+    "claim_id": "CLM-000744",
+    "approved_amount": 47063,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000745",
+    "claim_id": "CLM-000745",
+    "approved_amount": 93398,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000746",
+    "claim_id": "CLM-000746",
+    "approved_amount": 141850,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000747",
+    "claim_id": "CLM-000747",
+    "approved_amount": 121193,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000748",
+    "claim_id": "CLM-000748",
+    "approved_amount": 89121,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000749",
+    "claim_id": "CLM-000749",
+    "approved_amount": 28003,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000750",
+    "claim_id": "CLM-000750",
+    "approved_amount": 13218,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000751",
+    "claim_id": "CLM-000751",
+    "approved_amount": 52334,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000752",
+    "claim_id": "CLM-000752",
+    "approved_amount": 43658,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000753",
+    "claim_id": "CLM-000753",
+    "approved_amount": 42255,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000754",
+    "claim_id": "CLM-000754",
+    "approved_amount": 67515,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000755",
+    "claim_id": "CLM-000755",
+    "approved_amount": 108170,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000756",
+    "claim_id": "CLM-000756",
+    "approved_amount": 190335,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000757",
+    "claim_id": "CLM-000757",
+    "approved_amount": 137866,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000758",
+    "claim_id": "CLM-000758",
+    "approved_amount": 28483,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000759",
+    "claim_id": "CLM-000759",
+    "approved_amount": 136126,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000760",
+    "claim_id": "CLM-000760",
+    "approved_amount": 62509,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000761",
+    "claim_id": "CLM-000761",
+    "approved_amount": 124986,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000762",
+    "claim_id": "CLM-000762",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000763",
+    "claim_id": "CLM-000763",
+    "approved_amount": 121053,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000764",
+    "claim_id": "CLM-000764",
+    "approved_amount": 10062,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000765",
+    "claim_id": "CLM-000765",
+    "approved_amount": 190315,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000766",
+    "claim_id": "CLM-000766",
+    "approved_amount": 96761,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000767",
+    "claim_id": "CLM-000767",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000768",
+    "claim_id": "CLM-000768",
+    "approved_amount": 96583,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000769",
+    "claim_id": "CLM-000769",
+    "approved_amount": 66021,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000770",
+    "claim_id": "CLM-000770",
+    "approved_amount": 173995,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000771",
+    "claim_id": "CLM-000771",
+    "approved_amount": 56262,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000772",
+    "claim_id": "CLM-000772",
+    "approved_amount": 82081,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000773",
+    "claim_id": "CLM-000773",
+    "approved_amount": 89762,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000774",
+    "claim_id": "CLM-000774",
+    "approved_amount": 42884,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000775",
+    "claim_id": "CLM-000775",
+    "approved_amount": 9179,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000776",
+    "claim_id": "CLM-000776",
+    "approved_amount": 57860,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000777",
+    "claim_id": "CLM-000777",
+    "approved_amount": 73803,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000778",
+    "claim_id": "CLM-000778",
+    "approved_amount": 23605,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000779",
+    "claim_id": "CLM-000779",
+    "approved_amount": 52348,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000780",
+    "claim_id": "CLM-000780",
+    "approved_amount": 92653,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000781",
+    "claim_id": "CLM-000781",
+    "approved_amount": 136407,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000782",
+    "claim_id": "CLM-000782",
+    "approved_amount": 18562,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000783",
+    "claim_id": "CLM-000783",
+    "approved_amount": 174361,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000784",
+    "claim_id": "CLM-000784",
+    "approved_amount": 19490,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000785",
+    "claim_id": "CLM-000785",
+    "approved_amount": 120530,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000786",
+    "claim_id": "CLM-000786",
+    "approved_amount": 61658,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000787",
+    "claim_id": "CLM-000787",
+    "approved_amount": 50983,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000788",
+    "claim_id": "CLM-000788",
+    "approved_amount": 111119,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000789",
+    "claim_id": "CLM-000789",
+    "approved_amount": 96854,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000790",
+    "claim_id": "CLM-000790",
+    "approved_amount": 72020,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000791",
+    "claim_id": "CLM-000791",
+    "approved_amount": 183780,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000792",
+    "claim_id": "CLM-000792",
+    "approved_amount": 84726,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000793",
+    "claim_id": "CLM-000793",
+    "approved_amount": 51466,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000794",
+    "claim_id": "CLM-000794",
+    "approved_amount": 175511,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000795",
+    "claim_id": "CLM-000795",
+    "approved_amount": 136428,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000796",
+    "claim_id": "CLM-000796",
+    "approved_amount": 175176,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000797",
+    "claim_id": "CLM-000797",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000798",
+    "claim_id": "CLM-000798",
+    "approved_amount": 128367,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000799",
+    "claim_id": "CLM-000799",
+    "approved_amount": 156121,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000800",
+    "claim_id": "CLM-000800",
+    "approved_amount": 5399,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000801",
+    "claim_id": "CLM-000801",
+    "approved_amount": 171658,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000802",
+    "claim_id": "CLM-000802",
+    "approved_amount": 41409,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000803",
+    "claim_id": "CLM-000803",
+    "approved_amount": 52601,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000804",
+    "claim_id": "CLM-000804",
+    "approved_amount": 11476,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000805",
+    "claim_id": "CLM-000805",
+    "approved_amount": 85677,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000806",
+    "claim_id": "CLM-000806",
+    "approved_amount": 127099,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000807",
+    "claim_id": "CLM-000807",
+    "approved_amount": 60094,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000808",
+    "claim_id": "CLM-000808",
+    "approved_amount": 104314,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000809",
+    "claim_id": "CLM-000809",
+    "approved_amount": 124894,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000810",
+    "claim_id": "CLM-000810",
+    "approved_amount": 104502,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000811",
+    "claim_id": "CLM-000811",
+    "approved_amount": 27702,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000812",
+    "claim_id": "CLM-000812",
+    "approved_amount": 28460,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000813",
+    "claim_id": "CLM-000813",
+    "approved_amount": 19691,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000814",
+    "claim_id": "CLM-000814",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000815",
+    "claim_id": "CLM-000815",
+    "approved_amount": 104243,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000816",
+    "claim_id": "CLM-000816",
+    "approved_amount": 177987,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000817",
+    "claim_id": "CLM-000817",
+    "approved_amount": 160472,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000818",
+    "claim_id": "CLM-000818",
+    "approved_amount": 72738,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000819",
+    "claim_id": "CLM-000819",
+    "approved_amount": 103030,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000820",
+    "claim_id": "CLM-000820",
+    "approved_amount": 9074,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000821",
+    "claim_id": "CLM-000821",
+    "approved_amount": 151875,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000822",
+    "claim_id": "CLM-000822",
+    "approved_amount": 63713,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000823",
+    "claim_id": "CLM-000823",
+    "approved_amount": 16633,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000824",
+    "claim_id": "CLM-000824",
+    "approved_amount": 173679,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000825",
+    "claim_id": "CLM-000825",
+    "approved_amount": 48809,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000826",
+    "claim_id": "CLM-000826",
+    "approved_amount": 59973,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000827",
+    "claim_id": "CLM-000827",
+    "approved_amount": 41906,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000828",
+    "claim_id": "CLM-000828",
+    "approved_amount": 111582,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000829",
+    "claim_id": "CLM-000829",
+    "approved_amount": 69265,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000830",
+    "claim_id": "CLM-000830",
+    "approved_amount": 62655,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000831",
+    "claim_id": "CLM-000831",
+    "approved_amount": 9551,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000832",
+    "claim_id": "CLM-000832",
+    "approved_amount": 71462,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000833",
+    "claim_id": "CLM-000833",
+    "approved_amount": 148603,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000834",
+    "claim_id": "CLM-000834",
+    "approved_amount": 135963,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000835",
+    "claim_id": "CLM-000835",
+    "approved_amount": 169430,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000836",
+    "claim_id": "CLM-000836",
+    "approved_amount": 143180,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000837",
+    "claim_id": "CLM-000837",
+    "approved_amount": 179914,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000838",
+    "claim_id": "CLM-000838",
+    "approved_amount": 97418,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000839",
+    "claim_id": "CLM-000839",
+    "approved_amount": 41678,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000840",
+    "claim_id": "CLM-000840",
+    "approved_amount": 50667,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000841",
+    "claim_id": "CLM-000841",
+    "approved_amount": 11045,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000842",
+    "claim_id": "CLM-000842",
+    "approved_amount": 110719,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000843",
+    "claim_id": "CLM-000843",
+    "approved_amount": 52722,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000844",
+    "claim_id": "CLM-000844",
+    "approved_amount": 27205,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000845",
+    "claim_id": "CLM-000845",
+    "approved_amount": 10844,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000846",
+    "claim_id": "CLM-000846",
+    "approved_amount": 134927,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000847",
+    "claim_id": "CLM-000847",
+    "approved_amount": 41636,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000848",
+    "claim_id": "CLM-000848",
+    "approved_amount": 40529,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000849",
+    "claim_id": "CLM-000849",
+    "approved_amount": 74962,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000850",
+    "claim_id": "CLM-000850",
+    "approved_amount": 70633,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000851",
+    "claim_id": "CLM-000851",
+    "approved_amount": 28117,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000852",
+    "claim_id": "CLM-000852",
+    "approved_amount": 97266,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000853",
+    "claim_id": "CLM-000853",
+    "approved_amount": 107498,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000854",
+    "claim_id": "CLM-000854",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000855",
+    "claim_id": "CLM-000855",
+    "approved_amount": 19216,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000856",
+    "claim_id": "CLM-000856",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000857",
+    "claim_id": "CLM-000857",
+    "approved_amount": 12654,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000858",
+    "claim_id": "CLM-000858",
+    "approved_amount": 18783,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000859",
+    "claim_id": "CLM-000859",
+    "approved_amount": 188783,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000860",
+    "claim_id": "CLM-000860",
+    "approved_amount": 199494,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000861",
+    "claim_id": "CLM-000861",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000862",
+    "claim_id": "CLM-000862",
+    "approved_amount": 106182,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000863",
+    "claim_id": "CLM-000863",
+    "approved_amount": 97203,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000864",
+    "claim_id": "CLM-000864",
+    "approved_amount": 144348,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000865",
+    "claim_id": "CLM-000865",
+    "approved_amount": 165435,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000866",
+    "claim_id": "CLM-000866",
+    "approved_amount": 23422,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000867",
+    "claim_id": "CLM-000867",
+    "approved_amount": 84575,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000868",
+    "claim_id": "CLM-000868",
+    "approved_amount": 128191,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000869",
+    "claim_id": "CLM-000869",
+    "approved_amount": 69395,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000870",
+    "claim_id": "CLM-000870",
+    "approved_amount": 27433,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000871",
+    "claim_id": "CLM-000871",
+    "approved_amount": 27354,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000872",
+    "claim_id": "CLM-000872",
+    "approved_amount": 76787,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000873",
+    "claim_id": "CLM-000873",
+    "approved_amount": 132107,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000874",
+    "claim_id": "CLM-000874",
+    "approved_amount": 35964,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000875",
+    "claim_id": "CLM-000875",
+    "approved_amount": 166522,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000876",
+    "claim_id": "CLM-000876",
+    "approved_amount": 59583,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000877",
+    "claim_id": "CLM-000877",
+    "approved_amount": 58104,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000878",
+    "claim_id": "CLM-000878",
+    "approved_amount": 92683,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000879",
+    "claim_id": "CLM-000879",
+    "approved_amount": 109592,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000880",
+    "claim_id": "CLM-000880",
+    "approved_amount": 124836,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000881",
+    "claim_id": "CLM-000881",
+    "approved_amount": 48276,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000882",
+    "claim_id": "CLM-000882",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000883",
+    "claim_id": "CLM-000883",
+    "approved_amount": 76420,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000884",
+    "claim_id": "CLM-000884",
+    "approved_amount": 143725,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000885",
+    "claim_id": "CLM-000885",
+    "approved_amount": 94057,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000886",
+    "claim_id": "CLM-000886",
+    "approved_amount": 88315,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000887",
+    "claim_id": "CLM-000887",
+    "approved_amount": 19339,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000888",
+    "claim_id": "CLM-000888",
+    "approved_amount": 75119,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000889",
+    "claim_id": "CLM-000889",
+    "approved_amount": 80689,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000890",
+    "claim_id": "CLM-000890",
+    "approved_amount": 91368,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000891",
+    "claim_id": "CLM-000891",
+    "approved_amount": 108390,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000892",
+    "claim_id": "CLM-000892",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000893",
+    "claim_id": "CLM-000893",
+    "approved_amount": 15639,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000894",
+    "claim_id": "CLM-000894",
+    "approved_amount": 168583,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000895",
+    "claim_id": "CLM-000895",
+    "approved_amount": 142822,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000896",
+    "claim_id": "CLM-000896",
+    "approved_amount": 122894,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000897",
+    "claim_id": "CLM-000897",
+    "approved_amount": 78009,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000898",
+    "claim_id": "CLM-000898",
+    "approved_amount": 178940,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000899",
+    "claim_id": "CLM-000899",
+    "approved_amount": 63172,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000900",
+    "claim_id": "CLM-000900",
+    "approved_amount": 81680,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000901",
+    "claim_id": "CLM-000901",
+    "approved_amount": 130844,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000902",
+    "claim_id": "CLM-000902",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000903",
+    "claim_id": "CLM-000903",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000904",
+    "claim_id": "CLM-000904",
+    "approved_amount": 53846,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000905",
+    "claim_id": "CLM-000905",
+    "approved_amount": 9657,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000906",
+    "claim_id": "CLM-000906",
+    "approved_amount": 183057,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000907",
+    "claim_id": "CLM-000907",
+    "approved_amount": 85701,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000908",
+    "claim_id": "CLM-000908",
+    "approved_amount": 78015,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000909",
+    "claim_id": "CLM-000909",
+    "approved_amount": 165183,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000910",
+    "claim_id": "CLM-000910",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000911",
+    "claim_id": "CLM-000911",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000912",
+    "claim_id": "CLM-000912",
+    "approved_amount": 141635,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000913",
+    "claim_id": "CLM-000913",
+    "approved_amount": 147214,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000914",
+    "claim_id": "CLM-000914",
+    "approved_amount": 113851,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000915",
+    "claim_id": "CLM-000915",
+    "approved_amount": 81737,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000916",
+    "claim_id": "CLM-000916",
+    "approved_amount": 20086,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000917",
+    "claim_id": "CLM-000917",
+    "approved_amount": 121258,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000918",
+    "claim_id": "CLM-000918",
+    "approved_amount": 72528,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000919",
+    "claim_id": "CLM-000919",
+    "approved_amount": 184049,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000920",
+    "claim_id": "CLM-000920",
+    "approved_amount": 112291,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000921",
+    "claim_id": "CLM-000921",
+    "approved_amount": 22857,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000922",
+    "claim_id": "CLM-000922",
+    "approved_amount": 126746,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000923",
+    "claim_id": "CLM-000923",
+    "approved_amount": 116286,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000924",
+    "claim_id": "CLM-000924",
+    "approved_amount": 60808,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000925",
+    "claim_id": "CLM-000925",
+    "approved_amount": 189610,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000926",
+    "claim_id": "CLM-000926",
+    "approved_amount": 148525,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000927",
+    "claim_id": "CLM-000927",
+    "approved_amount": 27528,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000928",
+    "claim_id": "CLM-000928",
+    "approved_amount": 198516,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000929",
+    "claim_id": "CLM-000929",
+    "approved_amount": 51287,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000930",
+    "claim_id": "CLM-000930",
+    "approved_amount": 68049,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000931",
+    "claim_id": "CLM-000931",
+    "approved_amount": 46020,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000932",
+    "claim_id": "CLM-000932",
+    "approved_amount": 159925,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000933",
+    "claim_id": "CLM-000933",
+    "approved_amount": 104521,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000934",
+    "claim_id": "CLM-000934",
+    "approved_amount": 134072,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000935",
+    "claim_id": "CLM-000935",
+    "approved_amount": 47189,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000936",
+    "claim_id": "CLM-000936",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000937",
+    "claim_id": "CLM-000937",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000938",
+    "claim_id": "CLM-000938",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000939",
+    "claim_id": "CLM-000939",
+    "approved_amount": 15003,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000940",
+    "claim_id": "CLM-000940",
+    "approved_amount": 145219,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000941",
+    "claim_id": "CLM-000941",
+    "approved_amount": 119424,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000942",
+    "claim_id": "CLM-000942",
+    "approved_amount": 52398,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000943",
+    "claim_id": "CLM-000943",
+    "approved_amount": 26556,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000944",
+    "claim_id": "CLM-000944",
+    "approved_amount": 17247,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000945",
+    "claim_id": "CLM-000945",
+    "approved_amount": 181072,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000946",
+    "claim_id": "CLM-000946",
+    "approved_amount": 149140,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000947",
+    "claim_id": "CLM-000947",
+    "approved_amount": 43870,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000948",
+    "claim_id": "CLM-000948",
+    "approved_amount": 38065,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000949",
+    "claim_id": "CLM-000949",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000950",
+    "claim_id": "CLM-000950",
+    "approved_amount": 50142,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000951",
+    "claim_id": "CLM-000951",
+    "approved_amount": 32890,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000952",
+    "claim_id": "CLM-000952",
+    "approved_amount": 36483,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000953",
+    "claim_id": "CLM-000953",
+    "approved_amount": 131995,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000954",
+    "claim_id": "CLM-000954",
+    "approved_amount": 184757,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000955",
+    "claim_id": "CLM-000955",
+    "approved_amount": 39536,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000956",
+    "claim_id": "CLM-000956",
+    "approved_amount": 142121,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000957",
+    "claim_id": "CLM-000957",
+    "approved_amount": 135237,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000958",
+    "claim_id": "CLM-000958",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000959",
+    "claim_id": "CLM-000959",
+    "approved_amount": 19596,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000960",
+    "claim_id": "CLM-000960",
+    "approved_amount": 111610,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000961",
+    "claim_id": "CLM-000961",
+    "approved_amount": 92411,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000962",
+    "claim_id": "CLM-000962",
+    "approved_amount": 178096,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000963",
+    "claim_id": "CLM-000963",
+    "approved_amount": 29906,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000964",
+    "claim_id": "CLM-000964",
+    "approved_amount": 109583,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000965",
+    "claim_id": "CLM-000965",
+    "approved_amount": 16721,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000966",
+    "claim_id": "CLM-000966",
+    "approved_amount": 185902,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000967",
+    "claim_id": "CLM-000967",
+    "approved_amount": 144174,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000968",
+    "claim_id": "CLM-000968",
+    "approved_amount": 92785,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000969",
+    "claim_id": "CLM-000969",
+    "approved_amount": 147728,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000970",
+    "claim_id": "CLM-000970",
+    "approved_amount": 18554,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000971",
+    "claim_id": "CLM-000971",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000972",
+    "claim_id": "CLM-000972",
+    "approved_amount": 181160,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000973",
+    "claim_id": "CLM-000973",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000974",
+    "claim_id": "CLM-000974",
+    "approved_amount": 56266,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000975",
+    "claim_id": "CLM-000975",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000976",
+    "claim_id": "CLM-000976",
+    "approved_amount": 25868,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000977",
+    "claim_id": "CLM-000977",
+    "approved_amount": 37260,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000978",
+    "claim_id": "CLM-000978",
+    "approved_amount": 140691,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000979",
+    "claim_id": "CLM-000979",
+    "approved_amount": 11973,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000980",
+    "claim_id": "CLM-000980",
+    "approved_amount": 61957,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000981",
+    "claim_id": "CLM-000981",
+    "approved_amount": 24690,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000982",
+    "claim_id": "CLM-000982",
+    "approved_amount": 66616,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000983",
+    "claim_id": "CLM-000983",
+    "approved_amount": 36521,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000984",
+    "claim_id": "CLM-000984",
+    "approved_amount": 68100,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000985",
+    "claim_id": "CLM-000985",
+    "approved_amount": 83170,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000986",
+    "claim_id": "CLM-000986",
+    "approved_amount": 178629,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000987",
+    "claim_id": "CLM-000987",
+    "approved_amount": 154373,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000988",
+    "claim_id": "CLM-000988",
+    "approved_amount": 140994,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000989",
+    "claim_id": "CLM-000989",
+    "approved_amount": 162584,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000990",
+    "claim_id": "CLM-000990",
+    "approved_amount": 46498,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000991",
+    "claim_id": "CLM-000991",
+    "approved_amount": 100532,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000992",
+    "claim_id": "CLM-000992",
+    "approved_amount": 20049,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000993",
+    "claim_id": "CLM-000993",
+    "approved_amount": 185018,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000994",
+    "claim_id": "CLM-000994",
+    "approved_amount": 36352,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000995",
+    "claim_id": "CLM-000995",
+    "approved_amount": 26591,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000996",
+    "claim_id": "CLM-000996",
+    "approved_amount": 100000,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000997",
+    "claim_id": "CLM-000997",
+    "approved_amount": 81564,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000998",
+    "claim_id": "CLM-000998",
+    "approved_amount": 86119,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-000999",
+    "claim_id": "CLM-000999",
+    "approved_amount": 144398,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  },
+  {
+    "settlement_id": "SET-001000",
+    "claim_id": "CLM-001000",
+    "approved_amount": 65377,
+    "payment_status": "PENDING",
+    "payment_date": ""
+  }
+]
